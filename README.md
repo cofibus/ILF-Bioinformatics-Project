@@ -4,3 +4,5 @@ The rest of the data and scripts used for each search are in their respective di
 
 foldseek_Search is missing the resulting parsed .csv from the search results as well as the annotated one. The folder with all foldseek results (.m8 files for each query and database) is also missing. 
 These files are two big to upload from the webserver. 
+
+If any questions arise please send an email to lzr765@alumni.ku.dk
