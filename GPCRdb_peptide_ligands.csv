@@ -1,0 +1,1757 @@
+,Peptide name,Sequence,Sequence length,PDB,Chain,Receptor,Family,GPCR Class
+0,CVX15,RRXCYQKXPYRXCRGXXXX,19,3OE0,I,cxcr4_human,Chemokine receptors,Class A (Rhodopsin)
+1,JMV431,RRPYIL,6,4GRV,B,ntr1_rat,Neurotensin receptors,Class A (Rhodopsin)
+2,Glucagon model,,,4L6R,,glr_human,Glucagon receptor family,Class B1 (Secretin)
+3,neurotensin,XLYENKPRRPYIL,13,3ZEV,C,ntr1_rat,Neurotensin receptors,Class A (Rhodopsin)
+4,neurotensin,XLYENKPRRPYIL,13,4BUO,C,ntr1_rat,Neurotensin receptors,Class A (Rhodopsin)
+5,neurotensin,XLYENKPRRPYIL,13,4BV0,C,ntr1_rat,Neurotensin receptors,Class A (Rhodopsin)
+6,neurotensin,XLYENKPRRPYIL,13,4BWB,C,ntr1_rat,Neurotensin receptors,Class A (Rhodopsin)
+7,DIPP-NH2,XXFFX,5,4RWA,H,oprd_human,Opioid receptors,Class A (Rhodopsin)
+8,DIPP-NH2,XXFFXX,6,4RWD,H,oprd_human,Opioid receptors,Class A (Rhodopsin)
+9,vMIP-II,LGASWHRPDKCCLGYQKRPLPQVLLSSWYPTSQLCSKPGVIFLTKRGRQVCADKSKDWVKKLMQQLPVTA,70,4RWS,C,cxcr4_human,Chemokine receptors,Class A (Rhodopsin)
+10,CX<sub>3</sub>CL1,QHHGVTKCNITCSKMTSKIPVALLIHYQQNQASCGKRAIILETRQHRLFCADPKEQWVKDAMQHLDRQAAALTRNGGTFEKQIGEVKPRTTPAAGGMDESVVLEPEATGESSSLEPTPSSQEAQRALGTSPELPTGVTGSSGTRLPPTPKAQDGGPVGTELFRVPPVSTAATWQSSAPHQPGPSLWAEAKTSEAPSTQDPSTQASTASSPAPEENAPSEGQRVWGQGQSPRPENSLEREEMGPVPAHTDAFQDWGPGSMAHVSVVPVSSEGTPSREPVASGSWTPKAEEPIHATMDPQRLGVLITPVPDAQAATRRQAVGLLAFLGLLFCLGVAMFTYQSLQGCPRKMAGEMAEGLRYIPRSCGSNSYVLVPV,373,4XT1,B,us28_hcmva,Unclassified,Class A (Rhodopsin)
+11,CX<sub>3</sub>CL1,QHHGVTKCNITCSKMTSKIPVALLIHYQQNQASCGKRAIILETRQHRLFCADPKEQWVKDAMQHLDRQAAALTRNGGTFEKQIGEVKPRTTPAAGGMDESVVLEPEATGESSSLEPTPSSQEAQRALGTSPELPTGVTGSSGTRLPPTPKAQDGGPVGTELFRVPPVSTAATWQSSAPHQPGPSLWAEAKTSEAPSTQDPSTQASTASSPAPEENAPSEGQRVWGQGQSPRPENSLEREEMGPVPAHTDAFQDWGPGSMAHVSVVPVSSEGTPSREPVASGSWTPKAEEPIHATMDPQRLGVLITPVPDAQAATRRQAVGLLAFLGLLFCLGVAMFTYQSLQGCPRKMAGEMAEGLRYIPRSCGSNSYVLVPV,373,4XT3,B,us28_hcmva,Unclassified,Class A (Rhodopsin)
+12,neurotensin,XLYENKPRRPYIL,13,4XEE,B,ntr1_rat,Neurotensin receptors,Class A (Rhodopsin)
+13,neurotensin,XLYENKPRRPYIL,13,4XES,B,ntr1_rat,Neurotensin receptors,Class A (Rhodopsin)
+14,neurotensin,XLYENKPRRPYIL,13,5T04,B,ntr1_rat,Neurotensin receptors,Class A (Rhodopsin)
+15,AMG3054,KFRRQRPXXEHKKXXPX,17,5VBL,A,apj_human,Apelin receptors,Class A (Rhodopsin)
+16,Truncated protein agonist,XXGTXTSDXX,10,5NX2,B,glp1r_human,Glucagon receptor family,Class B1 (Secretin)
+17,NNC1702,SQGTFTSEYSKYLDSRRAQDFVKWLLNT,28,5YQZ,P,glr_human,Glucagon receptor family,Class B1 (Secretin)
+18,Exendin-P5,ELVDNAVGGDLSKQMEEEAVRLFIEWLKNGGPS,33,6B3J,P,glp1r_human,Glucagon receptor family,Class B1 (Secretin)
+19,PMX53,FXPXWR,6,6C1Q,L,c5ar1_human,Complement peptide receptors,Class A (Rhodopsin)
+20,PMX53,FXPXWR,6,6C1R,L,c5ar1_human,Complement peptide receptors,Class A (Rhodopsin)
+21,CX<sub>3</sub>CL1,QHHGVTKCNITCSKMTSKIPVALLIHYQQNQASCGKRAIILETRQHRLFCADPKEQWVKDAMQHLDRQAAALTRNGGTFEKQIGEVKPRTTPAAGGMDESVVLEPEATGESSSLEPTPSSQEAQRALGTSPELPTGVTGSSGTRLPPTPKAQDGGPVGTELFRVPPVSTAATWQSSAPHQPGPSLWAEAKTSEAPSTQDPSTQASTASSPAPEENAPSEGQRVWGQGQSPRPENSLEREEMGPVPAHTDAFQDWGPGSMAHVSVVPVSSEGTPSREPVASGSWTPKAEEPIHATMDPQRLGVLITPVPDAQAATRRQAVGLLAFLGLLFCLGVAMFTYQSLQGCPRKMAGEMAEGLRYIPRSCGSNSYVLVPV,373,5WB2,B,q80km9_hcmv,Unclassified,Class A (Rhodopsin)
+22,DAMGO,YAGFG,5,6DDE,D,oprm_mouse,Opioid receptors,Class A (Rhodopsin)
+23,DAMGO,YAGFG,5,6DDF,D,oprm_mouse,Opioid receptors,Class A (Rhodopsin)
+24,Calcitonin gene-related peptide 1,ACDTATCVTHRLAGLLSRSGGVVFVPTNVGSKAFX,35,6E3Y,P,calrl_human,Calcitonin receptors,Class B1 (Secretin)
+25,ePTH,XVXEIQLMHQXAKWLNSXERVEWLRKKLQDVHNYXXXXXXXXX,43,6FJ3,B,pth1r_human,Parathyroid hormone receptors,Class B1 (Secretin)
+26,endothelin-3,CTCFTYKDKECVYYCHLDIIW,21,6IGK,B,ednrb_human,Endothelin receptors,Class A (Rhodopsin)
+27,sovateltide,DEEAVYFAHLDIIW,14,6IGL,B,ednrb_human,Endothelin receptors,Class A (Rhodopsin)
+28,Long-acting parathyroid hormone analog,AVAEIQLMHQRAKWIQDARRRAFLHKLIAEIH,32,6NBF,P,pth1r_human,Parathyroid hormone receptors,Class B1 (Secretin)
+29,Long-acting parathyroid hormone analog,AVAEIQLMHQRAKWIQDARRRAFLHKLIAEIHTA,34,6NBH,P,pth1r_human,Parathyroid hormone receptors,Class B1 (Secretin)
+30,Long-acting parathyroid hormone analog,AVAEIQLMHQRAKWIQDARRRAFLHKLIAE,30,6NBI,P,pth1r_human,Parathyroid hormone receptors,Class B1 (Secretin)
+31,JMV449,KPYIL,5,6OS9,L,ntr1_human,Neurotensin receptors,Class A (Rhodopsin)
+32,JMV449,KPYIL,5,6OSA,L,ntr1_human,Neurotensin receptors,Class A (Rhodopsin)
+33,KGCHM07,XXFXXX,6,6PT2,C,oprd_human,Opioid receptors,Class A (Rhodopsin)
+34,angiotensin II,DRVYIHPF,8,6JOD,B,agtr2_human,Angiotensin receptors,Class A (Rhodopsin)
+35,Corticoliberin,EEPPISLDLTFHLLREVLEMARAEQLAQQAHSNXXX,36,6P9X,P,crfr1_human,Corticotropin-releasing factor receptors,Class B1 (Secretin)
+36,[Ac-His<sup>1</sup>]PACAP-27,HSDGIFTDSYSRYRKQMAVKKYLAAVL,27,6P9Y,P,pacr_human,VIP and PACAP receptors,Class B1 (Secretin)
+37,sarafotoxin S6b,CSCKDMTDKECLYFCHQDVIW,21,6LRY,B,ednrb_human,Endothelin receptors,Class A (Rhodopsin)
+38,Urocortin,NPSLSIDLTFHLLRTLLELARTQSQRERAEQNRIIFDSV,39,6PB0,U,crfr1_human,Corticotropin-releasing factor receptors,Class B1 (Secretin)
+39,Urocortin,NPSLSIDLTFHLLRTLLELARTQSQRERAEQNRIIFDSV,39,6PB1,U,crfr2_human,Corticotropin-releasing factor receptors,Class B1 (Secretin)
+40,angiotensin II,DRVYIHPF,8,6OS0,B,agtr1_human,Angiotensin receptors,Class A (Rhodopsin)
+41,TRV023,XRVYKHPA,8,6OS1,B,agtr1_human,Angiotensin receptors,Class A (Rhodopsin)
+42,TRV026,XRVYYHPXX,9,6OS2,B,agtr1_human,Angiotensin receptors,Class A (Rhodopsin)
+43,JMV431,RRPYIL,6,6UP7,C,ntr1_human,Neurotensin receptors,Class A (Rhodopsin)
+44,[Ac-His<sup>1</sup>]PACAP-27,HSDGIFTDSYSRYRKQMAVKKYLAAVL,27,6LPB,P,pacr_human,VIP and PACAP receptors,Class B1 (Secretin)
+45,maxadilan,CDATCQFRKAIDDCQKQAHHSNVLQTSVQTTATFTSMDTSQLPGNSVFKECMKQKKKEFKA,61,6M1H,B,pacr_human,VIP and PACAP receptors,Class B1 (Secretin)
+46,[Ac-His<sup>1</sup>]PACAP-27,HSDGIFTDSYSRYRKQMAVKKYLAAVL,27,6M1I,B,pacr_human,VIP and PACAP receptors,Class B1 (Secretin)
+47,Adrenomedullin,FGCRFGTCTVQKLAHQIYQFTDKDKDNVAPRSKISPQGY,39,6UUN,P,calrl_human,Calcitonin receptors,Class B1 (Secretin)
+48,glucagon,HSQGTFTSDYSKYLDSRRAQDFVQWLMNT,29,6LMK,E,glr_human,Glucagon receptor family,Class B1 (Secretin)
+49,glucagon,HSQGTFTSDYSKYLDSRRAQDFVQWLMNT,29,6LML,E,glr_human,Glucagon receptor family,Class B1 (Secretin)
+50,Adrenomedullin,FGCRFGTCTVQKLAHQIYQFTDKDKDNVAPRSKISPQGY,39,6UUS,P,calrl_human,Calcitonin receptors,Class B1 (Secretin)
+51,adrenomedullin 2/intermedin,TQAQLLRVGCVLGTCQVQNLSHRLWQLMGPAGRQDSAPVDPSSPHSY,47,6UVA,P,calrl_human,Calcitonin receptors,Class B1 (Secretin)
+52,SHU9119,CDHARWCK,8,6W25,B,mc4r_human,Melanocortin receptors,Class A (Rhodopsin)
+53,Dual-agonist peptide P15,HSQGTFTSDYSKYLDEQAAKEFIAWLMNT,29,6WHC,E,glr_human,Glucagon receptor family,Class B1 (Secretin)
+54,CCL20,ASNFDCCLGYTDRILHPKFIVGFTRQLANEGCDINAIIFHTKKKLSVCANPKQTWVKYIVRLLSKKVKNM,70,6WWZ,C,ccr6_human,Chemokine receptors,Class A (Rhodopsin)
+55,muscarinic toxin 7,LTCVKSNSIWFPTSEDCPDGQNLCFKRWQYISPRMYDFTRGCAATCPKAEYRDVINCCGTDKCNK,65,6WJC,C,acm1_human,Acetylcholine receptors (muscarinic),Class A (Rhodopsin)
+56,glucagon-like peptide 1-(7-37),HAEGTFTSDVSSYLEGQAAKEFIAWLVKGRG,31,6VCB,P,glp1r_human,Glucagon receptor family,Class B1 (Secretin)
+57,Glucagon derivative ZP3780,HSQGTFTSDYSKYLDSRRAEDFVKWLEST,29,6WPW,P,glr_human,Glucagon receptor family,Class B1 (Secretin)
+58,[Ac-His<sup>1</sup>]PACAP-27,HSDGIFTDSYSRYRKQMAVKKYLAAVL,27,6VN7,L,vipr1_human,VIP and PACAP receptors,Class B1 (Secretin)
+59,Somatoliberin,YADAIFTNSYRKVLGQLSARKLLQDIMSX,29,7CZ5,P,ghrhr_human,Glucagon receptor family,Class B1 (Secretin)
+60,Alpha-factor mating pheromone,WHWLQLKPGQPMY,13,7AD3,I,ste2_yeast,STE2,Class D1 (Ste2-like fungal pheromone)
+61,glucagon,HSQGTFTSDYSKYLDSRRAQDFVQWLMNT,29,7D68,P,glp2r_human,Glucagon receptor family,Class B1 (Secretin)
+62,neurotensin,XLYENKPRRPYIL,13,7L0P,D,ntr1_rat,Neurotensin receptors,Class A (Rhodopsin)
+63,neurotensin,XLYENKPRRPYIL,13,7L0Q,D,ntr1_rat,Neurotensin receptors,Class A (Rhodopsin)
+64,neurotensin,XLYENKPRRPYIL,13,7L0R,D,ntr1_rat,Neurotensin receptors,Class A (Rhodopsin)
+65,neurotensin,XLYENKPRRPYIL,13,7L0S,D,ntr1_rat,Neurotensin receptors,Class A (Rhodopsin)
+66,JMV431,RRPYIL,6,6YVR,D,ntr1_rat,Neurotensin receptors,Class A (Rhodopsin)
+67,JMV431,RRPYIL,6,6Z4V,B,ntr1_rat,Neurotensin receptors,Class A (Rhodopsin)
+68,Orexin-A,NHAAGILTMX,10,7L1U,L,ox2r_human,Orexin receptors,Class A (Rhodopsin)
+69,Calcitonin gene-related peptide 1,ACDTATCVTHRLAGLLSRSGGVVFVPTNVGSKAFX,35,7KNU,P,calrl_human,Calcitonin receptors,Class B1 (Secretin)
+70,setmelanotide,RCAHFRWC,8,7AUE,C,mc4r_human,Melanocortin receptors,Class A (Rhodopsin)
+71,vasopressin,CYFQNCPRG,9,7KH0,L,v2r_human,Vasopressin and oxytocin receptors,Class A (Rhodopsin)
+72,vasopressin,CYFQNCPRG,9,7BB6,H,v2r_human,Vasopressin and oxytocin receptors,Class A (Rhodopsin)
+73,vasopressin,CYFQNCPRG,9,7BB7,H,v2r_human,Vasopressin and oxytocin receptors,Class A (Rhodopsin)
+74,CCL5,SPYSSDTTPCCFAYIARPLPRAHIKEYFYTSGKCSNPAVVFVTRKNRQVCANPEKKWVREYINSLEMS,68,7O7F,I,ccr5_human,Chemokine receptors,Class A (Rhodopsin)
+75,CCL3,SLAADTPTACCFSYTSRQIPQNFIADYFETSSQCSKPGVIFLTKRSRQVCADPSEEWVQKYVSDLELSA,69,7F1Q,P,ccr5_human,Chemokine receptors,Class A (Rhodopsin)
+76,CCL5,SPYSSDTTPCCFAYIARPLPRAHIKEYFYTSGKCSNPAVVFVTRKNRQVCANPEKKWVREYINSLEMS,68,7F1R,P,ccr5_human,Chemokine receptors,Class A (Rhodopsin)
+77,CCL3,SLAADTPTACCFSYTSRQIPQNFIADYFETSSQCSKPGVIFLTKRSRQVCADPSEEWVQKYVSDLELSA,69,7F1T,B,ccr5_human,Chemokine receptors,Class A (Rhodopsin)
+78,vasopressin,CYFQNCPRG,9,7DW9,C,v2r_human,Vasopressin and oxytocin receptors,Class A (Rhodopsin)
+79,semaglutide,HAEGTFTSDVSSYLEGQAAKEFIAWLVRGRG,31,7KI0,P,glp1r_human,Glucagon receptor family,Class B1 (Secretin)
+80,Taspoglutide,HXEGTFTSDVSSYLEGQAAKEFIAWLVKXRXX,32,7KI1,P,glp1r_human,Glucagon receptor family,Class B1 (Secretin)
+81,TIP39,SLALADDAAFRERARLLAALERRHWLNSYMHKLLVLDAP,39,7F16,P,pth2r_human,Parathyroid hormone receptors,Class B1 (Secretin)
+82,ghrelin,GSSFLSPEHQRVQQRKESKKPPAKLQPR,28,7F9Y,C,ghsr_human,Ghrelin receptors,Class A (Rhodopsin)
+83,GHRP-6,HWAWFK,6,7F9Z,C,ghsr_human,Ghrelin receptors,Class A (Rhodopsin)
+84,CCK-8,DYMGWMDF,8,7EZH,P,cckar_human,Cholecystokinin receptors,Class A (Rhodopsin)
+85,CCK-8,DYMGWMDF,8,7EZK,P,cckar_human,Cholecystokinin receptors,Class A (Rhodopsin)
+86,CCK-8,DYMGWMDF,8,7EZM,P,cckar_human,Cholecystokinin receptors,Class A (Rhodopsin)
+87,Peptide-19,YXEGTFTSDYSIYLDKQAAXEFVNWLLAGG,30,7RTB,P,glp1r_human,Glucagon receptor family,Class B1 (Secretin)
+88,[des-Arg<sup>10</sup>]kallidin,KRPPGFSPF,9,7EIB,D,bkrb1_human,Bradykinin receptors,Class A (Rhodopsin)
+89,bradykinin,RPPGFSPFR,9,7F2O,D,bkrb2_human,Bradykinin receptors,Class A (Rhodopsin)
+90,desulfated gastrin-17,XGPWLEEEEEAYGWMDF,17,7F8V,E,gasr_human,Cholecystokinin receptors,Class A (Rhodopsin)
+91,desulfated gastrin-17,XGPWLEEEEEAYGWMDF,17,7F8W,E,gasr_human,Cholecystokinin receptors,Class A (Rhodopsin)
+92,&alpha;-MSH,SYSMEHFRWGKPV,13,7F53,L,mc4r_human,Melanocortin receptors,Class A (Rhodopsin)
+93,afamelanotide,SYSXEHFRWGKPV,13,7F54,L,mc4r_human,Melanocortin receptors,Class A (Rhodopsin)
+94,bremelanotide,XDHXRWK,7,7F55,L,mc4r_human,Melanocortin receptors,Class A (Rhodopsin)
+95,substance P,RPKPQQFFGLM,11,7RMG,S,nk1r_human,Tachykinin receptors,Class A (Rhodopsin)
+96,substance P,RPKPQQFFGLM,11,7RMH,S,nk1r_human,Tachykinin receptors,Class A (Rhodopsin)
+97,substance P,RPKPQQFFGLM,11,7RMI,S,nk1r_human,Tachykinin receptors,Class A (Rhodopsin)
+98,setmelanotide,RCAHFRWC,8,7PIU,P,mc4r_human,Melanocortin receptors,Class A (Rhodopsin)
+99,afamelanotide,SYSXEHFRWGKPV,13,7PIV,P,mc4r_human,Melanocortin receptors,Class A (Rhodopsin)
+100,Cortistatin 14,KNFFWK,6,7S8L,A,mrgx2_human,Class A orphans,Class A (Rhodopsin)
+101,Cortistatin 14,KNFFWK,6,7S8M,A,mrgx2_human,Class A orphans,Class A (Rhodopsin)
+102,Cortistatin 14,KNFFWK,6,7VDL,L,mrgx2_human,Class A orphans,Class A (Rhodopsin)
+103,substance P,RPKPQQFFGLM,11,7VDM,L,mrgx2_human,Class A orphans,Class A (Rhodopsin)
+104,PAMP-12,FRKKW,5,7VUY,,mrgx2_human,Class A orphans,Class A (Rhodopsin)
+105,PAMP-12,FRKKW,5,7VUZ, ,mrgx2_human,Class A orphans,Class A (Rhodopsin)
+106,PAMP-12,FRKKW,5,7VV0,L,mrgx2_human,Class A orphans,Class A (Rhodopsin)
+107,Cortistatin 14,KNFFWK,6,7VV3,,mrgx2_human,Class A orphans,Class A (Rhodopsin)
+108,Cortistatin 14,KNFFWK,6,7VV4,L,mrgx2_human,Class A orphans,Class A (Rhodopsin)
+109,Ghrelin-27,GSXFLSPEHQRV,12,7NA7,L,ghsr_human,Ghrelin receptors,Class A (Rhodopsin)
+110,substance P,RPKPQQFFGLM,11,7P00,P,nk1r_human,Tachykinin receptors,Class A (Rhodopsin)
+111,substance P,RPKPQQFFGLM,11,7P02,P,nk1r_human,Tachykinin receptors,Class A (Rhodopsin)
+112,NN9056,DXXGWXXXX,9,7F8X,C,cckar_human,Cholecystokinin receptors,Class A (Rhodopsin)
+113,exendin-4,HGEGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPS,39,7S1M,P,glp1r_human,Glucagon receptor family,Class B1 (Secretin)
+114,exendin-4,HGEGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPS,39,7S3I,,glp1r_human,Glucagon receptor family,Class B1 (Secretin)
+115,Ghrelin,GSXFLSPEHQRVQQRK,16,7W2Z,L,ghsr_human,Ghrelin receptors,Class A (Rhodopsin)
+116,exendin-4,HGEGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPS,39,7LLL,P,glp1r_human,Glucagon receptor family,Class B1 (Secretin)
+117,Pro-glucagon,HSQGTFTSDYSKYLDSRRAQDFVQWL,26,7LLY,P,glp1r_human,Glucagon receptor family,Class B1 (Secretin)
+118,Fractalkine,XHHGVTKCNITCSKMTSKIPVALLIHYQQNQASCGKRAIILETRQHRLFCADPKEQWVKDAMQHLDRX,68,7RKF,L,us28_hcmva,Unclassified,Class A (Rhodopsin)
+119,Fractalkine,XHHGVTKCNITCSKMTSKIPVALLIHYQQNQASCGKRAIILETRQHRLFCADPKEQWVKDAMQHLDRX,68,7RKM,L,us28_hcmva,Unclassified,Class A (Rhodopsin)
+120,Fractalkine,XHHGVTKCNITCSKMTSKIPVALLIHYQQNQASCGKRAIILETRQHRLFCADPKEQWVKDAMQHLDRX,68,7RKN,L,us28_hcmva,Unclassified,Class A (Rhodopsin)
+121,Somatoliberin,YADAIFTNSYRKVLGQLSA,19,7V9M,P,ghrhr_human,Glucagon receptor family,Class B1 (Secretin)
+122,bremelanotide,XDHXRWK,7,7F4I,U,mshr_human,Melanocortin receptors,Class A (Rhodopsin)
+123,synthetic peptide ,XLFII,5,7T6T,L,fpr1_human,Formylpeptide receptors,Class A (Rhodopsin)
+124,synthetic peptide ,QKFTSWFX,8,7T6U,L,fpr2_human,Formylpeptide receptors,Class A (Rhodopsin)
+125,synthetic peptide ,XLFII,5,7T6V,L,fpr2_human,Formylpeptide receptors,Class A (Rhodopsin)
+126,neuropeptide Y,YPSKPDNPGEDAPAEDMARYYSALRHYINLITRQRY,36,7VGX,L,npy1r_human,Neuropeptide Y receptors,Class A (Rhodopsin)
+127,Octreotide,XCFXKTCX,8,7T11,P,ssr2_human,Somatostatin receptors,Class A (Rhodopsin)
+128,oxytocin,CYIQNCPLG,9,7RYC,L,oxyr_human,Vasopressin and oxytocin receptors,Class A (Rhodopsin)
+129,CCL15(26-92),FHFAADCCTSYISQSIPCSLMKSYFETSSECSKPGVIFLTKKGRQVCAKPSGPGVQDCMKKLKPY,65,7VL9,L,ccr1_human,Chemokine receptors,Class A (Rhodopsin)
+130,CCL15(27-92),HFAADCCTSYISQSIPCSLMKSYFETSSECSKPGVIFLTKKGRQVCAKPSGPGVQDCMKKLKPY,64,7VLA,L,ccr1_human,Chemokine receptors,Class A (Rhodopsin)
+131,amylin peptide,KCNTATCATQRLANFLVRSSNNLGPVLPPTNVGSNTYXXXXXXX,44,7TYF,P,calcr_human,Calcitonin receptors,Class B1 (Secretin)
+132,Calcitonin human,CGNLSTCMLGTYTQDFNKFHTFPQTAIGVGAPX,33,7TYH,P,calcr_human,Calcitonin receptors,Class B1 (Secretin)
+133,Amylin rat,KCNTATCATQRLANFLVRSSNNLGPVLPPTNVGSNTYX,38,7TYI,P,calcr_human,Calcitonin receptors,Class B1 (Secretin)
+134,Amylin rat,KCNTATCATQRLANFLVRSSNNLGPVLPPTNVGSNTYX,38,7TYL,P,calcr_human,Calcitonin receptors,Class B1 (Secretin)
+135,Calcitonin human,CGNLSTCMLGTYTQDFNKFHTFPQTAIGVGAPX,33,7TYO,P,calcr_human,Calcitonin receptors,Class B1 (Secretin)
+136,Amylin rat,KCNTATCATQRLANFLVRSSNNLGPVLPPTNVGSNTYX,38,7TYX,P,calcr_human,Calcitonin receptors,Class B1 (Secretin)
+137,amylin peptide,KCNTATCATQRLANFLVRSSNNLGPVLPPTNVGSNTYXXXXXXXX,45,7TZF,P,calcr_human,Calcitonin receptors,Class B1 (Secretin)
+138,Peptide-20,HXQGTFTSDKSKYLDERAAQDFVQWLLDGGX,31,7FIN,P,gipr_human,Glucagon receptor family,Class B1 (Secretin)
+139,tirzepatide,YXEGTFTSDYSIXLDKIAQKAFVQWLIAGGPSSGAPPPS,39,7FIY,P,gipr_human,Glucagon receptor family,Class B1 (Secretin)
+140,tirzepatide,YXEGTFTSDYSIXLDKIAQKAFVQWLIAGGPSSGAPPPS,39,7VAB,P,gipr_human,Glucagon receptor family,Class B1 (Secretin)
+141,tirzepatide,YXEGTFTSDYSIXLDKIAQKAFVQWLIAGGPSSGAPPPS,39,7FIM,P,glp1r_human,Glucagon receptor family,Class B1 (Secretin)
+142,tirzepatide,YXEGTFTSDYSIXLDKIAQKAFVQWLIAGGPSSGAPPPS,39,7VBI,P,glp1r_human,Glucagon receptor family,Class B1 (Secretin)
+143,Peptide-20,HXQGTFTSDKSKYLDERAAQDFVQWLLDX,29,7V35,P,glr_human,Glucagon receptor family,Class B1 (Secretin)
+144,FME-LEU-PHE,XLF,3,7WVU,L,fpr1_human,Formylpeptide receptors,Class A (Rhodopsin)
+145,synthetic peptide ,XLFII,5,7WVV,L,fpr2_human,Formylpeptide receptors,Class A (Rhodopsin)
+146,FME-TYR-PHE-ILE-ASN-ILE-LEU-THE-LEU,XYFINIL,7,7WVW,L,fpr2_human,Formylpeptide receptors,Class A (Rhodopsin)
+147,humanin,MAPRGFSCLLLLTSEIDLPVKRRA,24,7WVX,L,fpr2_human,Formylpeptide receptors,Class A (Rhodopsin)
+148,Amyloid beta-Peptide (1-42),DAEFRHDSGYGGVVIA,16,7WVY,L,fpr2_human,Formylpeptide receptors,Class A (Rhodopsin)
+149,galanin,GWTLNSAGYLLGPHAVGNHRSFSDKNGLTS,30,7WQ4,L,galr2_human,Galanin receptors,Class A (Rhodopsin)
+150,galanin,GWTLNSAGYLLGPHAVGNHRSFSDKNGLTS,30,7WQ3,L,galr1_human,Galanin receptors,Class A (Rhodopsin)
+151,gastric inhibitory polypeptide (human) - Incretin,GQTAGELYQRWERYRRECQETLAAAEPPSGLACNGSFDMYVCWDYAAPNATARASCPWYLPWHHHVAAGFVLRQCGSDGQWGLWRDHTQCENPEFLDQRLILERLQVMYTVGYSLSLATLLLALLILSLFRRLHCTRNYIHINLFTSFMLRAAAILSRDRLLPRPGPYLGDQALALWNQALAACRTAQIVTQYCVGANYTWLLVEGVYLHSLLVLVEEGHFRYYLLLGWGAPALFVIPWVIVRYLYENTQCWERNEVKAIWWIIRTPILMTILINFLIFIRILGILLSKLRTRDYRLRLARSTLTLVPLLGVHEVVFAPVTEEQARGALRFAKLGFEIFLSSFQGFLVSVLYCFINKEVQSEIRRGWHHCR,371,7RA3,R,gipr_human,Glucagon receptor family,Class B1 (Secretin)
+152,tirzepatide,YXEGTFTSDYSIXLDKIAQKAFVQWLIAGGPSSGAPPPS,39,7RBT,P,gipr_human,Glucagon receptor family,Class B1 (Secretin)
+153,tirzepatide,YXEGTFTSDYSIXLDKIAQKAFVQWLIAGGPSSGAPPPS,39,7RGP,P,glp1r_human,Glucagon receptor family,Class B1 (Secretin)
+154,Peptide 20,HXQGTFTSDKSKYLDERAAQDFVQWLLDGX,30,7VBH,P,glp1r_human,Glucagon receptor family,Class B1 (Secretin)
+155,IP15,ISXGILLDLSR,11,7WUI,L,agrg2_mouse,ADGRG,Class B2 (Adhesion)
+156,Neuromedin U-25 (human),FLFRPRNQ,8,7W53,C,nmur1_human,Neuromedin U receptors,Class A (Rhodopsin)
+157,Neuromedin U-25 (human),FLFRPRNQ,8,7W55,C,nmur2_human,Neuromedin U receptors,Class A (Rhodopsin)
+158,Neuromedin-S,FFLFRPRNQ,9,7W56,C,nmur1_human,Neuromedin U receptors,Class A (Rhodopsin)
+159,Neuromedin-S,GRPFFLFRPRNQ,12,7W57,C,nmur2_human,Neuromedin U receptors,Class A (Rhodopsin)
+160,Peptide Agonist fMLF,XLF,3,7EUO,C,fpr1_human,Formylpeptide receptors,Class A (Rhodopsin)
+161,PACAP-27,HSDGIFTDSYSRYRKQMAVKKYLAAVL,27,7VQX,L,vipr2_human,VIP and PACAP receptors,Class B1 (Secretin)
+162,PACAP-27,HSDGIFTDSYSRYRKQMAVKKYLAAVL,27,7WBJ,L,vipr2_human,VIP and PACAP receptors,Class B1 (Secretin)
+163,neuropeptide Y,YPSKPDNPGEDAPAEDMARYYSALRHYINLITRQRY,36,7X9A,P,npy1r_human,Neuropeptide Y receptors,Class A (Rhodopsin)
+164,neuropeptide Y,YPSKPDNPGEDAPAEDMARYYSALRHYINLITRQRY,36,7X9B,P,npy2r_human,Neuropeptide Y receptors,Class A (Rhodopsin)
+165,Pancreatic polypeptide,APLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRX,36,7X9C,P,npy4r_human,Neuropeptide Y receptors,Class A (Rhodopsin)
+166,bradykinin,RPPGFSPFR,9,7F6H,L,bkrb2_human,Bradykinin receptors,Class A (Rhodopsin)
+167,kallidin,KRPPGFSPFR,10,7F6I,L,bkrb2_human,Bradykinin receptors,Class A (Rhodopsin)
+168,"Galanin, Human",GWTLNSAGYLLGPHAV,16,7XJK,A,galr2_human,Galanin receptors,Class A (Rhodopsin)
+169,TRH,XHX,3,7WKD,C,trfr_human,Thyrotropin-releasing hormone receptors,Class A (Rhodopsin)
+170,apelin receptor early endogenous ligand,LQRRCMPLHSRVPFP,15,7W0N,D,apj_human,Apelin receptors,Class A (Rhodopsin)
+171,apelin receptor early endogenous ligand,LQRRCMPLHSRVPFP,15,7W0O,D,apj_human,Apelin receptors,Class A (Rhodopsin)
+172,apelin receptor early endogenous ligand,LQRRCMPLHSRVPFP,15,7W0P,D,apj_human,Apelin receptors,Class A (Rhodopsin)
+173,CCK-8,DYMGWMDF,8,7XOU,L,cckar_human,Cholecystokinin receptors,Class A (Rhodopsin)
+174,desulfated gastrin-17,XGPWLEEEEEAYGWMDF,17,7XOW,L,gasr_human,Cholecystokinin receptors,Class A (Rhodopsin)
+175,CCK-8,DYMGWMDF,8,7XOX,L,gasr_human,Cholecystokinin receptors,Class A (Rhodopsin)
+176,"Galanin, Human",GWTLNSAGYLLGPHAV,16,7XBD,F,galr2_human,Galanin receptors,Class A (Rhodopsin)
+177,CX3CL1,XHHGVTKCNITCSKMTSKIPVALLIHYQQNQASCCKRAIILETRQHRLFCEQWVKDAMQHLD,62,7XBX,P,cx3c1_human,Chemokine receptors,Class A (Rhodopsin)
+178,CXCL12&alpha;,KPVSLSYRCPCRFFESHVARANVKHLKILNTPNCALQIVARLKNNNRQVCIDPKLKWIQEYLEKALNK,68,7SK3,B,ackr3_human,Chemokine receptors,Class A (Rhodopsin)
+179,Stromal cell-derived factor 1,LRHQSLSYRCPCRFFESHVARANVKHLKILNTPNCALQIVARLKNNNRQVCIDPKLKWIQEYLEKALNK,69,7SK4,B,ackr3_human,Chemokine receptors,Class A (Rhodopsin)
+180,Stromal cell-derived factor 1,KPVSLSYRCPCRFFESHVARANVKHLKILNTPNCALQIVARLKNNNRQVCIDPKLKWIQEYLE,63,7SK5,B,ackr3_human,Chemokine receptors,Class A (Rhodopsin)
+181,Stromal cell-derived factor 1,LRHQSLSYRCPCRFFESKHLKILNTPNCALQIVARLKNNNRQVCIDPKLKWIQEYLEKA,59,7SK6,B,ackr3_human,Chemokine receptors,Class A (Rhodopsin)
+182,Stromal cell-derived factor 1,YRCPCRFFESHVARANVKHLKILNTPNCALQIVARLKNNNRQVCIDPKLKWIQEYLEKALNK,62,7SK7,B,ackr3_human,Chemokine receptors,Class A (Rhodopsin)
+183,Stromal cell-derived factor 1,YRCPCRFFESHVARANVKHLKILNTPNCALQIVARLKNNNRQVCIDPKLKWIQEYLEKALNK,62,7SK8,B,ackr3_human,Chemokine receptors,Class A (Rhodopsin)
+184,Octreotide,XCFXKTC,7,7XAU,F,ssr2_human,Somatostatin receptors,Class A (Rhodopsin)
+185,lanreotide,ACYWKVCT,8,7XAV,F,ssr2_human,Somatostatin receptors,Class A (Rhodopsin)
+186,CYN 154806,XXXYXKTCXX,10,7XNA,B,ssr2_human,Somatostatin receptors,Class A (Rhodopsin)
+187,TRH,XHX,3,7X1U,E,trfr_human,Thyrotropin-releasing hormone receptors,Class A (Rhodopsin)
+188,oxytocin,CYIQNCPLG,9,7QVM,L,oxyr_human,Vasopressin and oxytocin receptors,Class A (Rhodopsin)
+189,C-C motif chemokine 2,QPDAINAPVTCCYNFTNRKISVQRLASYRRITSSKCPKEAVIFKTIVAKEICADPKQKWVQDSMDHLDK,69,7XA3,L,ccr2_human,Chemokine receptors,Class A (Rhodopsin)
+190,PTHrP[1-36],AVSEHQLLHDKGKSIQDLRRRFFLHHLIAEIH,32,7VVJ,P,pth1r_human,Parathyroid hormone receptors,Class B1 (Secretin)
+191,teriparatide,SVSEIQLMHNLGKHLNSMERVEWLRKKLQDVHNF,34,7VVK,P,pth1r_human,Parathyroid hormone receptors,Class B1 (Secretin)
+192,teriparatide,SVSEIQLMHNLGKHLNSMERVEWLRKKLQDVHNF,34,7VVL,P,pth1r_human,Parathyroid hormone receptors,Class B1 (Secretin)
+193,Parathyroid hormone,SVSEIQLMHNLGKHLNSMERVEWLRKKLQDVH,32,7VVM,P,pth1r_human,Parathyroid hormone receptors,Class B1 (Secretin)
+194,teriparatide,SVSEIQLMHNLGKHLNSMERVEWLRKKLQDVHNF,34,7VVN,P,pth1r_human,Parathyroid hormone receptors,Class B1 (Secretin)
+195,Parathyroid hormone,SVSEI,5,7VVO,P,pth1r_human,Parathyroid hormone receptors,Class B1 (Secretin)
+196,vasopressin,CYFQNCPRG,9,7R0C,B,v2r_human,Vasopressin and oxytocin receptors,Class A (Rhodopsin)
+197,Urocortin,NPSLSIDLTFHLLRTLLELARTQSQRERAEQNRIIFDSV,39,7TRY,U,crfr2_human,Corticotropin-releasing factor receptors,Class B1 (Secretin)
+198,Urocortin,NPSLSIDLTFHLLRTLLELARTQSQRERAEQNRIIFDSV,39,7TS0,U,crfr2_human,Corticotropin-releasing factor receptors,Class B1 (Secretin)
+199,Peptide agonist fMet-Ile-Phe-Leu,XIFL,4,7VFX,C,fpr1_human,Formylpeptide receptors,Class A (Rhodopsin)
+200,TRH,XHX,3,7XW9,L,trfr_human,Thyrotropin-releasing hormone receptors,Class A (Rhodopsin)
+201,Octreotide,XCFXKTCT,8,7Y24,C,ssr2_human,Somatostatin receptors,Class A (Rhodopsin)
+202,Octreotide,XCFXKTCT,8,7Y26,C,ssr2_human,Somatostatin receptors,Class A (Rhodopsin)
+203,Proenkephalin-A,PEWWMDYQKRY,11,8DWC,A,mrgx1_human,Class A orphans,Class A (Rhodopsin)
+204,Proenkephalin-A,GRPEWWMDYQKRY,13,8DWG,A,mrgx1_human,Class A orphans,Class A (Rhodopsin)
+205,[Ac-His<sup>1</sup>]PACAP-27,HSDGIFTDSYSRYRKQMAVKKYLAAVL,27,8E3X,P,pacr_human,VIP and PACAP receptors,Class B1 (Secretin)
+206,[Ac-His<sup>1</sup>]PACAP-27,HSDGIFTDSYSRYRKQMAVKKYLAAVL,27,8E3Y,P,vipr1_human,VIP and PACAP receptors,Class B1 (Secretin)
+207,DAMGO,YAGFG,5,8EFQ,P,oprm_human,Opioid receptors,Class A (Rhodopsin)
+208,&beta;-endorphin,YGGFMTSEKSQTPLVTLFKNAIIKNAYKKGE,31,8F7Q,P,oprm_human,Opioid receptors,Class A (Rhodopsin)
+209,endomorphin-1,YPWF,4,8F7R,P,oprm_human,Opioid receptors,Class A (Rhodopsin)
+210,dynorphin A-(1-8),YGGFLRRI,8,8F7W,P,oprk_human,Opioid receptors,Class A (Rhodopsin)
+211,nociceptin/orphanin FQ,FGGFTGARKSARKLANQ,17,8F7X,P,oprx_human,Opioid receptors,Class A (Rhodopsin)
+212,teriparatide,SVSEIQLMHNLGKHLNSMERVEWLRKKLQDVHNF,34,8HA0,P,pth1r_human,Parathyroid hormone receptors,Class B1 (Secretin)
+213,PTHrP-(1-36),AVSEHQLLHDKGKSIQDLRRRFFLHHLIAEIHTAEI,36,8HAF,P,pth1r_human,Parathyroid hormone receptors,Class B1 (Secretin)
+214,SAR1-AngII,XRVYIHPF,8,7F6G,L,agtr1_human,Angiotensin receptors,Class A (Rhodopsin)
+215,teriparatide,SVSEIQLMHNLGKHLNSMERVEWLRKKLQDVHNF,34,8HAO,P,pth1r_human,Parathyroid hormone receptors,Class B1 (Secretin)
+216,C5a,XKPXXX,6,7Y65,L,c5ar1_human,Complement peptide receptors,Class A (Rhodopsin)
+217,Insulin-like peptide INSL5 A chain,DLQTLCCTDGCSMTDLSALC,20,7YJ4,A,rl3r2_human,Relaxin family peptide receptors,Class A (Rhodopsin)
+218,Insulin-like peptide INSL5 B chain,RLCGLEYIRTVIYICASSRW,20,7YJ4,B,rl3r2_human,Relaxin family peptide receptors,Class A (Rhodopsin)
+219,Peptide YY,IKPEALNRYYASLRHYLNLVTRQRXX,26,7YON,L,npy2r_human,Neuropeptide Y receptors,Class A (Rhodopsin)
+220,neuropeptide Y,YPSKPDNPGEDAPAEDMARYYSALRHYINLITRQRY,36,7YOO,L,npy2r_human,Neuropeptide Y receptors,Class A (Rhodopsin)
+221,BM213,XFKPLAAXR,9,7Y66,E,c5ar1_human,Complement peptide receptors,Class A (Rhodopsin)
+222,C089,XKPXWX,6,7Y67,L,c5ar1_human,Complement peptide receptors,Class A (Rhodopsin)
+223,neurotensin,XLYENKPRRPYIL,13,8FMZ,F,ntr1_rat,Neurotensin receptors,Class A (Rhodopsin)
+224,neurotensin,XLYENKPRRPYIL,13,8FN0,F,ntr1_rat,Neurotensin receptors,Class A (Rhodopsin)
+225,neurotensin,XLYENKPRRPYIL,13,8FN1,F,ntr1_rat,Neurotensin receptors,Class A (Rhodopsin)
+226,ACTH,SYSMEHFRWGKPVGKKRRPVKVYPNGAEDESAEAFPLEF,39,8GY7,M,acthr_human,Melanocortin receptors,Class A (Rhodopsin)
+227,sovateltide,DEEAVYFAHLDIIW,14,8HBD,L,ednrb_human,Endothelin receptors,Class A (Rhodopsin)
+228,Glycoprotein alpha,QDCPECTLQENPLFSQPGAPILQCMGCCFSRAYPTPLRSKKTMLVQKNVTSESTCCVAKSYNRVTVMGGFKVENHTACHCSTCYYHKSX,89,8I2G,X,fshr_human,Glycoprotein hormone receptors,Class A (Rhodopsin)
+229,Follitropin subunit beta,NSCELTNITIAIEKEECRFCISINTTWCAGYCYTRDLVYKDPARPKIQKTCTFKELVYETVRVPGCAHHADSLYTYPVATQCHCGKCDSDSTDCTVRGLGPSYCSFGEMXX,111,8I2G,Y,fshr_human,Glycoprotein hormone receptors,Class A (Rhodopsin)
+230,Gastrin-releasing peptide,PRGNHWAVGHLMX,13,7W3Z,L,grpr_human,Bombesin receptors,Class A (Rhodopsin)
+231,Bombesin,XQWAVXHFX,9,7W40,E,grpr_human,Bombesin receptors,Class A (Rhodopsin)
+232,Neuromedin U-25 (human),FLFRPRNQ,8,7XK8,P,nmur2_human,Neuromedin U receptors,Class A (Rhodopsin)
+233,Glucagon derivative ZP3780,HSQGTFTSDYSKYLDSRRAEDFVKWLEST,29,8FU6,P,glr_human,Glucagon receptor family,Class B1 (Secretin)
+234,motilin,FVPIFTYGELQRMQEKERNKGQ,22,8IBV,C,mtlr_human,Motilin receptors,Class A (Rhodopsin)
+235,galanin,GWTLNSAGYLLGPHAVGNHRSFSDKNGLTS,30,7XJJ,C,galr1_human,Galanin receptors,Class A (Rhodopsin)
+236,HIS-LYS-THR-ASP-SER-PHE-VAL-GLY-LEU-MET-NH2,HKTDSFVGLMA,11,7XWO,D,nk2r_human,Tachykinin receptors,Class A (Rhodopsin)
+237,dynorphin A-(1-8),YGGFLRRI,8,7Y1F,F,oprk_human,Opioid receptors,Class A (Rhodopsin)
+238,Early activation antigen CD69,PVLCAVMNVVFITILIIALIALSVG,25,8G94,F,s1pr1_human,Lysophospholipid (S1P) receptors,Class A (Rhodopsin)
+239,Octreotide,XCFXKTCX,8,7YAE,D,ssr2_human,Somatostatin receptors,Class A (Rhodopsin)
+240,C5a anaphylatoxin,TLQKKIEEIAAKYKHSVVKKCCYDGARVNNDETCEQRAARISLGPRCIKAFTECCVVASQLRANISHKDMQLGR,74,7Y64,E,c5ar1_human,Complement peptide receptors,Class A (Rhodopsin)
+241,Parathyroid hormone,SVSEIQLMHNLGKHLNSMERVEWLRKKLQDVHXX,34,8FLQ,P,pth1r_human,Parathyroid hormone receptors,Class B1 (Secretin)
+242,C3a anaphylatoxin,SVQLTEKRMDKVGKYPKELRKCCEDGMRENPMRFSCQRRTRFIACKKVFLDCCNYITELRRQHARASHLGLAR,73,8HK2,D,c3ar_human,Complement peptide receptors,Class A (Rhodopsin)
+243,ALA-SER-LYS-LEU-GLY-LEU-ALA-ARG,ASKLGLAR,8,8IA8,L,c3ar_human,Complement peptide receptors,Class A (Rhodopsin)
+244,M-PTH(1-14),XVXEIQLMHQXAKW,14,8FLT,P,pth1r_human,Parathyroid hormone receptors,Class B1 (Secretin)
+245,PTH,AVAEIQLMHQRAKWIQDARRRAFLHKLIAEIHX,33,8FLU,P,pth1r_human,Parathyroid hormone receptors,Class B1 (Secretin)
+246,C5a,TLQKKIEEIAAKYKHSVVKKCCYDGACVNNDETCEQRAARISLGPRCIKAFTECCVVASQLRANISHKDMQLGR,74,8HK5,B,c5ar1_human,Complement peptide receptors,Class A (Rhodopsin)
+247,PTHrP[1-36],AVSEHQLLHDKGKSIQDLRRRFFLHHLIAEIHX,33,8FLR,P,pth1r_human,Parathyroid hormone receptors,Class B1 (Secretin)
+248,chemerin C-terminal peptide,YFPGQFAFS,9,7YKD,L,cml1_human,Chemerin receptor,Class A (Rhodopsin)
+249,teriparatide,SVSEIQLMHNLGKHLNSMERVEWLRKKLQDVHNF,34,7Y36,P,pth1r_human,Parathyroid hormone receptors,Class B1 (Secretin)
+250,Pramlintide analogue San45,KCNTATCATQRLANFLVHSSKNFGPILPPTNVGSNTYXXXXXXXXXXXX,49,8F0J,P,calcr_human,Calcitonin receptors,Class B1 (Secretin)
+251,San385,KCNTATCATQRLANFLVHKSNNFGPILPPTNVGSNTYXXXXXXXX,45,8F0K,P,calcr_human,Calcitonin receptors,Class B1 (Secretin)
+252,Pramlintide analogue San385,KCNTATCATQRLANFLVHKSNNFGPILPPTNVGSNTYX,38,8F2A,P,calcr_human,Calcitonin receptors,Class B1 (Secretin)
+253,Pramlintide analogue San45,KCNTATCATQRLANFLVHSSKNFGPILPPTNVGSNTYXXXXXXXXXX,47,8F2B,P,calcr_human,Calcitonin receptors,Class B1 (Secretin)
+254,NMB30,NLWATGHFMG,10,8H0P,L,nmbr_human,Bombesin receptors,Class A (Rhodopsin)
+255,Gastrin-releasing peptide,PRGNHWAVGHLMX,13,8H0Q,L,grpr_human,Bombesin receptors,Class A (Rhodopsin)
+256,JMV431,RRPYIL,6,8JPB,L,ntr1_human,Neurotensin receptors,Class A (Rhodopsin)
+257,JMV431,RRPYIL,6,8JPC,L,ntr1_human,Neurotensin receptors,Class A (Rhodopsin)
+258,JMV431,RRPYIL,6,8JPF,L,ntr1_human,Neurotensin receptors,Class A (Rhodopsin)
+259,glucagon,HSQGTFTSDYSKYLDSRRAQDFVQWLMNT,29,8JRV,G,glr_human,Glucagon receptor family,Class B1 (Secretin)
+260,ACE-TYR-ALA-DTY-THR-THR-CYS-THR-DPN-XT9,XYAXTTCTX,9,8FEG,A,oprk_human,Opioid receptors,Class A (Rhodopsin)
+261,&rho;-Da1a,LTCVTSKSIFGITTEDCPDGQNLCFKRRHYVVPKIYDSTRGCAATCPIPENYDSIHCCKTDKCNE,65,8HN1,C,ada1a_human,Adrenoceptors,Class A (Rhodopsin)
+262,CXCL11,FPMFKRGRCLCIGPGVKAVKVADIEKASIMYPSNNCDKIEVIITLKENKGQRCLNPKSKQARLIIKKVERKNF,73,8HNK,L,cxcr3_human,Chemokine receptors,Class A (Rhodopsin)
+263,C5a,XKPXXX,6,8HPT,D,c5ar1_mouse,Complement peptide receptors,Class A (Rhodopsin)
+264,C5a,TLQKKIEEIAAKYKHSVVKKCCYDGACVNNDETCEQRAARISLGPRCIKAFTECCVVASQLRANISHKDMQLGR,74,8HQC,D,c5ar1_mouse,Complement peptide receptors,Class A (Rhodopsin)
+265,EP54 ligand,SFKPMPLXR,9,8I95,D,c3ar_human,Complement peptide receptors,Class A (Rhodopsin)
+266,C3a anaphylatoxin,SVQLTEKRMDKVGKYPKELRKCCEDGMRENPMRFSCQRRTRFIACKKVFLDCCNYITELRRQHARASHLGLAR,73,8I9L,C,c3ar_human,Complement peptide receptors,Class A (Rhodopsin)
+267,C5a,TLQKKIEEIAAKYKHSVVKKCCYDGACVNNDETCEQRAARISLGPRCIKAFTECCVVASQLRANISHKDMQLGR,74,8IA2,D,c5ar1_human,Complement peptide receptors,Class A (Rhodopsin)
+268,&gamma;-MSH,YVMGHFRWDRF,11,8IOC,L,mc3r_human,Melanocortin receptors,Class A (Rhodopsin)
+269,PG-901,XXDPXRWKX,9,8IOD,L,mc5r_human,Melanocortin receptors,Class A (Rhodopsin)
+270,EP141 peptide agonist,YRASKLGLAR,10,8J6D,D,c3ar_human,Complement peptide receptors,Class A (Rhodopsin)
+271,MEDI0382,HSQGTFTSDKSEYLDSERAQDFVAWLEAGX,30,8JIP,P,glp1r_human,Glucagon receptor family,Class B1 (Secretin)
+272,Dual-agonist peptide P15,HSQGTFTSDYSKYLDEQAAKEFIAWLMNT,29,8JIQ,E,glr_human,Glucagon receptor family,Class B1 (Secretin)
+273,SAR425899,HSQGTFTSDLSKQKESKAAQDFIEWLKAGX,30,8JIR,P,glp1r_human,Glucagon receptor family,Class B1 (Secretin)
+274,Dual-agonist peptide P15,HSQGTFTSDYSKYLDEQAAKEFIAWLMNT,29,8JIS,P,glp1r_human,Glucagon receptor family,Class B1 (Secretin)
+275,MEDI0382,HSQGTFTSDKSEYLDSERARDFVAWLEAGX,30,8JIT,P,glr_human,Glucagon receptor family,Class B1 (Secretin)
+276,SAR425899,HQGTFTSDLSKQKESKAAQDFIEWLKAGX,29,8JIU,P,glr_human,Glucagon receptor family,Class B1 (Secretin)
+277,chemerin C-terminal peptide,YFPGQFAFS,9,8SG1,L,cml1_human,Chemerin receptor,Class A (Rhodopsin)
+278,substance P,RPKPQQFFGLM,11,8U26,S,nk1r_human,Tachykinin receptors,Class A (Rhodopsin)
+279,1DMe,YLFQPQRF,8,-,-,-,-,-
+280,dNPA,NPAFLFQPQRF,11,-,-,-,-,-
+281,DAVP,CYFQNCPRG,9,-,-,-,-,-
+282,2-furoyl-LIGRL[N-(Alexa Fluor 594)-O]-NH<sub>2 </sub>,,,-,-,-,-,-
+283,2-furoyl-LIGRLO-amide,LIGRLX,6,-,-,-,-,-
+284,[3-iodo-Tyr<sup>6</sup>]U-II-(4-11) (human),DCFWKYCV,8,-,-,-,-,-
+285,3-N<sub>3</sub>-Phpa-LVA,YFQNRPRY,8,-,-,-,-,-
+286,"[(3-Ph-Pr<sup>6</sup>), His<sup>7</sup>,D-Ala<sup>11</sup>,D-Pro<sup>13</sup>,&psi;13-14),Phe<sup>14</sup>]bombesin-(6-14)",XHWAVAHPF,9,-,-,-,-,-
+287,4-Cl-cinnamoyl-c[DCys-4Pal-DTrp-Orn-Val-Cys]-His-amide,CAWXVCH,7,-,-,-,-,-
+288,4-fluorobenzoyl-FGLRW-NH2,FGLRW,5,-,-,-,-,-
+289,5-HT-moduline,LSAL,4,-,-,-,-,-
+290,Ac-Phe-Trp-Ala-His(&tau;BZL)-Nip-Gly-Arg-NH<sub>2</sub>,FWAHXGR,7,-,-,-,-,-
+291,A(10-24)INSL3,CCLSGCTQQDLLTLC,15,-,-,-,-,-
+292,d[Cha<sup>4</sup>]LVP,CYFXNCPKG,9,-,-,-,-,-
+293,CGP42112,YKHPI,5,-,-,-,-,-
+294,A(4-24)(B7-24)H2,,,-,-,-,-,-
+295,A(4-24)(F23A)H2,SALANKCCHVGCTKRSLARAC,21,-,-,-,-,-
+296,A-71378,XGWXDF,6,-,-,-,-,-
+297,A-71623,XWKDF,5,-,-,-,-,-
+298,A8<sup>&Delta;71-73</sup>,TLQKKIEEIAAKYKHSVVKKCCYDGAAVNNDETCEQRAARISLGPRCIKAFTECCVVASQLRANISFKRS,70,-,-,-,-,-
+299,A(9-26)INSL3,YCCLSGCTQQDLLTLCPY,18,-,-,-,-,-
+300,abaloparatide,AVSEHQLLHDKGKSIQDLRRRELLEKLLAKLHTA,34,-,-,-,-,-
+301,ABS-201,,,-,-,-,-,-
+302,ABS-212,XRPYLL,6,-,-,-,-,-
+303,A(C10/15S)INSL3,AAATNPARTSCLSGSTQQDLLTLCPY,26,-,-,-,-,-
+304,"AC-178,335",HFIRWF,6,-,-,-,-,-
+305,AC187,VLGKLSQELHKLQTYPRTNTGSNTY,25,-,-,-,-,-
+306,Ac-c[Cys-Glu-His-D-Phe-Arg-Trp-D-Cys]-Pro-Pro-Lys-Asp-NH<sub>2</sub>,CEHFRWCPPKD,11,-,-,-,-,-
+307,"[Ac-D-2Nal<sup>1</sup>,D4CPA<sup>2</sup>,D-3Pal<sup>3,6</sup>,Leu<sup>8</sup>, D-Ala<sup>10</sup>]GnRH-II",AFASHAWLPA,10,-,-,-,-,-
+308,abarelix,AFASYNLKPA,10,-,-,-,-,-
+309,adrenomedullin,YRQSMNNFQGLRSFGCRFGTCTVQKLAHQIYQFTDKDKDNVAPRSKISPQGY,52,-,-,-,-,-
+310,Ac-GRP-(20-26)-methylester,HWAVGHL,7,-,-,-,-,-
+311,Ac-hMCH-(6-16)-NH2,RCMLGRVYRPC,11,-,-,-,-,-
+312,"Ac-Lys-[MeAla<sup>6</sup>,Leu<sup>8</sup>,des-Arg<sup>9</sup>]bradykinin",KRPPGFAPL,9,-,-,-,-,-
+313,AcPhe-Orn-Pro-D-Cha-Trp-Arg,FXPXWR,6,-,-,-,-,-
+314,Ac-RHYPLWR,RHYPLWR,7,-,-,-,-,-
+315,Ac-RYYRWK-NH<sub>2</sub>,RYYRWK,6,-,-,-,-,-
+316,ACTH,SYSMEHFRWGKPVGKKRRPVKVYPNVAENESAEAFPLEF,39,-,-,-,-,-
+317,ACTH-(11-24),KPVGKKRRPVKVYP,14,-,-,-,-,-
+318,"[Ac-Tyr<sup>1</sup>, D-Arg<sup>2</sup>]GHRH-(1-29)-NH<sub>2</sub> (human)",YRDAIFTNSYRKVLGQLSARKLLQDIMSR,29,-,-,-,-,-
+319,A(&Delta;10/15C)INSL3,AAATNPARTCLSGTQQDLLTLCPY,24,-,-,-,-,-
+320,adrenomedullin,YRQSMNQGSRSTGCRFGTCTMQKLAHQIYQFTDKDKDGMAPRNKISPQGY,50,-,-,-,-,-
+321,adropin,CHSRSADVDSLSESSPNSSPGPCPEKAPPPQKPSHEGSYLLQP,43,-,-,-,-,-
+322,"D-Nal,Cys,Tyr,D-Trp,Orn,Val,Cys,Nal-NH<sub>2  </sub>",ACYWRVCA,8,-,-,-,-,-
+323,Ac-RYYRIK-NH<sub>2</sub>,RYYRIK,6,-,-,-,-,-
+324,ACTH-(1-24),SYSMEHFRWGKPVGKKRRPVKVYP,24,-,-,-,-,-
+325,agouti,HLALEETLGDDRSLRSNSSMNSLDFSSVSIVALNKKSKKISRKEAEKRKRSSKKKASMKKVARPPPPSPCVATRDSCKPPAPACCDPCASCQCRFFGSACTCRVLNPNC,109,-,-,-,-,-
+326,ACTH,SYSMEHFRWGKPVGKKRRPVKVYPNGAEDESAEAFPLEF,39,-,-,-,-,-
+327,adrenomedullin 2/intermedin,TQAQLLRVGCVLGTCQVQNLSHRLWQLMGPAGRQDSAPVDPSSPHSY,47,-,-,-,-,-
+328,[Ac-His<sup>1</sup>]PACAP-27,HSDGIFTDSYSRYRKQMAVKKYLAAVL,27,-,-,-,-,-
+329,afamelanotide,SYSXEHFRWGKPV,13,-,-,-,-,-
+330,alarelin,XHWSYGLRP,9,-,-,-,-,-
+331,alarin,APAHRSSTFPQRPTRAGRQTQLLRS,25,-,-,-,-,-
+332,"[Ala<sup>11,22,28</sup>]VIP",HSDAVFTDNYARLRKQMAVKKALNSILA,28,-,-,-,-,-
+333,"[Ala<sup>1,12</sup>,Aib<sup>3</sup>,Gln<sup>10</sup>,hArg<sup>11</sup>,Trp<sup>14,</sup>Arg<sup>19</sup>]PTH-(1-21)-NH2 (human)",AVXEIQLMHQXAKWLNSMRRV,21,-,-,-,-,-
+334,"[Ala<sup>1,12</sup>,Aib<sup>3</sup>,Gln<sup>10</sup>,hArg<sup>11</sup>,Trp<sup>14</sup>,Arg<sup>19</sup>]PTH-(1-28)-NH2 (human)",AVXEIQLMHQXAKWLNSMRRVEWLRKKL,28,-,-,-,-,-
+335,"[Ala<sup>1,12</sup>,Aib<sup>3</sup>,Gln<sup>10</sup>,hArg<sup>11</sup>,Trp<sup>14</sup>,Arg<sup>19</sup>]PTH-(1-34)-NH2",AVXEIQLMHQXAKWLNSMRRVEWLRKKLQDVHNF,34,-,-,-,-,-
+336,"[Ala<sup>1,12</sup>,Aib<sup>3</sup>,Gln<sup>10</sup>,hArg<sup>11</sup>,Trp<sup>14</sup>]PTH-(1-14)-NH2",AVXEIQLMHQXAKW,14,-,-,-,-,-
+337,"[Ala<sup>11</sup>, D-Leu<sup>15</sup>]orexin-B",RSGPPGLQGRLQRLLQASGNHAAGILTM,28,-,-,-,-,-
+338,"[Ala<sup>1,3,11,15</sup>]ET-1",ASASSLMDKEAVYFAHLDIIW,21,-,-,-,-,-
+339,"[Ala<sup>31</sup>,Aib<sup>32</sup>]NPY",YPSKPDNPGEDAPAEDMARYYSALRHYINLLXRQRY,36,-,-,-,-,-
+340,"[Ala<sup>31</sup>,Aib<sup>32</sup>]NPY (pig)",YPSKPDNPGEDAPAEDLARYYSALRHYINLAXRQRY,36,-,-,-,-,-
+341,"[Ala<sup>6</sup>, D-Trp<sup>8</sup>]galanin-(1-15)-ol",GWTLNTAWYLLGPHA,15,-,-,-,-,-
+342,albiglutide,,,-,-,-,-,-
+343,albutensin A,ALKAWSVAR,9,-,-,-,-,-
+344,&alpha;-CGRP,SCNTATCVTHRLAGLLSRSGGVVKDNFVPTNVGSEAF,37,-,-,-,-,-
+345,&alpha;-CGRP,ACDTATCVTHRLAGLLSRSGGVVKNNFVPTNVGSKAF,37,-,-,-,-,-
+346,agouti-related protein,AQMGLAPMEGIRRPDQALLPELPGLGLRAPLKKTTAEQAEEDLLQEAQALAEVLDLQDREPRSSRRCVRLHESCLGQQVPCCDPCATCYCRFFNAFCYCRKLGTAMNPCSRT,112,-,-,-,-,-
+347,&alpha;-helical CRF,DLTFHLLREMLEMAKAEQEAEQAALNRLLLEEA,33,-,-,-,-,-
+348,&alpha;-latrotoxin,,,-,-,-,-,-
+349,&alpha;-neoendorphin,YGGFLRKYPK,10,-,-,-,-,-
+350,AM3,CFWKTC,6,-,-,-,-,-
+351,&alpha;-MSH,SYSMEHFRWGKPV,13,-,-,-,-,-
+352,beta-defensin 4A,GIGDPVTCLKSGAICHPVFCPRRYKQIGTCGLPGTKCCKKP,41,-,-,-,-,-
+353,amylin,KCNTATCATQRLANFLVRSSNNLGPVLPPTNVGSNTY,37,-,-,-,-,-
+354,amyloid &beta;,DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVVIA,42,-,-,-,-,-
+355,analog 30 [PMID:18543899],XCKNFXXKTFTSCX,14,-,-,-,-,-
+356,analog 31 [PMID:18543899],XXKNFXXKTFTSCX,14,-,-,-,-,-
+357,analog 32 [PMID:18543899],XXKNFXXKTFTSCX,14,-,-,-,-,-
+358,analog 3 [PMID:18543899],XXKNFYXKTFTSCX,14,-,-,-,-,-
+359,analogue 13: B7-24,,,-,-,-,-,-
+360,amylin,KCNTATCATQRLANFLVHSSNNFGAILSSTNVGSNTY,37,-,-,-,-,-
+361,ALX40-4C,RRRRRRRRR,9,-,-,-,-,-
+362,angiotensin A,ARVYIHPF,8,-,-,-,-,-
+363,angiotensin III,RVYIHPF,7,-,-,-,-,-
+364,angiotensin IV,VYIHPF,6,-,-,-,-,-
+365,annexin I,MAMVSEFLKQARFLENQEQEYVQAVKSYKGGPGSAVSPYPSFNVSSDVAALHKAIMVKGVDEATIIDILTKRTNAQRQQIKAAYLQENGKPLDEVLRKALTGHLEEVVLAMLKTPAQFDADELRGAMKGLGTDEDTLIEILTTRSNEQIREINRVYREELKRDLAKDITSDTSGDFRKALLALAKGDRCQDLSVNQDLADTDARALYEAGERRKGTDVNVFTTILTSRSFPHLRRVFQNYGKYSQHDMNKALDLELKGDIEKCLTTIVKCATSTPAFFAEKLYEAMKGAGTRHKALIRIMVSRSEIDMNEIKVFYQKKYGISLCQAILDETKGDYEKILVALCGGN,346,-,-,-,-,-
+366,annexin I,MAMVSEFLKQACYIEKQEQEYVQAVKSYKGGPGSAVSPYPSFNPSSDVAALHKAIMVKGVDEATIIDILTKRTNAQRQQIKAAYLQETGKPLDETLKKALTGHLEEVVLAMLKTPAQFDADELRAAMKGLGTDEDTLIEILTTRSNQQIREITRVYREELKRDLAKDITSDTSGDFRNALLALAKGDRCEDMSVNQDLADTDARALYEAGERRKGTDVNVFNTILTTRSYPHLRKVFQNYRKYSQHDMNKALDLELKGDIEKCLTTIVKCATSTPAFFAEKLYEAMKGAGTRHKTLIRIMVSRSEIDMNEIKVFYQKKYGIPLCQAILDETKGDYEKILVALCGGN,346,-,-,-,-,-
+367,annexin I,MAMVSEFLKQAWFIENEEQEYVQTVKSSKGGPGSAVSPYPTFNPSSDVAALHKAIMVKGVDEATIIDILTKRNNAQRQQIKAAYLQETGKPLDETLKKALTGHLEEVVLALLKTPAQFDADELRAAMKGLGTDEDTLIEILASRTNKEIRDINRVYREELKRDLAKDITSDTSGDFRNALLSLAKGDRSEDFGVNEDLADSDARALYEAGERRKGTDVNVFNTILTTRSYPQLRRVFQKYTKYSKHDMNKVLDLELKGDIEKCLTAIVKCATSKPAFFAEKLHQAMKGVGTRHKALIRIMVSRSEIDMNDIKAFYQKMYGISLCQAILDETKGDYEKILVALCGGN,346,-,-,-,-,-
+368,annexin I-(2-26),AMVSEFLKQAWFIENEEQEYVQTVK,25,-,-,-,-,-
+369,antarelix,AFASYXLKPA,10,-,-,-,-,-
+370,antisauvagine,FHLLRKMIEIEKQEKEKQQAANNRLLLDTI,30,-,-,-,-,-
+371,apelin-36,LVKPRTSRTGPGAWQGGRRKFRRQRPRLSHKGPMPF,36,-,-,-,-,-
+372,apelin-36,LVQPRGPRSGPGPWQGGRRKFRRQRPRLSHKGPMPF,36,-,-,-,-,-
+373,apelin receptor early endogenous ligand,KPVNFPRRRKLYRHNCFRRRCIPLHSRVPFP,31,-,-,-,-,-
+374,apelin receptor early endogenous ligand,QRPVNLTMRRKLRKHNCLQRRCMPLHSRVPFP,32,-,-,-,-,-
+375,apelin-13,QRPRLSHKGPMPF,13,-,-,-,-,-
+376,apraglutide,HGDGSFSDEXFTILDLLAARDFINWLIQTKITD,33,-,-,-,-,-
+377,AR305352,,,-,-,-,-,-
+378,arginine vasotocin,CYIQNCPRG,9,-,-,-,-,-
+379,[Arg<sup>16</sup>]chicken secretin,HSDGLFTSEYSKMRGRAQVQKFIQNLM,27,-,-,-,-,-
+380,[Arg<sup>19</sup>]PTH-(1-34) (human),SVSEIQLMHNLGKHLNSMRRVEWLRKKLQDVHNF,34,-,-,-,-,-
+381,ARL-15849,XGWXDF,6,-,-,-,-,-
+382,apelin-17,KFRRQRPRLSHKGPMPF,17,-,-,-,-,-
+383,angiotensin-(1-7),DRVYIHP,7,-,-,-,-,-
+384,&beta;-endorphin,YGGFMTSEKSQTPLVTLFKNAIIKNAHKKGQ,31,-,-,-,-,-
+385,ASIP [90-132 (L89Y)],YSAPCVATRNSCKPPAPACCDPCASCQCRFFRSACSCRVLSLNC,44,-,-,-,-,-
+386,astressin 2B,DLSFHLLRKXIEIEKQEKEKQQAENNKLLLDLI,33,-,-,-,-,-
+387,astressin,FHLLREVLEXARAEQLAQEAHKNRKLXEII,30,-,-,-,-,-
+388,atosiban,XYITNCPXG,9,-,-,-,-,-
+389,Ava3,WYKXXXGRAAGLLSGL,16,-,-,-,-,-
+390,Ava5,WYKXXXXXGRAAGLLSGL,18,-,-,-,-,-
+391,"[Ava<sup>9,10</sup>,Ava<sup>14,15</sup>]-Ac-hMCH<sub>6-16</sub>-NH2",RCMXXRVYXYC,11,-,-,-,-,-
+392,AY77,,,-,-,-,-,-
+393,AYPGKF-NH2,AWPGKF,6,-,-,-,-,-
+394,&beta;-CGRP,SCNTATCVTHRLAGLLRRSGGVVKDNFVPTNVGSKAF,37,-,-,-,-,-
+395,B-10356,RKRPXGGSXG,10,-,-,-,-,-
+396,B1-27,RAAPYGVRLCGREFIRAVIFTCGGSRW,27,-,-,-,-,-
+397,(B7-33)H2,,,-,-,-,-,-
+398,B-9430,RRPXGXSXXR,10,-,-,-,-,-
+399,B-9858,KKRPXGXSXX,10,-,-,-,-,-
+400,B-9958,,,-,-,-,-,-
+401,balixafortide,,,-,-,-,-,-
+402,BASS antagonist,FCYWKTCY,8,-,-,-,-,-
+403,BAY 55-9837,HSDAVFTDNYTRLRKQVAAKKYLQSIKNKRY,31,-,-,-,-,-
+404,CGP 23996,KNFFWKTYTS,10,-,-,-,-,-
+405,BBL-454,WXDF,4,-,-,-,-,-
+406,BC-254,XYXKWXDF,8,-,-,-,-,-
+407,BC-264,YXGWXDF,7,-,-,-,-,-
+408,[&beta;Ala<sup>8</sup>]neurokinin A-(4-10),DSFVALM,7,-,-,-,-,-
+409,&beta;-CGRP,SCNTATCVTHRLADLLSRSGGVLKDNFVPTDVGSEAF,37,-,-,-,-,-
+410,&beta;-endorphin,YGGFMTSEKSQTPLVTLFKNAIIKNVHKKGQ,31,-,-,-,-,-
+411,&beta;-MSH,DEGPYRMEHFRWGSPPKD,18,-,-,-,-,-
+412,&beta;-MSH,DDGPYRVEHFRWSNPPKD,18,-,-,-,-,-
+413,&beta;-MSH,ADGPYRVEHFRWGNPPKD,18,-,-,-,-,-
+414,&beta;<sup>3</sup>-tetrapeptide,YWK,3,-,-,-,-,-
+415,&beta;-CGRP,ACNTATCVTHRLAGLLSRSGGMVKSNFVPTNVGSKAF,37,-,-,-,-,-
+416,&beta;-neoendorphin,YGGFLRKYP,9,-,-,-,-,-
+417,big dynorphin,YGGFLRRIRPKLKWDNQKRYGGFLRRQFKVVT,32,-,-,-,-,-
+418,BIM 23023,FCYWKXCT,8,-,-,-,-,-
+419,BIM 23027,XFAYWK,6,-,-,-,-,-
+420,BIM 23030,XYWKVCF,7,-,-,-,-,-
+421,BIM 23034,FCYWKVCA,8,-,-,-,-,-
+422,BIM 23050,AYWKVF,6,-,-,-,-,-
+423,BIM 23052,FFFWKTFT,8,-,-,-,-,-
+424,BIM 23056,FFYWKVFA,8,-,-,-,-,-
+425,BIM 23058,FFYWKVFT,8,-,-,-,-,-
+426,BIM 23059,ACYWKTCT,8,-,-,-,-,-
+427,BIM 23060,FCYWKTCA,8,-,-,-,-,-
+428,BIM 23066,FFYWKVFT,8,-,-,-,-,-
+429,BIM 23068,FFYWKTFT,8,-,-,-,-,-
+430,BIM 23127,ACYWXVCA,8,-,-,-,-,-
+431,BIM 23197,FCYWKXCT,8,-,-,-,-,-
+432,BIM 23268,CFFWKTFC,8,-,-,-,-,-
+433,BIM 23295,CFYWKTFC,8,-,-,-,-,-
+434,BIM 23313,CFYWKTFC,8,-,-,-,-,-
+435,BIM 23454,FCAWKVCA,8,-,-,-,-,-
+436,BIM 23627,FCAWKVCA,8,-,-,-,-,-
+437,BIM28011,YADAIFTAAYRKVLAQLSARKLLQDIASR,29,-,-,-,-,-
+438,BIM 28163,,,-,-,-,-,-
+439,&beta;-endorphin,YGGFMTSEKSQTPLVTLFKNAIIKNAYKKGE,31,-,-,-,-,-
+440,BM213,Ac-FKPLAAaR-OH,14,-,-,-,-,-
+441,BM221,Ac-FKPLA(Abu)aR-OH,18,-,-,-,-,-
+442,BOC-ATE,FCXWKTCT,8,-,-,-,-,-
+443,bovine adrenal medulla peptide 8-22,VGRPEWWMDYQKRYG,15,-,-,-,-,-
+444,"[Bpa<sup>1</sup>,Ile<sup>13</sup>]motilin (human)",XVPIFTYGELQRIQEKERNKGQ,22,-,-,-,-,-
+445,BP-CCL3,SLAADTPTACCFSYTSRQIPQNFIADYFETSSQCSKPGVIFLTKRSRQVCADPSEEWVQKYVSDLELSA,69,-,-,-,-,-
+446,BQ123,DPVLW,5,-,-,-,-,-
+447,BQ 3020,LMDKEAVYFAHLDIIW,16,-,-,-,-,-
+448,bombesin,XQRLGNQWAVGHLM,14,-,-,-,-,-
+449,B-R13/17K H2 relaxin,DSWMEEVIKLCGKELVKAQIAICGMSTWS,29,-,-,-,-,-
+450,[Cha<sup>6</sup>]U-II-(4-11),DCXWKYCV,8,-,-,-,-,-
+451,[Bz-Phe6]U-II (human),ETPDCFWKYCV,11,-,-,-,-,-
+452,C089,FKPXWR,6,-,-,-,-,-
+453,C2-NPY (pig),YCSKRHCINLITRQRY,16,-,-,-,-,-
+454,C3,RCMLGRAYRPCW,12,-,-,-,-,-
+455,C3a,SVQLMERRMDKAGQYTDKGLRKCCEDGMRDIPMPYSCQRRARLITQGESCLKAFMDCCNYITKLREQHRRDHVLGLAR,78,-,-,-,-,-
+456,C3a,SVQLMERRMDKAGQYTDKGLRKCCEDGMRDIPMRYSCQRRARLITQGENCIKAFIDCCNHITKLREQHRRDHVLGLAR,78,-,-,-,-,-
+457,C3a,SVQLTEKRMDKVGKYPKELRKCCEDGMRENPMRFSCQRRTRFISLGEACKKVFLDCCNYITELRRQHARASHLGLAR,77,-,-,-,-,-
+458,C5a,NLHLLRQKIEEQAAKYKHSVPKKCCYDGARVNFYETCEERVARVTIGPLCIRAFNECCTIANKIRKESPHKPVQLGR,77,-,-,-,-,-
+459,C5a,DLQLLHQKVEEQAAKYKHRVPKKCCYDGARENKYETCEQRVARVTIGPHCIRAFNECCTIADKIRKESHHKGMLLGR,77,-,-,-,-,-
+460,C5a hexapeptide analogue,FKAXXR,6,-,-,-,-,-
+461,C5a<sup>pep</sup>,,,-,-,-,-,-
+462,C7,GWTLNSAGYLLGPRPKPQQWFWLL,24,-,-,-,-,-
+463,C5a,TLQKKIEEIAAKYKHSVVKKCCYDGACVNNDETCEQRAARISLGPRCIKAFTECCVVASQLRANISHKDMQLGR,74,-,-,-,-,-
+464,C5a des-Arg,TLQKKIEEIAAKYKHSVVKKCCYDGACVNNDETCEQRAARISLGPRCIKAFTECCVVASQLRANISHKDMQLG,73,-,-,-,-,-
+465,bradykinin,RPPGFSPFR,9,-,-,-,-,-
+466,calcitonin,CGNLSTCMLGTYTQDLNKFHTFPQTSIGVEAP,32,-,-,-,-,-
+467,calcitonin,CGNLSTCMLGTYTQDFNKFHTFPQTAIGVGAP,32,-,-,-,-,-
+468,calcitonin (salmon),CSNLSTCVLGKLSQELHKLQTYPRTNTGSGTP,32,-,-,-,-,-
+469,buserelin,XHWSYSLRP,9,-,-,-,-,-
+470,CART(55-102),VPIYEKKYGQVPMCDAGEQCAVRKGARIGKLCDCPRGTSCNSFLLKCL,48,-,-,-,-,-
+471,CARTPT (76-96),YGQVPMCDAGEQCAVRKGARI,21,-,-,-,-,-
+472,casoxin C,YIPIQYVLSR,10,-,-,-,-,-
+473,cathepsin G,IIGGREARPHSYPYMAFLLIQSPEGLSACGGFLVREDFVLTAAHCLGSSINVTLGAHNIQMRERTQQLITVLRAIRHPDYNPQNIRNDIMLLQLRRRARRSGSVKPVALPQASKKLQPGDLCTVAGWGRVSQSRGTNVLQEVQLRVQMDQMCANRFQFYNSQTQICVGNPRERKSAFRGDSGGPLVCSNVAQGIVSYGSNNGNPPAVFTKIQSFMPWIKRTMRRFAPRYQRPANSLSQAQ,240,-,-,-,-,-
+474,cathepsin G,IIGGREARPNSHPYMAFLLIGSPEGLSACGGFLVREDFVLTAGHCFGSSINVTLGAHNIRRGEGTGGHITVLRAIRHPDYNPPPVIQNDIMLLQLRSRARRSRAVKPVALPQATKRVQPGALCTVAGWGLVSQRRGTNVLQEVKLRVQTDQTCANRFQFYNSQTQICVGNPRERKSAFKGDSGGPLVCNNVAQGIVSYGSSSGNPPAVFTRIQSFMPWIKRTMRRLSSRY,230,-,-,-,-,-
+475,cathepsin G,IIGGRESRPHSRPYMAYLQIQSPAGQSRCGGFLVREDFVLTAAHCWGSNINVTLGAHNIQRRENTQQHITARRAIRHPQYNQRTIQNDIMLLQLSRRVRRNRNVNPVALPRAQEGLRPGTLCTVAGWGRVSMRRGTDTLREVQLRVQRDRQCLRIFGSYDPRRQICVGDRRERKAAFKGDSGGPLLCNNVAHGIVSYGKSSGVPPEVFTRVSSFLPWIRTTMRSFKLLDQMETPL,235,-,-,-,-,-
+476,CCK-33,KAPSGRMSVLKNLQSLDPSHRISDRDYMGWMDF,33,-,-,-,-,-
+477,CCK-33,KAPSGRMSVLKNLQGLDPSHRISDRDYMGWMDF,33,-,-,-,-,-
+478,CCK-39,YIQQARKAPSGRMSIVKNLQNLDPSHRISDRDYMGWMDF,39,-,-,-,-,-
+479,CCK-4,WMDF,4,-,-,-,-,-
+480,CCK-58,AVQKVDGEPRAHLGALLARYIQQARKAPSGRMSVIKNLQNLDPSHRISDRDYMGWMDF,58,-,-,-,-,-
+481,CCK-58,VSQRTDGESRAHLGALLARYIQQARKAPSGRMSIVKNLQNLDPSHRISDRDYMGWMDF,58,-,-,-,-,-
+482,CCK-33,KAPSGRMSIVKNLQNLDPSHRISDRDYMGWMDF,33,-,-,-,-,-
+483,CCL1,KSMQVPFSRCCFSFAEQEIPLRAILCYRNTSSICSNEGLIFKLKRGKEACALDTVGWVQRHRKMLRHCPSKRK,73,-,-,-,-,-
+484,CCL1,KSMLTVSNSCCLNTLKKELPLKFIQCYRKMGSSCPDPPAVVFRLNKGRESCASTNKTWVQNHLKKVNPC,69,-,-,-,-,-
+485,CCL11,HPGSIPTSCCFTMTSKKIPNTLLKSYKRITNNRCTLKAIVFKTKLGKEICADPKKKWVQDATKHLDQKLQTPKP,74,-,-,-,-,-
+486,CCL11,HPGSIPTSCCFIMTSKKIPNTLLKSYKRITNNRCTLKAIVFKTRLGKEICADPKKKWVQDATKHLDQKLQTPKP,74,-,-,-,-,-
+487,CCL13,FNPQGLAQPDALNVPSTCCFTFSSKKISLQRLKSYVITTSRCPQKAVIFRTKLGKEICADPKEKWVQNYMKHLGRKAHTLKT,82,-,-,-,-,-
+488,CCL16,QPKVPEWVNTPSTCCLKYYEKVLPRRLVVGYRKALNCHLPAIIFVTKRNREVCTNPNDDWVQEYIKDPNLPLLPTRNLSTVKIITAKNGQPQLLNSQ,97,-,-,-,-,-
+489,CCL17,ARGTNVGRECCLEYFKGAIPLRKLKTWYQTSEDCSRDAIVFVTVQGRAICSDPNNKRVKNAVKYLQSLERS,71,-,-,-,-,-
+490,CCL18,AQVGTNKELCCLVYTSWQIPQKFIVDYSETSPQCPKPGVILLTKRGRQICADPNKKWVQKYISDLKLNA,69,-,-,-,-,-
+491,CCL19,GANDAEDCCLSVTQRPIPGNIVKAFRYLLNEDGCRVPAVVFTTLRGYQLCAPPDQPWVDRIIRRLKKSSAKNKGNSTRRSPVS,83,-,-,-,-,-
+492,CCL19,GTNDAEDCCLSVTQKPIPGYIVRNFHYLLIKDGCRVPAVVFTTLRGRQLCAPPDQPWVERIIQRLQRTSAKMKRRSS,77,-,-,-,-,-
+493,CCL2,QPDAVNAPLTCCYSFTSKMIPMSRLESYKRITSSRCPKEAVVFVTKLKREVCADPKKEWVQTYIKNLDRNQMRSEPTTLFKTASALRSSAPLNVKLTRKSEANASTTFSTTTSSTSVGVTSVTVN,125,-,-,-,-,-
+494,CCL2,QPDAVNAPLTCCYSFTGKMIPMSRLENYKRITSSRCPKEAVVFVTKLKREICADPNKEWVQKYIRKLDQNQVRSETTVFYKIASTLRTSAPLNVNLTHKSEANASTLFSTTTSSTSVEVTSMTEN,125,-,-,-,-,-
+495,CCL20,SNFDCCLTYTKNVYHHARNFVGFTTQMADEACDINAIIFHLKSKRSVCADPKQIWVKRILHLLSLRTKKM,70,-,-,-,-,-
+496,CCL20,ASNYDCCLSYIQTPLPSRAIVGFTRQMADEACDINAIIFHTKKRKSVCADPKQNWVKRAVNLLSLRVKKM,70,-,-,-,-,-
+497,CCL20-SEAP(His)<sub>6</sub>,,,-,-,-,-,-
+498,CCL14,TKTESSSRGPYHPSECCFTYTTYKIPRQRIMDYYETNSQCSKPGIVFITKRGHSVCTNPSDKWVQDYIKDMKEN,74,-,-,-,-,-
+499,CCL15,QFINDAETELMMSKLPLENPVVLNSFHFAADCCTSYISQSIPCSLMKSYFETSSECSKPGVIFLTKKGRQVCAKPSGPGVQDCMKKLKPYSI,92,-,-,-,-,-
+500,CCL2,QPDAINAPVTCCYNFTNRKISVQRLASYRRITSSKCPKEAVIFKTIVAKEICADPKQKWVQDSMDHLDKQTQTPKT,76,-,-,-,-,-
+501,galparan,GWTLNSAGYLLGPINLKALAALAKKIL,27,-,-,-,-,-
+502,CCL11,GPASVPTTCCFNLANRKIPLQRLESYRRITSGKCPQKAVIFKTKLAKDICADPKKKWVQDSMKYLDQKSPTPKP,74,-,-,-,-,-
+503,CCL21,SDGGAQDCCLKYSQRKIPAKVVRSYRKQEPSLGCSIPAILFLPRKRSQAELCADPKELWVQQLMQHLDKTPSPQKPAQGCRKDRGASKTGKKGKGSKGCKRTERSQTPKGP,111,-,-,-,-,-
+504,Ccl21a,MAQMMTLSLLSLVLALCIPWTQGSDGGGQDCCLKYSQKKIPYSIVRGYRKQEPSLGCPIPAILFSPRKHSKPELCANPEEGWVQNLMRRLDQPPAPGKQSPGCRKNRGTSKSGKKGKGSKGCKRTEQTQPSRG,133,-,-,-,-,-
+505,Ccl21b,MAQMMTLSLLSLVLALCIPWTQGSDGGGQDCCLKYSQKKIPYSIVRGYRKQEPSLGCPIPAILFLPRKHSKPELCANPEEGWVQNLMRRLDQPPAPGKQSPGCRKNRGTSKSGKKGKGSKGCKRTEQTQPSRG,133,-,-,-,-,-
+506,CCL22,GPYGANVEDSICCQDYIRHPLPSRLVKEFFWTSKSCRKPGVVLITVKNRDICADPRQVWVKKLLHKLS,68,-,-,-,-,-
+507,CCL22,GPYGANMEDSVCCRDYVRYRLPLRVVKHFYWTSDSCPRPGVVLLTFRDKEICADPRVPWVKMILNKLSQ,69,-,-,-,-,-
+508,CCL24,VTIPSSCCTSFISKKIPENRVVSYQLANGSICPKAGVIFITKKGHKICTDPKLLWVQRHIQKLDAKKNQPSKGAKAVRTKFAVQRRRGNSTEV,93,-,-,-,-,-
+509,CCL24,VVIPSPCCMFFVSKRIPENRVVSYQLSSRSTCLKAGVIFTTKKGQQFCGDPKQEWVQRYMKNLDAKQKKASPRARAVAVKGPVQRYPGNQTTC,93,-,-,-,-,-
+510,CCL25,QGVFEDCCLAYHYPIGWAVLRRAWTYRIQEVSGSCNLPAAIFYLPKRHRKVCGNPKSREVQRAMKLLDARNKVFAKLHHNTQTFQAGPHAVKKLSSGNSKLSSSKFSNPISSSKRNVSLLISANSGL,127,-,-,-,-,-
+511,CCL25,QGAFEDCCLGYQHRIKWNVLRHARNYHQQEVSGSCNLRAVRFYFRQKVVCGNPEDMNVKRAIRILTARKRLVHWKSASDSQTERKKSNHMKSKVENPNSTSVRSATLGHPRMVMMPRKTNN,121,-,-,-,-,-
+512,CCL26,TRGSDISKTCCFQYSHKPLPWTWVRSYEFTSNSCSQRAVIFTTKRGKKVCTHPRKKWVQKYISLLKTPKQL,71,-,-,-,-,-
+513,CCL27,LPLPSSTSCCTQLYRQPLPSRLLRRIVHMELQEADGDCHLQAVVLHLARRSVCVHPQNRSLARWLERQGKRLQGTVPSLNLVLQKKMYSHPQQQN,95,-,-,-,-,-
+514,CCL28,FQTSEAILPMASSCCTEVSHHVSGRLLERVSSCSIQRADGDCDLAAVILHVKRRRICISPHNRTLKQWMRASEVKKNGRENVCSGKKQPSRKDRKGHTTRKHRTRGTHRHEASR,114,-,-,-,-,-
+515,CCL3,APYGADTPTACCFSYGRQIPRKFIADYFETSSLCSQPGVIFLTKRNRQICADPKETWVQEYITELELNA,69,-,-,-,-,-
+516,CCL3,APYGADTPTACCFSYSRKIPRQFIVDYFETSSLCSQPGVIFLTKRNRQICADSKETWVQEYITDLELNA,69,-,-,-,-,-
+517,CCL4,APIGSDPPTSCCFSYTSRKIHRNFVMDYYETSSLCSQPAVVFLTKKGRQICADPSEPWVNEYVNDLELN,69,-,-,-,-,-
+518,CCL4,APMGSDPPTSCCFSYTSRQLHRSFVMDYYETSSLCSKPAVVFLTKRGRQICANPSEPWVTEYMSDLELN,69,-,-,-,-,-
+519,CCL5,SPYGSDTTPCCFAYLSLALPRAHVKEYFYTSSKCSNLAVVFVTRRNRQVCANPEKKWVQEYINYLEMS,68,-,-,-,-,-
+520,CCL7,QPDGPNASTCCYVKKQKIPKRNLKSYRRITSSRCPWEAVIFKTKKGMEVCAEAHQKWVEEAIAYLDMKTPTPKP,74,-,-,-,-,-
+521,CCL7,QPDGTNSSTCCYVKKQKIPKRNLKSYRKITSSRCPWEAVIFKTKKGMEVCAEAHQKWVEEAIAYLDMKTSTPKP,74,-,-,-,-,-
+522,CCL8,EKLTGPDKAPVTCCFHVLKLKIPLRVLKSYERINNIQCPMEAVVFQTKQGMSLCVDPTQKWVSEYMEILDQKSQILQP,78,-,-,-,-,-
+523,CGEN-855A,TIPMFVPESTSKLQKFTSWFM,21,-,-,-,-,-
+524,CGEN-856,FLGYCIYLNRKRRGDPAFKRRLRD,24,-,-,-,-,-
+525,CGEN-857,SMCHRWSRAVLFPAAHRP,18,-,-,-,-,-
+526,CCL20,ASNFDCCLGYTDRILHPKFIVGFTRQLANEGCDINAIIFHTKKKLSVCANPKQTWVKYIVRLLSKKVKNM,70,-,-,-,-,-
+527,CCK-8,DYMGWMDF,8,-,-,-,-,-
+528,CXCL12-(1-17),KPVSLSYRCPCRFFESH,17,-,-,-,-,-
+529,CCL23,RVTKDAETEFMMSKLPLENPVLLDRFHATSADCCISYTPRSIPCSLLESYFETNSECSKPGVIFLTKKGRRFCANPSDKQVQVCMRMLKLDTRIKTRKN,99,-,-,-,-,-
+530,cetrorelix,AFASYXLRPA,10,-,-,-,-,-
+531,CCL27,FLLPPSTACCTQLYRKPLSDKLLRKVIQVELQEADGDCHLQAFVLHLAQRSICIHPQNPSLSQWFEHQERKLHGTLPKLNFGMLRKMG,88,-,-,-,-,-
+532,CCL28,SEAILPIASSCCTEVSHHISRRLLERVNMCRIQRADGDCDLAAVILHVKRRRICVSPHNHTVKQWMKVQAAKKNGKGNVCHRKKHHGKRNSNRAHQGKHETYGHKTPY,108,-,-,-,-,-
+533,CCL8,QPDSVSIPITCCFNVINRKIPIQRLESYTRITNIQCPKEAVIFKTKRGKEVCADPKERWVRDSMKHLDQIFQNLKP,76,-,-,-,-,-
+534,CCL7,QPVGINTSTTCCYRFINKKIPKQRLESYRRTTSSHCPREAVIFKTKLDKEICADPTQKWVQDFMKHLDKKTQTPKL,76,-,-,-,-,-
+535,CCL4,APMGSDPPTACCFSYTARKLPRNFVVDYYETSSLCSQPAVVFQTKRSKQVCADPSESWVQEYVYDLELN,69,-,-,-,-,-
+536,CH 275,CKFFWFTFTSC,11,-,-,-,-,-
+537,chemerin,ELTEAQRRGLQVALEEFHKHPPVQWAFQETSVESAVDTPFPAGIFVRLEFKLQQTSCRKRDWKKPECKVRPNGRKRKCLACIKLGSEDKVLGRLVHCPIETQVLREAEEHQETQCLRVQRAGEDPHSFYFPGQF,134,-,-,-,-,-
+538,ganirelix,AFASYXLXPA,10,-,-,-,-,-
+539,Chgb (511-532),KRLGALFNPYFDPLQWKNSDFE,22,-,-,-,-,-
+540,CHIPS,FTFEPFPTNEEIESNKKMLEKEKAYKESFKNSGLPTTLGKLDERLRNYLKKGTKNSAQFEKMVILTENKGYYTVYLNTPLAEDRKNVELLGKMYKTYFFKKGESKSSYVINGPGKTNEYAY,121,-,-,-,-,-
+541,CHIPS-(28-149),AFTFEPFPTNEEIESNKKMLEKEKAYKESFKNSGLPTTLGKLDERLRNYLKKGTKNSAQFEKMVILTENKGYYTVYLNTPLAEDRKNVELLGKMYKTYFFKKGESKSSYVINGPGKTNEYAY,122,-,-,-,-,-
+542,"[(CH<sub>2</sub>NH)<sup>4,5</sup>]secretin",,,-,-,-,-,-
+543,CCL3,SLAADTPTACCFSYTSRQIPQNFIADYFETSSQCSKPGVIFLTKRSRQVCADPSEEWVQKYVSDLELSA,69,-,-,-,-,-
+544,CCL5,SPYSSDTTPCCFAYIARPLPRAHIKEYFYTSGKCSNPAVVFVTRKNRQVCANPEKKWVREYINSLEMS,68,-,-,-,-,-
+545,CLUL1 (52-77),ALTGIKQMKIMMERKEKEHTNLMSTL,26,-,-,-,-,-
+546,CT-(8-32) (salmon),CVLGKLSQELHKLQTYPRTNTGSG,24,-,-,-,-,-
+547,Ga-NODAGA-LM3,FCYFKTCY,8,-,-,-,-,-
+548,R5-HIV-1 gp120,,,-,-,-,-,-
+549,compound 1 [PMID: 25241924],VTLPLWATYTYR,12,-,-,-,-,-
+550,Fz7-21,LPSDDLEFWCHVMY,14,-,-,-,-,-
+551,CTAP,FCYWRTXT,8,-,-,-,-,-
+552,R-715,KRPPGFSAI,9,-,-,-,-,-
+553,compound 2 [PMID: 11375253],YGGRCMLGRVYRPCW,15,-,-,-,-,-
+554,S36057,YXRCMLGRVFRPCW,14,-,-,-,-,-
+555,compound 54,Ac-LEGREKVRAQIUUEGXSTWSURKK-NH2,31,-,-,-,-,-
+556,compound 5d [PMID: 25815150],,,-,-,-,-,-
+557,compound 6b [PMID: 24999562],,,-,-,-,-,-
+558,compound 8d [PMID: 24999562],,,-,-,-,-,-
+559,S36077,RSMLGRVYRPSW,12,-,-,-,-,-
+560,contulakin-G,QSEEGGSNATKKPYIL,16,-,-,-,-,-
+561,corticotropin-releasing factor,SQEPPISLDLTFHLLREVLEMTKADQLAQQAHSNRKLLDIA,41,-,-,-,-,-
+562,cortistatin-14,PCKNFFWKTFSSCK,14,-,-,-,-,-
+563,CXCL12-(1-9),KPVSLSYRC,9,-,-,-,-,-
+564,CXCL12-(1-9) dimer,,,-,-,-,-,-
+565,Gal-B2-C<sub>10</sub>,GWTLNSAGYLLGPKKKK,17,-,-,-,-,-
+566,corticotrophin-releasing hormone,SEEPPISLDLTFHLLREVLEMARAEQLAQQAHSNRKLMEII,41,-,-,-,-,-
+567,CPN-116,,,-,-,-,-,-
+568,CPN-219,,,-,-,-,-,-
+569,CPN-223,,,-,-,-,-,-
+570,CPN-267,XWXRPRN,7,-,-,-,-,-
+571,CRAMP,ISRLAGLLRKGGEKIGEKLKKIGQKIKNFFQKLVPQPE,38,-,-,-,-,-
+572,CST-17,DRMPCRNFFWKTFSSCK,17,-,-,-,-,-
+573,CTOP,FCYWXTXT,8,-,-,-,-,-
+574,gastric inhibitory polypeptide,YAEGTFISDYSIAMDKIRQQDFVNWLLAQRGKKSDWKHNITQ,42,-,-,-,-,-
+575,CXCL1,APVANELRCQCLQTVAGIHFKNIQSLKVMPPGPHCTQTEVIATLKNGREACLDPEAPMVQKIVQKMLKGVPK,72,-,-,-,-,-
+576,CXCL1,APIANELRCQCLQTMAGIHLKNIQSLKVLPSGPHCTQTEVIATLKNGREACLDPEAPLVQKIVQKMLKGVPK,72,-,-,-,-,-
+577,CXCL10,IPLARTVRCTCIDFHEQPLRPRAIGKLEIIPASLSCPHVEIIATMKKNNEKRCLNPESEAIKSLLKAVSQRRSKRAP,77,-,-,-,-,-
+578,CXCL12,KPVSLSYRCPCRFFESHIARANVKHLKILNTPNCALQIVARLKNNNRQVCIDPKLKWIQEYLEKALNKRLKM,72,-,-,-,-,-
+579,CXCL1,ASVATELRCQCLQTLQGIHPKNIQSVNVKSPGPHCAQTEVIATLKNGRKACLNPASPIVKKIIEKMLNSDKSN,73,-,-,-,-,-
+580,CXCL10,IPLARTVRCNCIHIDDGPVRMRAIGKLEIIPASLSCPRVEIIATMKKNDEQRCLNPESKTIKNLMKAFSQKRSKRAP,77,-,-,-,-,-
+581,CXCL11,FLMFKQGRCLCIGPGMKAVKMAEIEKASVIYPSNGCDKVEVIVTMKAHKRQRCLDPRSKQARLIMQAIEKKNFLRRQNM,79,-,-,-,-,-
+582,CXCL10,VPLSRTVRCTCISISNQPVNPRSLEKLEIIPASQFCPRVEIIATMKKKGEKRCLNPESKAIKNLLKAVSKERSKRSP,77,-,-,-,-,-
+583,CXCL11,FPMFKRGRCLCIGPGVKAVKVADIEKASIMYPSNNCDKIEVIITLKENKGQRCLNPKSKQARLIIKKVERKNF,73,-,-,-,-,-
+584,CXCL12&beta;,KPVSLSYRCPCRFFESHVARANVKHLKILNTPNCALQIVARLKNNNRQVCIDPKLKWIQEYLEKALNKRFKM,72,-,-,-,-,-
+585,CXCL12&delta;,KPVSLSYRCPCRFFESHVARANVKHLKILNTPNCALQIVARLKNNNRQVCIDPKLKWIQEYLEKALNNLISAAPAGKRVIAGARALHPSPPRACPTARALCEIRLWPPPEWSWPSPGDV,119,-,-,-,-,-
+586,CXCL12&epsilon;,KPVSLSYRCPCRFFESHVARANVKHLKILNTPNCALQIVARLKNNNRQVCIDPKLKWIQEYLEKALNNC,69,-,-,-,-,-
+587,CXCL12&gamma;,KPVSLSYRCPCRFFESHVARANVKHLKILNTPNCALQIVARLKNNNRQVCIDPKLKWIQEYLEKALNKGRREEKVGKKEKIGKKKRQKKRKAAQKRKN,98,-,-,-,-,-
+588,CXCL12&phi;,KPVSLSYRCPCRFFESHVARANVKHLKILNTPNCALQIVARLKNNNRQVCIDPKLKWIQEYLEKALNKIWLYGNAETSR,79,-,-,-,-,-
+589,CXCL12<sub>2</sub> (dimer),KPVSLSYRCPCRFFESHVARANVKHCKILNTPNCALQIVARLKNNNRQVCIDPKLKWIQEYLEKCLNK,68,-,-,-,-,-
+590,CXCL12<sub>H25R</sub> (monomer),KPVSLSYRCPCRFFESHVARANVKRLKILNTPNCALQIVARLKNNNRQVCIDPKLKWIQEYLEKALNK,68,-,-,-,-,-
+591,CXCL13,ILEAHYTNLKCRCSGVISTVVGLNIIDRIQVTPPGNGCPKTEVVIWTKMKKVICVNPRAKWLQRLLRHVQSKSLSSTPQAPVSKRRAA,88,-,-,-,-,-
+592,CXCL13,VLEVYYTSLRCRCVQESSVFIPRRFIDRIQILPRGNGCPRKEIIVWKKNKSIVCVDPQAEWIQRMMEVLRKRSSSTLPVPVFKRKIP,87,-,-,-,-,-
+593,CXCL16,NQGSVAGSCYCDRTIPSGTQIPPATLNHMRKYLKTFHRCQFFIRFQLQSKSVCGGSQDQWVRELVNCFEHKQCGIGHGQSFHHQKHVPQASTRIPEATEGKPPDTSTAVQFQSTQQSTFPSGAPSLNKELTRHWETTILPSGYGLEARPVAEANEKQHKQQKEPGAGAGTQALVPVLSLLAIVFFLVAAMVCVLCNRRVTRQSSSGLQLCYTPVEPRPQGL,221,-,-,-,-,-
+594,CXCL16,NQGSVAGSCSCDRTISSGTQIPQGTLDHIRKYLKAFHRCPFFIRFQLQSKSVCGGSQDQWVRELVDCFERKECGTGHGKSFHHQKHLPQASTQTPEAAEGTPSDTSTPAHSQSTQHSTLPSGALSLNKEHTQPWEMTTLPSGYGLEARPEAEANEKQQDDRQQEAPGAGASTPAWVPVLSLLAIVFFLTAAMAYVLCNRRATQQNSAGLQLWYTPVEPRP,220,-,-,-,-,-
+595,CXCL16,NEGSVTGSCYCGKRISSDSPPSVQFMNRLRKHLRAYHRCLYYTRFQLLSWSVCGGNKDPWVQELMSCLDLKECGHAYSGIVAHQKHLLPTSPPISQASEGASSDIHTPAQMLLSTLQSTQRPTLPVGSLSSDKELTRPNETTIHTAGHSLAAGPEAGENQKQPEKNAGPTARTSATVPVLCLLAIIFILTAALSYVLCKRRRGQSPQSSPDLPVHYIPVAPDSNT,225,-,-,-,-,-
+596,CXCL17,SSLNPGVARGHRDRGQASRRWLQEGGQECECKDWFLRAPRRKFMTVSGLPKKQCPCDHFKGNVKKTRHQRHHRKPNKHSRACQQFLKQCQLRSFALPL,98,-,-,-,-,-
+597,CXCL2,SELRCQCLTTLPRVDFKNIQSLTVTPPGPHCAQTEVIATLKDGHEVCLNPEAPLVQRIVQKILNKGKAN,69,-,-,-,-,-
+598,CXCL2,AVVASELRCQCLKTLPRVDFKNIQSLSVTPPGPHCAQTEVIATLKGGQKVCLDPEAPLVQKIIQKILNKGKAN,73,-,-,-,-,-
+599,CXCL3,RELRCQCLKTLPRVDFENIQSLTVTPPGPHCTQTEVIATLKDGQEVCLNPQAPRLQKIIQKLLKSDKSS,69,-,-,-,-,-
+600,CXCL3,SELRCQCLNTLPRVDFETIQSLTVTPPGPHCTQTEVIATLKDGQEVCLNPQGPRLQIIIKKILKSGKSS,69,-,-,-,-,-
+601,CXCL5,APSSVIAATELRCVCLTVTPKINPKLIANLEVIPAGPQCPTVEVIAKLKNQKEVCLDPEAPVIKKIIQKILGSDKKKAKRNALAVERTASVQ,92,-,-,-,-,-
+602,CXCL5,APFSAMVATELRCVCLTLAPRINPKMIANLEVIPAGPHCPKVEVIAKLKNQKDNVCLDPQAPLIKKVIQKILGSENKKTKRNALALVRSASTQ,93,-,-,-,-,-
+603,CXCL7,SDLYAELRCMCIKTTSGIHPKNIQSLEVIGKGTHCNQVEVIATLKDGRKICLDPDAPRIKKIVQKKLAGDESAD,74,-,-,-,-,-
+604,CXCL9,TLVIRNARCSCISTSRGTIHYKSLKDLKQFAPSPNCNKTEIIATLKNGDQTCLDPDSANVKKLMKEWEKKINQKKKQKRGKKHQKNMKNRKPKTPQSRRRSRKTT,105,-,-,-,-,-
+605,davalintide,KCNTATCVLGRLSQELHRLQTYPRTNTGSNTY,32,-,-,-,-,-
+606,CX<sub>3</sub>CL1,QHLGMTKCEIMCDKMTSRIPVALLIRYQLNQESCGKRAIVLETTQHRRFCADPKEKWVQDAMKHLDHQAAALTKNGGKFEKRVDNVTPGITLATRGLSPSALTKPESATLEDLALELTTISQEARGTMGTSQEPPAAVTGSSLSTSEAQDAGLTAKPQSIGSFEAADISTTVWPSPAVYQSGSSSWAEEKATESPSTTAPSPQVSTTSPSTPEENVGSEGQPPWVQGQDLSPEKSLGSEEINPVHTDNFQERGPGNTVHPSVAPISSEETPSPELVASGSQAPKIEEPIHATADPQKLSVLITPVPDTQAATRRQAVGLLAFLGLLFCLGVAMFAYQSLQGCPRKMAGEMVEGLRYVPRSCGSNSYVLVPV,371,-,-,-,-,-
+607,CX<sub>3</sub>CL1,QHLGMTKCNITCHKMTSPIPVTLLIHYQLNQESCGKRAIILETRQHRHFCADPKEKWVQDAMKHLDHQTAALTRNGGKFEKRVDNVTPRITSATRGLSPTALAKPESATVEDLTLEPTAISQEARRPMGTSQEPPAAVTGSSPSTSKAQDAGLAAKPQSTGISEVAAVSTTIWPSSAVYQSGSSLWAEEKATESPPTIALSTQASTTSSPKQNVGSEGQPPWVQEQDSTPEKSPGPEETNPVHTDIFQDRGPGSTVHPSVAPTSSEKTPSPELVASGSQAPKVEEPIHATADPQKLSVFITPVPDSQAATRRQAVGLLAFLGLLFCLGVAMFAYQSLQGCPRKMAGEMVEGLRYVPRSCGSNSYVLVPV,369,-,-,-,-,-
+608,cyclic INSL3 B-chain analogue 6,CPEMREKLSGHHFVRALVRCSGGPRW,26,-,-,-,-,-
+609,"cyclo(7-12) Des-AA<sup>1,2,5</sup>-[Glu<sup>7</sup>,D-Trp<sup>8</sup>,IAmp<sup>9</sup>,m-I-Tyr<sup>11</sup>,hhLys<sup>12</sup>]SRIF",CKFEWXTYKSC,11,-,-,-,-,-
+610,cyclo apelin-12 (1-12),RPRLSHKGPMPF,12,-,-,-,-,-
+611,cyclo apelin-12 (7-12),RPRLSHKGPMPF,12,-,-,-,-,-
+612,"Cyclolinopeptide 1-Mso,3-Met-CL6",,,-,-,-,-,-
+613,CXCL6,GPVSAVLTELRCTCLRVTLRVNPKTIGKLQVFPAGPQCSKVEVVASLKNGKQVCLDPEAPFLKKVIQKILDSGNKKN,77,-,-,-,-,-
+614,CXCL3,ASVVTELRCQCLQTLQGIHLKNIQSVNVRSPGPHCAQTEVIATLKNGKKACLNPASPMVQKIIEKILNKGSTN,73,-,-,-,-,-
+615,CXCL2,APLATELRCQCLQTLQGIHLKNIQSVKVKSPGPHCAQTEVIATLKNGQKACLNPASPMVKKIIEKMLKNGKSN,73,-,-,-,-,-
+616,CXCL5,AGPAAAVLRELRCVCLQTTQGVHPKMISNLQVFAIGPQCSKVEVVASLKNGKEICLDPEAPFLKKVIQKILDGGNKEN,78,-,-,-,-,-
+617,CXCL9,TPVVRKGRCSCISTNQGTIHLQSLKDLKQFAPSPSCEKIEIIATLKNGVQTCLNPDSADVKELIKKWEKQVSQKKKQKNGKKHQKKKVLKVRKSQRSRQKKTT,103,-,-,-,-,-
+618,[Cy5-Lys<sup>19</sup>]NPS,SFRNGVGTGMKKTSFQRAKS,20,-,-,-,-,-
+619,CXCL8,AVLPRSAKELRCQCIKTYSKPFHPKFIKELRVIESGPHCANTEIIVKLSDGRELCLDPKENWVQRVVEKFLKRAENS,77,-,-,-,-,-
+620,DOTA-<sub>JR11</sub>,,,-,-,-,-,-
+621,CXCL12&alpha;,KPVSLSYRCPCRFFESHVARANVKHLKILNTPNCALQIVARLKNNNRQVCIDPKLKWIQEYLEKALNK,68,-,-,-,-,-
+622,cyclosporin A,XXXLVLAALLV,11,-,-,-,-,-
+623,cyclorelix,AFASYXLRPA,10,-,-,-,-,-
+624,cyclosporin H,XXXLVLAALLV,11,-,-,-,-,-
+625,cyclourea apelin-12 (1-7),RPRLSHKGPMPF,12,-,-,-,-,-
+626,DADLE,YAGFL,5,-,-,-,-,-
+627,cytokine domain of tyrosyl tRNA synthetase,PEEVIPSRLDIRVGKIITVEKHPDADSLYVEKIDVGEAEPRTVVSGLVQFVPKEELQDRLVVVLCNLKPQKMRGVESQGMLLCASIEGINRQVEPLDPPAGSAPGEHVFVKGYEKGQPDEELKPKKKVFEKLQADFKISEECIAQWKQTNFMTKLGSISCKSLKGGNIS,169,-,-,-,-,-
+628,D-23487,AFASYKLRPA,10,-,-,-,-,-
+629,D-24710,ASYKLKP,7,-,-,-,-,-
+630,(D-Ala<sup>11</sup>]bombesin,EQRLGNQWAVAHLMA,15,-,-,-,-,-
+631,"[D-Ala<sup>2</sup>,F<sub>5</sub>,Phe<sup>4</sup>]dynorphin-(1-13)-NH<sub>2</sub>",YAGFLRRIRPKLK,13,-,-,-,-,-
+632,"[D-Ala<sup>2</sup>,F<sub>5</sub>,Phe<sup>4</sup>]dynorphin-(1-17)-NH<sub>2</sub>",YAGFLRRIRPKLKWDNQ,17,-,-,-,-,-
+633,[D-Ala<sup>7</sup>]-angiotensin(1-7),DRVYIHA,7,-,-,-,-,-
+634,"[D-Arg<sup>1</sup>,D-Phe<sup>5</sup>,D-Trp<sup>7,9</sup>,Leu<sup>11</sup>]substance P",RPKPFQWFWLL,11,-,-,-,-,-
+635,"[D-Arg<sup>1</sup>,D-Trp<sup>7,9</sup>,Leu<sup>11</sup>]substance P",RPKPQQWFWLL,11,-,-,-,-,-
+636,Gal-R2-dPEG<sub>24</sub>,WTLNSAGYLLGPKKKKK,17,-,-,-,-,-
+637,DC 23-60,ACYWKVCT,8,-,-,-,-,-
+638,d[Cha<sup>4</sup>]AVP,CYFXNCPRG,9,-,-,-,-,-
+639,"d[Cha<sup>4</sup>,Dab<sup>8</sup>]VP",CYFXNCPXG,9,-,-,-,-,-
+640,[D-Ala<sup>2</sup>]deltorphin II,YAFEVVG,7,-,-,-,-,-
+641,"d(CH<sub>2</sub>)<sub>5</sub>[<small>D</small>-Ile<sup>2</sup>,Ile<sup>4</sup>,Ala-NH<sub>2</sub>]AVP",CIFINCPRGA,10,-,-,-,-,-
+642,"d(CH<sub>2</sub>)<sub>5</sub>[<small>D</small>-Ile<sup>2</sup>,Ile<sup>4</sup>,Ala-NH<sub>2</sub><sup>9</sup>]AVP",CYFQNCPRG,9,-,-,-,-,-
+643,goserelin,XHWSYSLRP,9,-,-,-,-,-
+644,"d(CH<sub>2</sub>)<sub>5</sub>[<small>D</small>-Ile<sup>2</sup>,Ile<sup>4</sup>]AVP",XIFINCPRG,9,-,-,-,-,-
+645,"d(CH<sub>2</sub>)<sub>5</sub>[<small>D</small>-Ile<sup>2</sup>,Ile<sup>4</sup>,Tyr-NH<sub>2</sub><sup>9</sup>]AVP",CIFINCPRY,9,-,-,-,-,-
+646,"d(CH<sub>2</sub>)<sub>5</sub>[<small>D</small>-Ile<sup>2</sup>,Val<sup>4</sup>,Tyr-NH<sub>2</sub><sup>9</sup>]AVP",CIFVNCPRY,9,-,-,-,-,-
+647,"d(CH<sub>2</sub>)<sub>5</sub>[<small>D</small>-Tyr(Et)<sup>2</sup>,Val<sup>4</sup>,Tyr-NH<sub>2</sub><sup>9</sup>]AVP",CYFVNCPRY,9,-,-,-,-,-
+648,"d(CH<sub>2</sub>)<sub>5</sub>[Tyr(Et)<sup>2</sup>,Val<sup>4</sup>,des-Gly<sup>9</sup>]AVP",CYFVNCPR,8,-,-,-,-,-
+649,"d(CH<sub>2</sub>)<sub>5</sub>[Tyr(Me)<sup>2</sup>,Arg<sup>8</sup>]VP",YFQNCPRG,8,-,-,-,-,-
+650,d(CH<sub>2</sub>)<sub>5</sub>[Tyr(Me)<sup>2</sup>]AVP,CYFQNCPRG,9,-,-,-,-,-
+651,"d(CH<sub>2</sub>)<sub>5</sub>[Tyr(Me)<sup>2</sup>,Thr<sup>4</sup>]OVT",CYITNCPXG,9,-,-,-,-,-
+652,"d(CH<sub>2</sub>)<sub>5</sub>[Tyr(Me)<sup>2</sup>,Thr<sup>4</sup>,Phe(3I,4N<sub>3</sub>)-NH<sub>2</sub><sup>9</sup>]OVT",CYITNCPXF,9,-,-,-,-,-
+653,"d(CH<sub>2</sub>)<sub>5</sub>[Tyr(Me)<sup>2</sup>,Thr<sup>4</sup>,Tyr-NH<sub>2</sub><sup>9</sup>]OVT",CYITNCPXY,9,-,-,-,-,-
+654,&Delta;R3/I5,,,-,-,-,-,-
+655,deltorphin II,YAFEVVG,7,-,-,-,-,-
+656,demotate 2,DFYWKTCT,8,-,-,-,-,-
+657,(des 1-8) A-chain INSL3 analogue,YCCLSGCTQQDLLTLCPY,18,-,-,-,-,-
+658,"Des-AA<sup>1,2,5,12,13</sup>-[D-Trp<sup>8</sup>]SRIF",CKFFWKTFC,9,-,-,-,-,-
+659,"Des-AA<sup>1,5</sup>-[Tyr<sup>2</sup>,D-Trp<sup>8</sup>,IAmp<sup>9</sup>]SRIF",YCKFFWXTFTSC,12,-,-,-,-,-
+660,Des-AA<sup>5</sup>-[D-Trp<sup>8</sup>]SRIF,AGCKFFWKTFTSC,13,-,-,-,-,-
+661,"Des-Ala<sup>1,2,5</sup>-[D-Trp<sup>8</sup>,IAmp<sup>9</sup>]SRIF",CKFFWXTFTSC,11,-,-,-,-,-
+662,[des-Arg<sup>10</sup>]icatibant,RRPXGXSXX,9,-,-,-,-,-
+663,[des-Arg<sup>11</sup>]T-kinin,ISRPPGFSPF,10,-,-,-,-,-
+664,[des-Arg<sup>9</sup>]bradykinin,RPPGFSPF,8,-,-,-,-,-
+665,des-Br-neuropeptide B-23,WYKPAAGHSSYSVGRAAGLLSGL,23,-,-,-,-,-
+666,des-Br-neuropeptide B-29,WYKPAAGHSSYSVGRAAGLLSGLRRSPYA,29,-,-,-,-,-
+667,[des-Gln<sup>14</sup>]ghrelin,GSSFLSPEHQKAQRKESKKPPAKLQPR,27,-,-,-,-,-
+668,[des-Gln<sup>14</sup>]ghrelin,GSSFLSPEHQRVQRKESKKPPAKLQPR,27,-,-,-,-,-
+669,"desGlyNH<sub>2</sub>-d(CH<sub>2</sub>)<sub>5</sub>[Tyr(Me)<sup>2</sup>,Thr<sup>4</sup>,Orn<sup>8</sup>]OT",CYITNCPX,8,-,-,-,-,-
+670,NG291,,,-,-,-,-,-
+671,"[des-Gly<sup>10</sup>,<small>D</small>-Ala<sup>6</sup>]GnRH <i>N</i>-ethylamide",XHWSYGLRP,9,-,-,-,-,-
+672,des-His<sup>1</sup>-[Glu<sup>9</sup>]glucagon-NH<sub>2</sub>,SQGTFTSEYSKYLDSRRAQDFVQWLMNT,28,-,-,-,-,-
+673,S36539,XXXLGAXYRXDX,12,-,-,-,-,-
+674,des-His<sup>1</sup>-[Leu<sup>4</sup>-Glu<sup>9</sup>]glucagon-NH<sub>2</sub>,SQLTFTSEYSKYLDSRRAQDFVQWLMNT,28,-,-,-,-,-
+675,deslorelin,XHWSYWLRP,9,-,-,-,-,-
+676,[des-octanoyl]ghrelin,GSSFLSPEHQRVQQRKESKKPPAKLQPR,28,-,-,-,-,-
+677,"[des-Phe<sup>9</sup>,des-Arg<sup>10</sup>]kallidin",KRPPGFSP,8,-,-,-,-,-
+678,"[des-Pro<sup>8</sup>,des-Phe<sup>9</sup>,des-Arg<sup>10</sup>]kallidin",KRPPGFS,7,-,-,-,-,-
+679,desulfated cholecystokinin-8,DYMGWMDF,8,-,-,-,-,-
+680,desulfated gastrin-14,WLEEEEEAYGWMDF,14,-,-,-,-,-
+681,desulfated gastrin-34,XLGPQGPPHLVADPSKKQGPWLEEEEEAYGWMDF,34,-,-,-,-,-
+682,desulfated gastrin-71,SWKPRSQQPDAPLGTGANRDLELPWLEQQGPASHHRRQLGPQGPPHLVADPSKKQGPWLEEEEEAYGWMDF,71,-,-,-,-,-
+683,dNal-<i>cyc</i>(Cys-Tyr-dTrp-Orn-Val)-Nal-NH<sub>2</sub>,ACYWXVA,7,-,-,-,-,-
+684,degarelix,AFASXXLKPA,10,-,-,-,-,-
+685,[des-Arg<sup>10</sup>]kallidin,KRPPGFSPF,9,-,-,-,-,-
+686,desulfated gastrin-17,XGPWLEEEEEAYGWMDF,17,-,-,-,-,-
+687,lanreotide,ACYWKVCT,8,-,-,-,-,-
+688,difelikefalin,,,-,-,-,-,-
+689,d[Leu<sup>4</sup>]AVP,CYFLNCPRG,9,-,-,-,-,-
+690,"d[Leu<sup>4</sup>,Dap<sup>8</sup>]VP",CYFLNCPXG,9,-,-,-,-,-
+691,d[Leu<sup>4</sup>]LVP,CYFLNCPKG,9,-,-,-,-,-
+692,[D-Lys<sup>6</sup>]GnRH-II,XHWSHKWYPG,10,-,-,-,-,-
+693,D-Nal-Cys-Tyr-D-Trp-Lys-Val-Cys-Nal-NH<sub>2</sub>,ACYWKVCA,8,-,-,-,-,-
+694,DPDPE,YXGFX,5,-,-,-,-,-
+695,DOTA-BASS,FCYTKTCY,8,-,-,-,-,-
+696,DOTA/Eu relaxin-3,,,-,-,-,-,-
+697,"d[Pen<sup>1</sup>,Tyr(Me)<sup>2</sup>]AVP",XYFQNCPRG,9,-,-,-,-,-
+698,[D-Phe<sup>12</sup>]bombesin,EQRLGNQWAVGFLM,14,-,-,-,-,-
+699,"[D-Phe<sup>6</sup>,&beta;-Ala<sup>11</sup>,Phe<sup>13</sup>,Nle<sup>14</sup>]bombesin-(6-14)",FQWAVAHFX,9,-,-,-,-,-
+700,[D-Phe<sup>6</sup>]bombesin(6-13)methyl ester,FQWAVGHL,8,-,-,-,-,-
+701,[D-Phe<sup>6</sup>]bombesin(6-13)propylamide,FQWAVGHL,8,-,-,-,-,-
+702,"[D-Phe<sup>6</sup>, Leu<sup>13</sup>, Cpa<sup>14</sup>,&psi;13-14]bombesin-(6-14)",FQWAVGHLF,9,-,-,-,-,-
+703,"[D-Phe<sup>6</sup>, Stat<sup>13</sup>, Leu<sup>14</sup>}Bn(6-14)",,,-,-,-,-,-
+704,"[D-Pro<sup>4</sup>,D-Trp<sup>7,9,10</sup>]substance P (4-11)",PQQWFWWM,8,-,-,-,-,-
+705,d[<small>D</small>-Pal<sup>2</sup>]AVP,CAFQNCPRG,9,-,-,-,-,-
+706,d[<small>D</small>-Phe<sup>2</sup>]AVP,CFFQNCPRG,9,-,-,-,-,-
+707,DSTBULET,YSGFLT,6,-,-,-,-,-
+708,"(D-Thr<sup>6</sup>, D-Trp<sup>8,9</sup>)galanin(1-15)ol",GWTLNTAWWLLGPHA,15,-,-,-,-,-
+709,"[D-Tpi<sup>6</sup>, Leu<sup>13</sup> &psi;(CH<sub>2</sub>NH)-Leu<sup>14</sup>]bombesin-(6-14)",XQWAVGHLL,9,-,-,-,-,-
+710,[D-Trp<sup>11</sup>]neurotensin,XLYENKPRRPWIL,13,-,-,-,-,-
+711,[D-Trp<sup>12</sup>]PTH-(7-34) (bovine),FMHNLWKHLSSMERVEWLRKKLQDVHNF,28,-,-,-,-,-
+712,[D-Trp<sup>2</sup>]galanin-(1-29),GWTLNSAGYLLGPHAVGNHRSFSDKNGLT,29,-,-,-,-,-
+713,[D-Trp<sup>32</sup>]NPY,YPSKPDNPGEDAPAEDMARYYSALRHYINLITRQRY,36,-,-,-,-,-
+714,"[D-Tyr<sup>6</sup>,Apa-4Cl<sup>11</sup>,Phe<sup>13</sup>,Nle<sup>14</sup>]bombesin-(6-14)",WQWAVXHFX,9,-,-,-,-,-
+715,"[D-Tyr<sup>6</sup>,&beta;-Ala<sup>11</sup>,N-Me-Ala<sup>13</sup>,Nle<sup>14</sup>]bombesin-(6-14)",YQWAVAHAX,9,-,-,-,-,-
+716,"[D-Tyr<sup>6</sup>,(R)-APA<sup>11</sup>,Phe<sup>13</sup>,Nle<sup>14</sup>]bombesin-(6-14)",YQWAVXHFX,9,-,-,-,-,-
+717,[D-Tyr<sup>8</sup>]CYN 154806,FCYWKTCY,8,-,-,-,-,-
+718,duramycin,AKQAAAFGPFXFVADGNXL,19,-,-,-,-,-
+719,"d[Val<sup>4</sup>,DArg<sup>8</sup>]VP",CYFVNCPRG,9,-,-,-,-,-
+720,dVDAVP,XYFQNCPRG,9,-,-,-,-,-
+721,dynorphin-(1-17)-NH<sub>2</sub>,YGGFLRRIRPKLKWDNQ,17,-,-,-,-,-
+722,"[D-Trp<sup>12</sup>,Tyr<sup>34</sup>]PTH-(7-34) (bovine)",FMHNLYKHLSSMERVEWLRKKLQDVHNY,28,-,-,-,-,-
+723,dynorphin-(1-11),YGGFLRRIRPK,11,-,-,-,-,-
+724,[D-Trp<sup>8</sup>]&gamma;-MSH,YVMGHFRWDRFG,12,-,-,-,-,-
+725,dynorphin B,YGGFLRRQFKVVT,13,-,-,-,-,-
+726,dynorphin A-(1-13),YGGFLRRIRPKLK,13,-,-,-,-,-
+727,[dY]<sup>1</sup>KP-10,NWNSFGLRF,9,-,-,-,-,-
+728,E2078,YGGFLRRL,8,-,-,-,-,-
+729,EC 5-21,FCFWKTCA,8,-,-,-,-,-
+730,kisspeptin-54,GTSLSPPPESSGSPQQPGLSAPHSRQIPAPQGAVLVQREKDLPNYNWNSFGLRF,54,-,-,-,-,-
+731,dynorphin A,YGGFLRRIRPKLKWDNQ,17,-,-,-,-,-
+732,edotreotide,FCFWKTCT,8,-,-,-,-,-
+733,EFWSLAAPQRF-NH<sub>2</sub>,EFWSLAAPQRF,11,-,-,-,-,-
+734,EISAI-1,RKPWLL,6,-,-,-,-,-
+735,EISAI-2,RKPWLL,6,-,-,-,-,-
+736,Elabela/Toddler-11,CMPLHSRVPFP,11,-,-,-,-,-
+737,Elabela/Toddler-21,LRKHNCLQRRCMPLHSRVPFP,21,-,-,-,-,-
+738,Elabela/Toddler-32,QRPVNLTMRRKLRKHNCLQRRCMPLHSRVPFP,32,-,-,-,-,-
+739,endothelin-2,CSCNSWLDKECVYFCHLDIIW,21,-,-,-,-,-
+740,endomorphin-2,YPFF,4,-,-,-,-,-
+741,eledoisin,XPSKDAFIGLM,11,-,-,-,-,-
+742,GALP(3-32) (human),AHRGRGGWTLNSAGYLLGPVLHLPQMGDQD,30,-,-,-,-,-
+743,S36540,XXXLGAXYRXDX,12,-,-,-,-,-
+744,endothelin-3,CTCFTYKDKECVYYCHLDIIW,21,-,-,-,-,-
+745,endothelin-1,CSCSSLMDKECVYFCHLDIIW,21,-,-,-,-,-
+746,dynorphin A-(1-8),YGGFLRRI,8,-,-,-,-,-
+747,endothelin-2,CSCSSWLDKECVYFCHLDIIW,21,-,-,-,-,-
+748,endomorphin-1,YPWF,4,-,-,-,-,-
+749,Eu-DTPA-hC3a,SVQLTEKRMDKVGKYPKELRKCCEDGMRENPMRFSCQRRTRFISLGEACKKVFLDCCNYITELRRQHARASHLGLAR,77,-,-,-,-,-
+750,"Eu-DTPA-[Ser<sup>27</sup>, Nle<sup>70</sup>]hC5a",[Eu]Dtpa-TLQKKIEEIAAKYKHSVVKKCCYDGASVNNDETCEQRAARISLGPRCIKAFTECCVVASQLRANISHKDXQLGR-OH,86,-,-,-,-,-
+751,europium-labelled INSL3,,,-,-,-,-,-
+752,europium-labelled INSL5,,,-,-,-,-,-
+753,europium-labelled mouse INSL5,,,-,-,-,-,-
+754,europium-labelled R3(B1-22R),RAAPYGVRLSGREFIRAVIFTSR,23,-,-,-,-,-
+755,europium-labelled relaxin,,,-,-,-,-,-
+756,europium-labelled relaxin-3-B/INSL5 A chimera,,,-,-,-,-,-
+757,exendin-(9-39),DLSKQMEEEAVRLFIEWLKNGGPSSGAPPPS,31,-,-,-,-,-
+758,examorelin,HWAWFK,6,-,-,-,-,-
+759,exendin-3,HSDGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPS,39,-,-,-,-,-
+760,F180,FIKNCPXG,8,-,-,-,-,-
+761,F2L,MLGMIKNSLFGSVETWPWQVL,21,-,-,-,-,-
+762,F2L,MLGMIRNSLFGSVETWPWQVL,21,-,-,-,-,-
+763,Gal-B2-C<sub>12</sub>,GWTLNSAGYLLGPKKKK,17,-,-,-,-,-
+764,etelcalcetide,CARRRAR,7,-,-,-,-,-
+765,fertirelin,XHWSYGLRP,9,-,-,-,-,-
+766,S36541,XCXLGRXYRXDX,12,-,-,-,-,-
+767,FK 224,TYLFTNS,7,-,-,-,-,-
+768,kisspeptin-9,GTSLSPPPE,9,-,-,-,-,-
+769,exendin-4,HGEGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPS,39,-,-,-,-,-
+770,FLPLAR,FLPLAR,6,-,-,-,-,-
+771,FLRT3,KSCPSVCRCDAGFIYCNDRSLTSIPVGIPEDATTLYLQNNQINNVGIPSDLKNLLKVQRIYLYHNSLDEFPTNLPKYVKELHLQENNIRTITYDSLSKIPYLEELHLDDNSVSAVSIEEGAFRDSNYLRLLFLSRNHLSTIPGGLPRTIEELRLDDNRISTISSPSLHGLTSLKRLVLDGNLLNNHGLGDKVFFNLVNLTELSLVRNSLTAAPVNLPGTSLRKLYLQDNHINRVPPNAFSYLRQLYRLDMSNNNLSNLPQGIFDDLDNITQLILRNNPWYCGCKMKWVRDWLQSLPVKVNVRGLMCQAPEKVRGMAIKDLSAELFDCKDSGIVSTVQITTAIPNTAYPAQGQWPAPVTKQPDIKNPKLTKDQRTTGSPSRKTILITVKSVTPDTIHISWRLALPMTALRLSWLKLGHSPAFGSITETIVTGERSEYLVTALEPESPYRVCMVPMETSNLYLFDETPVCIETQTAPLRMYNPTTTLNREQEKEPYKNPNLPLAAIIGGAVALVSIALLALVCWYVHRNGSLFSRNCAYSKGRRRKDDYAEAGTKKDNSILEIRETSFQMLPISNEPISKEEFVIHTIFPPNGMNLYKNNLSESSSNRSYRDSGIPDLDHSHS,621,-,-,-,-,-
+772,FLTChaAR,FLTXAR,6,-,-,-,-,-
+773,Flu-CCL3,SLAADTPTACCFSYTSRQIPQNFIADYFETSSQCSKPGVIFLTKRSRQVCADPSEEWVQKYVSDLELSA,69,-,-,-,-,-
+774,fMet-Ile-Phe-Leu,MIFL,4,-,-,-,-,-
+775,fMet-Ile-Val-Ile-Leu,MIVIL,5,-,-,-,-,-
+776,fMet-Ile-Val-Thr-Leu-Phe,MIVTLF,6,-,-,-,-,-
+777,fMet-Leu-Phe-Glu,MLPE,4,-,-,-,-,-
+778,fMet-Leu-Phe-Ile-Ile-Lys-FITC,MLFIIK,6,-,-,-,-,-
+779,fMet-Met-Trp-Leu-Leu,MMWLL,5,-,-,-,-,-
+780,fMet-Met-Tyr-Ala-Leu-Phe,MMYALF,6,-,-,-,-,-
+781,[F/G]N/OFQ-(1-13)-NH<sub>2</sub>,FGGFTGARKSARKLA,15,-,-,-,-,-
+782,fMet-Leu-Phe,MLP,3,-,-,-,-,-
+783,F peptide,EGSDTITLPCRIKQFINMWQE,21,-,-,-,-,-
+784,FPRL1-inhibitor protein,FFSYEWKGLEIAKNLADQAKKDDERIDKLMKESDKNLTPYKAETVNDLYLIVKKLSQGDVKKAVVRIKDDGPRDYYTFDLTRPLEENRKNIKVVKNGEIDSITWY,105,-,-,-,-,-
+785,FSH,,,-,-,-,-,-
+786,FSH,,,-,-,-,-,-
+787,FSH deglycosylated &alpha;/&beta;,,,-,-,-,-,-
+788,galanin(1-15),GWTLNSAGYLLGPHA,15,-,-,-,-,-
+789,Ga-DOTA-NOC,FCXWKTCT,8,-,-,-,-,-
+790,"[Ga-DOTA,Tyr<sup>3</sup>,Thr<sup>8</sup>]octreotide",FCFWKTCT,8,-,-,-,-,-
+791,Ga-KE88,XRFFWKTF,8,-,-,-,-,-
+792,galanin,GWTLNSAGYLLGPHAIDNHRSFSDKHGLT,29,-,-,-,-,-
+793,galanin,GWTLNSAGYLLGPHAIDNHRSFHDKYGLA,29,-,-,-,-,-
+794,galanin(10-29) (pig),LLGPHAIDNHRSFHDKYGLA,20,-,-,-,-,-
+795,galanin(10-29) (rat/mouse),LLGPHAIDNHRSFSDKHGLT,20,-,-,-,-,-
+796,galanin(1-10),GWTLNSAGYL,10,-,-,-,-,-
+797,galanin(1-11),GWTLNSAGYLL,11,-,-,-,-,-
+798,galanin(1-12),GWTLNSAGYLLG,12,-,-,-,-,-
+799,galanin(1-13)amide,GWTLNSAGYLLGP,13,-,-,-,-,-
+800,galanin(1-16) (rat/mouse/pig),GWTLNSAGYLLGPHAI,16,-,-,-,-,-
+801,galanin(1-19) (human),GWTLNSAGYLLGPHAVGNH,19,-,-,-,-,-
+802,galanin(1-19) (rat/mouse),GWTLNSAGYLLGPHAIDNH,19,-,-,-,-,-
+803,galanin(1-20)  (human),GWTLNSAGYLLGPHAVGNHR,20,-,-,-,-,-
+804,galanin(2-11),WTLNSAGYLLG,11,-,-,-,-,-
+805,galanin(2-29) (pig),WTLNSAGYLLGPHAIDNHRSFHDKYGLA,28,-,-,-,-,-
+806,galanin(2-29) (rat/mouse),WTLNSAGYLLGPHAVGNHRSFSDKNGLT,28,-,-,-,-,-
+807,FSH,CYXXNCPLG,9,-,-,-,-,-
+808,galanin(3-29) (pig),TLNSAGYLLGPHAIDNHRSFHDKYGLA,27,-,-,-,-,-
+809,galanin(3-29) (rat/mouse),TLNSAGYLLGPHAIDNHRSFSDKHGLT,27,-,-,-,-,-
+810,galanin(3-30) (human),TLNSAGYLLGPHAVGNHRSFSDKNGLTS,28,-,-,-,-,-
+811,galanin(5-29) (pig),NSAGYLLGPHAIDNHRSFHDKYGLA,25,-,-,-,-,-
+812,galanin(5-29) (rat/mouse),NSAGYLLGPHAIDNHRSFSDKHGLT,25,-,-,-,-,-
+813,galanin(7-29) (pig),AGYLLGPHAIDNHRSFHDKYGLA,23,-,-,-,-,-
+814,galanin(9-25) (rat/mouse),YLLGPHAIDNHRSFSDK,17,-,-,-,-,-
+815,galanin(9-29) (rat/mouse),YLLGPHAIDNHRSFSDKHGLT,21,-,-,-,-,-
+816,galanin(D-Trp<sup>2</sup>) (pig),GWTLNSAGYLLGPHAIDNHRSFHDKYGLA,29,-,-,-,-,-
+817,galanin-like peptide,APAHRGRGGWTLNSAGYLLGPVLHLPQMGDQDGKRETALEILDLWKAIDGLPYSHPPQPS,60,-,-,-,-,-
+818,galanin-like peptide,APAHRGRGGWTLNSAGYLLGPVLPVSSKADQGRKRDSALEILDLWKIIDGLPYSHSPRMT,60,-,-,-,-,-
+819,galanin-like peptide,APVHRGRGGWTLNSAGYLLGPVLHPPSRAEGGGKGKTALGILDLWKAIDGLPYPQSQLAS,60,-,-,-,-,-
+820,galanin-like peptide,APAHRGRGGWTLNSAGYLLGPVLHLSSKANQGRKTDSALEILDLWKAIDGLPYSRSPRMT,60,-,-,-,-,-
+821,Gal-B2,GWTLNSAGYLLGPKKKK,17,-,-,-,-,-
+822,Gal-B2-C<sub>14</sub>,GWTLNSAGYLLGPKKKK,17,-,-,-,-,-
+823,Gal-B2-C<sub>18</sub>,GWTLNSAGYLLGPKKKK,17,-,-,-,-,-
+824,Gal-B2-C<sub>8</sub>,GWTLNSAGYLLGPKKKK,17,-,-,-,-,-
+825,Gal-B2-dPEG<sub>24</sub>,GWTLNSAGYLLGPKKKK,17,-,-,-,-,-
+826,Gal-B2-MPEG<sub>4</sub>,GWTLNSAGYLLGPKKKK,17,-,-,-,-,-
+827,Gal-B5,WTLNSAGYLLGPKKKK,16,-,-,-,-,-
+828,Gal-(K)4,GWTLNSAGYLLGPKKKK,17,-,-,-,-,-
+829,GALP(1-32) (human),APAHRGRGGWTLNSAGYLLGPVLHLPQMGDQD,32,-,-,-,-,-
+830,S38151,XCMLRVYRPCW,11,-,-,-,-,-
+831,gastric inhibitory polypeptide,YAEGTFISDYSIAMDKIRQQDFVNWLLAQKGKKNDWKHNLTQ,42,-,-,-,-,-
+832,gastric inhibitory polypeptide,YAEGTFISDYSIAMDKIHQQDFVNWLLAQKGKKNDWKHNITQ,42,-,-,-,-,-
+833,gastrin-14,WLEEEEEAYGWMDF,14,-,-,-,-,-
+834,gastrin-17,XRPPMEEEEEAYGWMDF,17,-,-,-,-,-
+835,gastrin-17,XRPRMEEEEEAYGWMDF,17,-,-,-,-,-
+836,gastrin-17,XGPWLEEEEEAYGWMDF,17,-,-,-,-,-
+837,gastrin-34,XLGPQGPPHLVADPSKKQGPWLEEEEEAYGWMDF,34,-,-,-,-,-
+838,&gamma;-MSH,YVMGHFRWDRF,11,-,-,-,-,-
+839,gastrin-71,SWKPRSQQPDAPLGTGANRDLELPWLEQQGPASHHRRQLGPQGPPHLVADPSKKQGPWLEEEEEAYGWMDF,71,-,-,-,-,-
+840,gastrin-releasing peptide,APVSVGGGTVLAKMYPRGNHWAVGHLM,27,-,-,-,-,-
+841,gastrin-releasing peptide,APVSTGAGGGTVLAKMYPRGSHWAVGHLM,29,-,-,-,-,-
+842,gastrin releasing peptide(14-27) (human),MYPRGNHWAVGHLM,14,-,-,-,-,-
+843,[G(B24)S]R3/I5,,,-,-,-,-,-
+844,ghrelin,GSSFLSPEHQKAQQRKESKKPPAKLQPR,28,-,-,-,-,-
+845,GHRH,HADAIFTSSYRRILGQLYARKLLHEIMNRQQGERNQEQRSRFN,43,-,-,-,-,-
+846,GHRH,HVDAIFTTNYRKLLSQLYARKVIQDIMNKQGERIQEQRARLS,42,-,-,-,-,-
+847,GHRH-(1-29)-NH<sub>2</sub> (rat),HADAIFTSSYRRILGQLYARKLLHEIMNR,29,-,-,-,-,-
+848,GHRH-(1-29)-OH (human),YADAIFTNSYRKVLGQLSARKLLQDIMSR,29,-,-,-,-,-
+849,GIP-(10-30),YSIAMDKIRQQDFVNWLLAQK,21,-,-,-,-,-
+850,GIP-(6-30)-amide,FISDYSIAMDKIHQQDFVNWLLAQK,25,-,-,-,-,-
+851,GIP-(7-30),ISDYSIAMDKIRQQDFVNWLLAQK,24,-,-,-,-,-
+852,[Gln<sup>8</sup>]GnRH,XHWSYGLQPG,10,-,-,-,-,-
+853,GRP-(18-27),GSHWAVGHLM,10,-,-,-,-,-
+854,gG-2p20,GLLWVEVGGEGPGPT,15,-,-,-,-,-
+855,GLP-1-(9-36),EGTFTSDVSSYLEGQAAKEFIAWLVKGR,28,-,-,-,-,-
+856,GLP-2-(1-29) (rat),HADGSFSDEMNTILDNLATRDFINWLIQT,29,-,-,-,-,-
+857,GLP-2 analogue 10,HGDGSFSDEMCTILDNLCARDFINWLIQTKITDPSSGAPPPS-NH2,46,-,-,-,-,-
+858,glucagon-(1-21),HSQGTFTSDYSKYLDSRRAQD,21,-,-,-,-,-
+859,glucagon-(1-6),HSQGTF,6,-,-,-,-,-
+860,glucagon-like peptide 1-(7-36) amide,HAEGTFTSDVSSYLEGQAAKEFIAWLVKGR,30,-,-,-,-,-
+861,glucagon-like peptide 2,HADGSFSDEMSTILDNLATRDFINWLIQTKITD,33,-,-,-,-,-
+862,glucagon-like peptide 2,HADGSFSDEMNTILDNLAARDFINWLIQTKITD,33,-,-,-,-,-
+863,glucagon-like peptide 2-(2-33),ADGSFSDEMNTILDNLATRDFINWLIQTKITD,32,-,-,-,-,-
+864,glucagon-like peptide 2-(3-33),DGSFSDEMNTILDNLATRDFINWLIQTKITD,31,-,-,-,-,-
+865,glucagon-like peptide 2-(3-33),DGSFSDEMSTILDNLATRDFINWLIQTKITD,31,-,-,-,-,-
+866,glucagon-like peptide 2-(3-33),DGSFSDEMNTILDNLAARDFINWLIQTKITD,31,-,-,-,-,-
+867,GM-109,FKYA,4,-,-,-,-,-
+868,GMAP(1-41),ELEPEDEARPGGFDRLQSEDKAIRTIMEFLAFLHLKEAGAL,41,-,-,-,-,-
+869,GMAP(44-59),LPGLPSAASSEDAGQS,16,-,-,-,-,-
+870,GnRH II,XHWSHGWYPG,10,-,-,-,-,-
+871,GnRH III,QHWSHDWKPG,10,-,-,-,-,-
+872,ghrelin,GSSFLSPEHQRVQQRKESKKPPAKLQPR,28,-,-,-,-,-
+873,GHRP-6,HWAWFK,6,-,-,-,-,-
+874,GnRH I,XHWSYGLRPG,10,-,-,-,-,-
+875,GHRH,YADAIFTNSYRKVLGQLSARKLLQDIMSRQQGESNQERGARARL,44,-,-,-,-,-
+876,glucagon-like peptide 2,HADGSFSDEMNTILDNLATRDFINWLIQTKITD,33,-,-,-,-,-
+877,GPR15L,MRLLVLSSLLCILLLCFSIFSTEGKRRPAKAWSGRRTRLCCHRVPSPNSTNLKGHHVRLCKPCKLEPEPRLWVVPGALPQV,81,-,-,-,-,-
+878,GPR15L (71-81),LWVVPGALPQV,11,-,-,-,-,-
+879,GR100679,GAWF,4,-,-,-,-,-
+880,GR138676,DMHDFFF,7,-,-,-,-,-
+881,GR231118,IEPXYRLRY,9,-,-,-,-,-
+882,GR64349,KDSFVXLM,8,-,-,-,-,-
+883,GR94800,AAWFPPX,7,-,-,-,-,-
+884,GRP-(18-27),GNHWAVGHLM,10,-,-,-,-,-
+885,[Leu<sup>8</sup>]-phyllolitorin,QLWAVGSLM,9,-,-,-,-,-
+886,GYPGKF-NH2,GYPGKF,6,-,-,-,-,-
+887,GYPGQV-NH<sub>2</sub>,GYPGQV,6,-,-,-,-,-
+888,H3 14s18 stapled B-chain,RAAPYGVRLSGREZIRAZIFTSGGSRW,27,-,-,-,-,-
+889,H3 Ac-B10-27(13-17 HC),Ac-SGRXFIRXVIFTSGGSRQ,21,-,-,-,-,-
+890,HAS-NMU,,,-,-,-,-,-
+891,"H-c[Cys-Phe-LAgl(N<sup>&beta;</sup>Me,benzoyl)-DTrp-Lys-Thr-Phe-Cys]-OH",CFXWKTFC,8,-,-,-,-,-
+892,"H-c[Cys-Phe-LAgl(N<sup>&beta;</sup>Me,benzoyl)-Trp-Lys-Thr-Phe-Cys]-OH",CFXWKTFC,8,-,-,-,-,-
+893,"H-c[DCys-Phe-LAgl(N<sup>&beta;</sup>Me,benzoyl)-DTrp-Lys-Thr-Phe-Cys]-OH",CFXWKTFC,8,-,-,-,-,-
+894,helodermin,HSDAIFTEEYSKLLAKLALQKYLASILGSRTSPPP,35,-,-,-,-,-
+895,hemokinin 1,RSRTRQFYGLM,11,-,-,-,-,-
+896,hCG,,,-,-,-,-,-
+897,hINSL5: A8-21 (T15K),,,-,-,-,-,-
+898,hINSL5: A8-21 (T9R),,,-,-,-,-,-
+899,"[His<sup>4</sup>, Tyr<sup>5</sup>, Trp<sup>6</sup>, His<sup>7</sup>]TIP39 (human)",SLAHYWHAAFRERARLLAALERRHWLNSYMHKLLVLDAP,39,-,-,-,-,-
+900,"[His<sup>5</sup>,Arg<sup>19</sup>]PTH-(1-34) (human)",SVSEHQLMHNLGKHLNSMRRVEWLRKKLQDVHNF,34,-,-,-,-,-
+901,[His<sup>5</sup>]PTH-(1-34) (human),SVSEHQLMHNLGKHLNSMERVEWLRKKLQDVHNF,34,-,-,-,-,-
+902,"[His<sup>5</sup>,<small>D</small>-Tyr<sup>6</sup>]GnRH",XHWSHYLRPG,10,-,-,-,-,-
+903,histerelin,XHWSYXLRP,9,-,-,-,-,-
+904,histrelin,XHWSYHLRP,9,-,-,-,-,-
+905,HIV-1 matrix protein p17,MGARASVLSGGELDRWEKIRLRPGGKKKYKLKHIVWASRELERFAVNPGLLETSEGCRQILGQLQPSLQTGSEELRSLYNTVATLYCVHQRIEIKDTKEALDKIEEEQNKSKKKAQQAAADTGHSSQVSQNY,132,-,-,-,-,-
+906,HIV-Tat,MEPVDPRLEPWKHPGSQPKTACTNCYCKKCCFHCQVCFITKALGISYGRKKRRQRRRAHQNSQTHQASLSKQPTSQPRGDPTGPKE,86,-,-,-,-,-
+907,Hp(2-20),AKKVFKRLEKLFSKIQNDK,19,-,-,-,-,-
+908,HS014,CEHARWGCPPKD,12,-,-,-,-,-
+909,HS024,CXRHARWGC,9,-,-,-,-,-
+910,human GIP(1-30)NH2,YAEGTFISDYSIAMDKIHQQDFVNWLLAQKNH2,33,-,-,-,-,-
+911,human GIP(3-30)NH2,EGTFISDYSIAMDKIHQQDFVNWLLAQK-NH2,32,-,-,-,-,-
+912,human GIP(3-42)NH2,EGTFISDYSIAMDKIHQQDFVNWLLAQKGKKNDWKHNITQ-NH2,44,-,-,-,-,-
+913,human GIP(5-30)NH2,TFISDYSIAMDKIHQQDFVNWLLAQK-NH2,30,-,-,-,-,-
+914,humanin,MAPRGFSCLLLLTSEIDLPVKRRA,24,-,-,-,-,-
+915,[Hyp<sup>3</sup>]bradykinin,RPXGFSPFR,9,-,-,-,-,-
+916,"[Hyp<sup>3</sup>,Tyr(Me)<sup>8</sup>]BK",RPXGFSPYR,9,-,-,-,-,-
+917,i-Boc-Met-Leu-Phe,MLF,3,-,-,-,-,-
+918,icatibant,RRPXGXSXXR,10,-,-,-,-,-
+919,"ICI 174,864",YXXFL,5,-,-,-,-,-
+920,"[Ile<sup>31</sup>,Gln<sup>34</sup>]PP (human)",APLEPVYPGDNATPEQMAQYAADLRRYINMITRQRY,36,-,-,-,-,-
+921,"[Ile<sup>5</sup>,Glu<sup>19</sup>]PTHrP-(1-34) (human)",AVSEIQLLHDKGKSIQDLERRFFLHHLIAEIHTA,34,-,-,-,-,-
+922,"[Ile<sup>5</sup>,Glu<sup>19</sup>,Val<sup>21</sup>]PTHrP-(1-34) (human)",AVSEIQLLHDKGKSIQDLERVFFLHHLIAEIHTA,34,-,-,-,-,-
+923,[Ile<sup>5</sup>]PTHrP-(1-34) (human),AVSEIQLLHDKGKSIQDLRRRFFLHHLIAEIHTA,34,-,-,-,-,-
+924,[Ile<sup>5</sup>]PTHrP-(1-36),AVSEIQLLHDKGKSIQDLRRRFFLHHLIAEIHTAE,35,-,-,-,-,-
+925,[Ile<sup>5</sup>]PTHrP-(1-36) (human),AVSEIQLLHDKGKSIQDLRRRFFLHHLIAEIHTAEI,36,-,-,-,-,-
+926,"[Ile<sup>5</sup>,Trp<sup>23</sup>]PTHrP-(1-36) (human)",AVSEIQLLHDKGKSIQDLRRRFWLHHLIAEIHTAEI,36,-,-,-,-,-
+927,"[Ile<sup>5</sup>,Trp<sup>23</sup>]PTHrP-(2-36) (human)",VSEIQLLHDKGKSIQDLRRRFWLHHLIAEIHTAEI,35,-,-,-,-,-
+928,"[Ile<sup>5</sup>,Trp<sup>23</sup>]PTHrP-(3-36) (human)",SEIQLLHDKGKSIQDLRRRFWLHHLIAEIHTAEI,34,-,-,-,-,-
+929,"[Ile<sup>5</sup>,Trp<sup>23</sup>]PTHrP-(4-36) (human)",EIQLLHDKGKSIQDLRRRFWLHHLIAEIHTAEI,33,-,-,-,-,-
+930,"[Ile<sup>5</sup>,Trp<sup>23</sup>]PTHrP-(5-36)",IQLLHDKGKSIQDLRRRFWLHHLIAEIHTAEI,32,-,-,-,-,-
+931,"[Ile<sup>5</sup>,Trp<sup>23</sup>]PTHrP-(5-36) (human)",IQLLHDKGKSIQDLRRRFWLHHLIAEIHTAEI,32,-,-,-,-,-
+932,"[Ile<sup>5</sup>,Trp<sup>23</sup>,Tyr<sup>36</sup>]PTHrP-(1-36)-NH<sub>2</sub> (human)",AVSEIQLLHDKGKSIQDLRRRFWLHHLIAEIHTAEY,36,-,-,-,-,-
+933,"[Ile<sup>5</sup>,Val<sup>21</sup>]PTHrP-(1-34) (human)",AVSEIQLLHDKGKSIQDLRRVFFLHHLIAEIHTA,34,-,-,-,-,-
+934,<i>N</i>-&alpha;-Ac-PYY-(22-36) (rat),ASLRHYLNLVTRQRY,15,-,-,-,-,-
+935,<i>N</i>-&alpha;-Ac-PYY-(25-36) (rat),RHYLNLVTRQRY,12,-,-,-,-,-
+936,<i>N</i>-methyl-Phe-Lys-Pro-<small>D</small>-Cha-Cha-<small>D</small>-Arg-CO<sub>2</sub>H,FKPXXR,6,-,-,-,-,-
+937,<i>N</i>-methyl-Phe-Lys-Pro-<small>D</small>-Cha-Trp-<small>D</small>-Arg-CO<sub>2</sub>H,FKPXWA,6,-,-,-,-,-
+938,In-NODAGATOC,FCYWKTCT,8,-,-,-,-,-
+939,INSL3,,,-,-,-,-,-
+940,INSL3 [A(5-26):B(7-27)],,,-,-,-,-,-
+941,INSL3 B-chain analogue,HHFVRALVRVSGGPRWSTEA,20,-,-,-,-,-
+942,INSL3 B chain dimer analogue 8,CGHHFVRALVRVC,13,-,-,-,-,-
+943,INSL5,,,-,-,-,-,-
+944,INSL5,,,-,-,-,-,-
+945,INSL5-A13NR,,,-,-,-,-,-
+946,INSL5 amide (human),,,-,-,-,-,-
+947,INSL5 amide (mouse),,,-,-,-,-,-
+948,INSL5 analogue 13,,,-,-,-,-,-
+949,IRL 2500,AW,2,-,-,-,-,-
+950,isopropylureido-FLFLF,FLFLF,5,-,-,-,-,-
+951,Isox-Cha-Chg-Ala-Arg-Dpr(4FB)-NH2,,,-,-,-,-,-
+952,Isox-Cha-Chg-ARK(Sulfo-Cy5)-NH2,,,-,-,-,-,-
+953,[<i><sup>t</sup></i>Bu-D-Gly<sup>5</sup>]NPS,SFRNGVGTGMKKTSFQRAKS,20,-,-,-,-,-
+954,iturelix,AFASKKLKPA,10,-,-,-,-,-
+955,J18 (galanin analogue),RGRGNWTLNSAGYLLGPKKKK,21,-,-,-,-,-
+956,J20 (galanin analogue),RGRGNWTLNSAGYLLGPAAKK,21,-,-,-,-,-
+957,JI-38,YADAIFTQSYRKVLGQLSARKLLQDIMDR,29,-,-,-,-,-
+958,JMR-132,,,-,-,-,-,-
+959,JMV1116,RRPXGXSXGR,10,-,-,-,-,-
+960,JMV1431,RRPXGXS,7,-,-,-,-,-
+961,JMV180,YXGWXD,6,-,-,-,-,-
+962,JMV2004,KKPWIL,6,-,-,-,-,-
+963,JMV310,YKGWKDF,7,-,-,-,-,-
+964,JMV457,RRPWIL,6,-,-,-,-,-
+965,JMV458,RRPWIL,6,-,-,-,-,-
+966,JMV594,FQWAVGHXL,9,-,-,-,-,-
+967,JMV641,FQWAVGH,7,-,-,-,-,-
+968,JPE1375,XFXPXFF,7,-,-,-,-,-
+969,JV-1-10,YADAIFTNSYRKVLXQLSARKLLQDIMSR,29,-,-,-,-,-
+970,JV-1-36,YRDAIFTNRYRKVLXQLSARKLLQDIXRR,29,-,-,-,-,-
+971,JV-1-37,YRDAIFTNRYRKVLXQLSARKLLQDIXRR,29,-,-,-,-,-
+972,JV-1-38,YRDAIFTNXYRKVLXQLSARKLLQDIXRX,29,-,-,-,-,-
+973,JV-1-39,YRDAIFTNXYRKVLXQLSARKLLQDIXRX,29,-,-,-,-,-
+974,JV-1-40,YRDAIFTNRYRKVLXQLSARKLLQDIXRX,29,-,-,-,-,-
+975,JV-1-41,YRDAIFTNRYRKVLXQLSARKLLQDIXRX,29,-,-,-,-,-
+976,JV-1-42,HRDAIFTNRYRKVLXQLSARKLLQDIXRR,29,-,-,-,-,-
+977,JV-1-43,HRDAIFTNRYRKVLXQLSARKLLQDIXRR,29,-,-,-,-,-
+978,JV-1-62,YRDAIFTNRXRKVLXQLSARKLLQDIXRX,29,-,-,-,-,-
+979,JV-1-63,YRDAIFTNXXRKVLXQLSARKLLQDIXRX,29,-,-,-,-,-
+980,K31440,YHLLRKBIEIEKQEKEKQQAANNRLLLDTI,30,-,-,-,-,-
+981,K41498,FHLLRKXIEIEKQEKEKQQAANNRLLLDTI,30,-,-,-,-,-
+982,kassinin,DVPKSDQFVGLM,12,-,-,-,-,-
+983,KBP-066,Ac-CSNLSTCXLGRLSQDLHRLQTYPKTDVGANAP-NH2,39,-,-,-,-,-
+984,KBP-088,CSNLSTCMLGRLSQELHRLQTFPKTDVGANAP,32,-,-,-,-,-
+985,KE 108,YXRFFWKTF,9,-,-,-,-,-
+986,KH28,KRPYLL,6,-,-,-,-,-
+987,kisspeptin-10,YNWNSFGLRY,10,-,-,-,-,-
+988,kisspeptin-14,DLPNYNWNSFGLRF,14,-,-,-,-,-
+989,kisspeptin-15,KDLPNYNWNSFGLRF,15,-,-,-,-,-
+990,kisspeptin-28,GTSLSPPPESSGSPQQPGLSAPHSRQIP,28,-,-,-,-,-
+991,kisspeptin-52,SSPCPPVEGPAGRQRPLCASRSRLIPAPRGAVLVQREKDLSTYNWNSFGLRY,52,-,-,-,-,-
+992,kisspeptin-52,TSPCPPVENPTGHQRPPCATRSRLIPAPRGSVLVQREKDMSAYNWNSFGLRY,52,-,-,-,-,-
+993,kallidin,KRPPGFSPFR,10,-,-,-,-,-
+994,JMV449,KPYIL,5,-,-,-,-,-
+995,kisspeptin-10,YNWNSFGLRF,10,-,-,-,-,-
+996,kisspeptin-13,LPNYNWNSFGLRF,13,-,-,-,-,-
+997,"L-156,602",LXAGXA,6,-,-,-,-,-
+998,"L-362,823",CXCFWKT,7,-,-,-,-,-
+999,"L-362,855",KTFXFWW,7,-,-,-,-,-
+1000,"L-363,301",PFWKTF,6,-,-,-,-,-
+1001,"L-363,377",PYWKTF,6,-,-,-,-,-
+1002,"L-363,409",AFWKTF,6,-,-,-,-,-
+1003,"L-365,209",XXFPFI,6,-,-,-,-,-
+1004,"L-366,682",HPWIXX,6,-,-,-,-,-
+1005,"L-366,875",PWIXXH,6,-,-,-,-,-
+1006,"L-366,948",PAIXXH,6,-,-,-,-,-
+1007,labradimil,RPXGXSPYR,9,-,-,-,-,-
+1008,lactomedin 1,FKDCHLAR,8,-,-,-,-,-
+1009,large neuromedin N,SDSEEEMKALEADFLTNMHTSKISKAHVPSWKMTLLNVCSLVNNLNSPAEETGEVHEEELVARRKLPTALDGFSLEAMLTIYQLHKICHSRAFQHWELIQEDILDTGNDKNGKEEVIKRKIPYIL,125,-,-,-,-,-
+1010,large neuromedin N,SDSEEDVRALEADLLTNMHASKVSKGSPPSWKMTLLNVCSLINNLNSAAEEAGEMRDDDLVAKRKLPLVLDDFSLEALLTVFQLQKICRSRAFQHWEIIQEDILDHGNEKTEKEEVIKRKIPYIL,125,-,-,-,-,-
+1011,large neuromedin N,SDSEEDVRALEADLLTNMHTSKISKASPPSWKMTLLNVCSLINNVNSPAEEAGDMHDDDLVGKRKLPLVLDGFSLEAMLTIFQLQKICRSRAFQHWEIIQEDILDNVNDKNEKEEVIKRKIPYIL,125,-,-,-,-,-
+1012,large neurotensin,DSEEEMKALEADFLTNMHTSKISKAHVPSWKMTLLNVCSLVNNLNSPAEETGEVHEEELVARRKLPTALDGFSLEAMLTIYQLHKICHSRAFQHWELIQEDILDTGNDKNGKEEVIKRKIPYILKRQLYENKPRRPYILKR,141,-,-,-,-,-
+1013,lasso D,,,-,-,-,-,-
+1014,[Leu<sup>13</sup>]motilin (human),FVPIFTYGELQRLQEKERNKGQ,22,-,-,-,-,-
+1015,[Leu<sup>14</sup>]bombesin,XQRLGNQWAVGHLL,14,-,-,-,-,-
+1016,"[Leu<sup>14</sup>, &psi; 13-14)]bombesin",XQRLGNQWAVGHLM,14,-,-,-,-,-
+1017,"[Leu<sup>31</sup>,Pro<sup>34</sup>]NPY",YPLKPPNPGEDAPAEDMARYYSALRHYINLLTRPRY,36,-,-,-,-,-
+1018,"[Leu<sup>31</sup>,Pro<sup>34</sup>]NPY (pig)",YPSKPDNPGEDAPAEDLARYYSALRHYINLLTRPRY,36,-,-,-,-,-
+1019,"[Leu<sup>31</sup>,Pro<sup>34</sup>]PYY (human)",YPIKPEAPGEDASPEELNRYYASLRHYLNLLTRPRY,36,-,-,-,-,-
+1020,"[Leu<sup>8</sup>,des-Arg<sup>9</sup>]bradykinin",RPPGFSPL,8,-,-,-,-,-
+1021,[Leu]enkephalin,YGGFL,5,-,-,-,-,-
+1022,"[Leu<sup>31</sup>,Pro<sup>34</sup>]PYY (pig)",YPAKPEAPGEDASPEELSRYYASLRHYLNLLTRPRY,36,-,-,-,-,-
+1023,liraglutide,HAEGTFTSDVSSYLEGQAAKEFIAWLVRGRG,31,-,-,-,-,-
+1024,LIH383,FGGFMRRK,8,-,-,-,-,-
+1025,litorin,XQWAVGHFM,9,-,-,-,-,-
+1026,liver enriched antimicrobial peptide 2,MWHLKLCAVLMIFLLLLGQIDGSPIPEVSSAKRRPRRMTPFWRGVSLRPIGASCRDDSECITRLCRKRRCSLSVAQE,77,-,-,-,-,-
+1027,LL-37,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES,37,-,-,-,-,-
+1028,L-Phe-Phe-Phe,L-Phe-Phe-Phe,13,-,-,-,-,-
+1029,LH,,,-,-,-,-,-
+1030,melanin-concentrating hormone,DFDMLRCMLGRVYRPCWQV,19,-,-,-,-,-
+1031,leuprolide,XHWSYLLRP,9,-,-,-,-,-
+1032,lixisenatide,HGEGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPSKKKKKK,44,-,-,-,-,-
+1033,L-Trp-Trp-Trp,WWW,3,-,-,-,-,-
+1034,LTX<sup>(N4C)</sup>,,,-,-,-,-,-
+1035,[L-Tyr<sup>8</sup>]CYN 154806,FCYWKTCY,8,-,-,-,-,-
+1036,LV-2172,,,-,-,-,-,-
+1037,LV-2186,,,-,-,-,-,-
+1038,LV-2211,GGFSFRF,7,-,-,-,-,-
+1039,LVP,CYFQNCPKG,9,-,-,-,-,-
+1040,LY3540378,,,-,-,-,-,-
+1041,Lys-[Hyp<sup>3</sup>]-bradykinin,KRPXGFSPFR,10,-,-,-,-,-
+1042,Lys-kallidin,KKRPPGFSPFR,11,-,-,-,-,-
+1043,"[Lys<sup>5</sup>,Me-Leu<sup>9</sup>,Nle<sup>10</sup>]NKA-(4-10)",DKFVGLX,7,-,-,-,-,-
+1044,M1145,RGRGNWTLNSAGYLLGPVLPPPALALA,27,-,-,-,-,-
+1045,M1151,GWTLNSAGYLLGPK,14,-,-,-,-,-
+1046,M1152,WTLNSAGYLLGPK,13,-,-,-,-,-
+1047,M1153,RGRGNWTLNSAGYLLGPK,18,-,-,-,-,-
+1048,M1160,RGRGNWLNSAGYLLGPVLPPPALALA,26,-,-,-,-,-
+1049,M15,GWTLNSAGYLLGPQQFFGLM,20,-,-,-,-,-
+1050,M242,GWTLNSAGYLLGPRHYINLIWRQRY,25,-,-,-,-,-
+1051,M32,GWTLNSAGYLLGPRHYINLITRQRY,25,-,-,-,-,-
+1052,M35,GWTLNSAGYLLGPPPGFSPFR,21,-,-,-,-,-
+1053,M40,GWTLNSAGYLLGPPPALALA,20,-,-,-,-,-
+1054,M617,GWTLNSAGYLLGPQPPGFSPFR,22,-,-,-,-,-
+1055,M65,CDATCQFRKAIDDCQKQAHHSNVLLPGNSVFKECMKQKKKEFKAGK,46,-,-,-,-,-
+1056,M871,WTLNSAGYLLGPEHPPPALALA,22,-,-,-,-,-
+1057,mamba toxin CM-3,LTCVTSKSIFGITTEDCPDGQNLCFKRRHYVVPKIYDITRGCVATCPIPENYDSIHCCKTEKCNN,65,-,-,-,-,-
+1058,MANSC (415-431),KRYSRLDYLINGIYVDI,17,-,-,-,-,-
+1059,MBP10,ARWK,4,-,-,-,-,-
+1060,MBP7,KAQLRRLS,8,-,-,-,-,-
+1061,MC148R,MRARAVFASVVLTLLLALPRPGVSLSRRKCCLNPTNRPIPNPLLQDLDKVDYQPMGHDCGREAFRVTLQDGRQCVSVGNQSLLDWLKGHKDLCPRMWPGCESL,103,-,-,-,-,-
+1062,MCH (salmon),DTMRCMVGRVYRPCWEV,17,-,-,-,-,-
+1063,MCH<sub>6-17</sub>,RCMLGRVYRPCW,12,-,-,-,-,-
+1064,maxadilan,CDATCQFRKAIDDCQKQAHHSNVLQTSVQTTATFTSMDTSQLPGNSVFKECMKQKKKEFKA,61,-,-,-,-,-
+1065,"[Lys<sup>15</sup>,Arg<sup>16</sup>,Leu<sup>27</sup>]VIP-(1-7)/GRF-(8-27)-NH<sub>2</sub>",HSDAVFTNSYRKVLKRLSARKLLQDIL,27,-,-,-,-,-
+1066,MEN 10376,DYWVWWK,7,-,-,-,-,-
+1067,MEN10627,XLMDWF,6,-,-,-,-,-
+1068,Met-Ck&beta;7,MQVGTNKELCCLVYTSWQIPQKFIVDYSETSPQCPKPGVILLTKRGRQICADPNKKWVQKYISDLKLNA,69,-,-,-,-,-
+1069,Met-Lys-bradykinin,MKRPPGFSPFR,11,-,-,-,-,-
+1070,Met-Met-Trp-Leu-Leu,MMWLL,5,-,-,-,-,-
+1071,[Met<sup>5</sup>]dynorphin-(1-17),YGGFMRRIRPKLKWDNQ,17,-,-,-,-,-
+1072,mGIPAnt-1,H-EGTFISDYSIAMDKIK(C16-diacid)QQDFVNWLLAQKGKKNDWKHN-OH,54,-,-,-,-,-
+1073,MHC binding peptide,MYFINILTL,9,-,-,-,-,-
+1074,minimised INSL5 analogue 7,,,-,-,-,-,-
+1075,minimised relaxin-3 analogue 2,,,-,-,-,-,-
+1076,minimised relaxin-3 analogue 3,,,-,-,-,-,-
+1077,mini-TyrRS,GDAPSPEEKLHLITRNLQEVLGEEKLKEILKERELKIYWGTATTGKPHVAYFVPMSKIADFLKAGCEVTILFADLHAYLDNMKAPWELLELRVSYYENVIKAMLESIGVPLEKLKFIKGTDYQLSKEYTLDVYRLSSVVTQHDSKKAGAEVVKQVEHPLLSGLLYPGLQALDEEYLKVDAQFGGIDQRKIFTFAEKYLPALGYSKRVHLMNPMVPGLTGSKMSSSEEESKIDLLDRKEDVKKKLKKAFCEPGNVENNGVLSFIKHVLFPLKSEFVILRDEKWGGNKTYTAYVDLEKDFAAEVVHPGDLKNSVEVALNKLLDPIREKFNTPALKKLASAAYPDPSKQKPMAKGPAKNSEPEEVI,363,-,-,-,-,-
+1078,[Met]enkephalin,YGGFM,5,-,-,-,-,-
+1079,MIT1,AVITGACERDLQCGKGTCCAVSLWIKSVRVCTPVGTSGEDCHPASHKIPFSGQRMHHTCPCAPNLACVQTSPKKFKCLSKS,81,-,-,-,-,-
+1080,neuromedin S-36,LPRLLHTDSRMATIDFPKKDPTTSLGRPFFLFRPRN,36,-,-,-,-,-
+1081,neuropeptide B-23,WYKPAAGPHHYSVGRASGLLSSF,23,-,-,-,-,-
+1082,MM54,CRPRLCKHCRPRLC,14,-,-,-,-,-
+1083,MMK-1,LESIFRSLLFRVM,13,-,-,-,-,-
+1084,motilin,FVPIFTHSELQKIREKERNKGQ,22,-,-,-,-,-
+1085,motilin,FVPIFTYSELQRMQERERNRGH,22,-,-,-,-,-
+1086,motilin-(1-11) (human),FVPIFTYGELQ,11,-,-,-,-,-
+1087,motilin-(1-12) (human),FVPIFTYGELQR,12,-,-,-,-,-
+1088,motilin-(1-13) (human),FVPIFTYGELQRM,13,-,-,-,-,-
+1089,motilin-(1-19) (human),FVPIFTYGELQRMQEKERN,19,-,-,-,-,-
+1090,motilin-(2-22) (human),VPIFTYGELQRMQEKERNKGQ,21,-,-,-,-,-
+1091,motixafortide,RRXCYXKKPYRXCR,14,-,-,-,-,-
+1092,"[Mpa<sup>1</sup>,<small>D</small>-Tyr(Et)<sup>2</sup>,<small>D</small>-Tic<sup>7</sup>,Aib<sup>9</sup>]OT",XYIQNCXLX,9,-,-,-,-,-
+1093,"[Mpa<sup>1</sup>,<small>D</small>-Tyr(Et)<sup>2</sup>,<small>D</small>-Tic<sup>7</sup>]OT",XYIQNCPLG,9,-,-,-,-,-
+1094,"[Mpa<sup>1</sup>,<small>D</small>-Tyr(Et)<sup>2</sup>,<small>D</small>-Tic<sup>7</sup>,<small>D</small>-Tic<sup>9</sup>]OT",xYIQNCXLX,9,-,-,-,-,-
+1095,neuropeptide B-23,WYKPAAGHSSYSVGRAAGLLSGL,23,-,-,-,-,-
+1096,PrRP-31,SRTHRHSMEIRTPDINPAWYASRGIRPVGRF,31,-,-,-,-,-
+1097,motilin,FVPIFTYGELQRMQEKERNKGQ,22,-,-,-,-,-
+1098,MS05,SSIISHFRWGKPV,13,-,-,-,-,-
+1099,MSMB (91-114),EDCKYIVVEKKDPKKTCSVSEWII,24,-,-,-,-,-
+1100,MT-II,XDHFRWK,7,-,-,-,-,-
+1101,muscarinic toxin 1,LTCVTSKSIFGITTENCPDGQNLCFKKWYYIVPRYSDITWGCAATCPKPTNVRETIRCCETDKCNE,66,-,-,-,-,-
+1102,muscarinic toxin 2,LTCVTTKSIGGVTTEDCPAGQNVCFKRWHYVTPKNYDIIKGCAATCPKVDNNDPIRCCGTDKCND,65,-,-,-,-,-
+1103,muscarinic toxin 3,LTCVTKNTIFGITTENCPAGQNLCFKRWHYVIPRYTEITRGCAATCPIPENYDSIHCCKTDKCNE,65,-,-,-,-,-
+1104,[p-aminoPhe6]ang II,DRVYIFPF,8,-,-,-,-,-
+1105,muscarinic toxin 7,LTCVKSNSIWFPTSEDCPDGQNLCFKRWQYISPRMYDFTRGCAATCPKAEYRDVINCCGTDKCNK,65,-,-,-,-,-
+1106,muscarinic toxin &beta;,LTCVTSKSIFGITTEDCPDGQNLCFKRRHYVVPKIYDITRGCVATCPIPENYDSIHCCKTDKCNE,65,-,-,-,-,-
+1107,MZ-4-169,YRDAIFTNSYRKVLXQLSARKLLQDIXSR,29,-,-,-,-,-
+1108,MZ-4-181,HRDAIFTNSYRKVLXQLSARKLLQDIXSR,29,-,-,-,-,-
+1109,MZ-4-243,YRDAIFTNSYRKVLXQLSARKLLQDIXS,28,-,-,-,-,-
+1110,MZ-4-71,YRDAIFTNSYRKVLXQLSARKLLQDIMS,28,-,-,-,-,-
+1111,MZ-5-156,YRDAIFTNSYRKVLXQLSARKLLQDIXS,28,-,-,-,-,-
+1112,MZ-5-192,YRDAIFTXSYRKVLAQLSARKLLQDIXS,28,-,-,-,-,-
+1113,MZ-5-78,YRDAIFTXSYRKVLXQLSARKLLQDIXD,28,-,-,-,-,-
+1114,MZ-6-55,YRDAIFTNSYRKVLXQLSARKLLQDIXRR,29,-,-,-,-,-
+1115,N36,SGIVQQQNNLLRAIEAQQHLLQLTVWGIKQLQARIL,36,-,-,-,-,-
+1116,neuropeptide B-23,WYKPAAGSHHYSVGRAAGLLSSF,23,-,-,-,-,-
+1117,Nanoluciferase-labelled relaxin,,,-,-,-,-,-
+1118,NanoLuc-INSL3,,,-,-,-,-,-
+1119,NanoLuc R3/I5 chimera,,,-,-,-,-,-
+1120,NC 4-28B,FCYWKSCA,8,-,-,-,-,-
+1121,NC 8-12,FCYWKXCA,8,-,-,-,-,-
+1122,nafarelin,XHWSYXLRPG,10,-,-,-,-,-
+1123,nepadutant,NDWFXL,6,-,-,-,-,-
+1124,neuromedin B (1-30) (human),LSWDLPEPRSRASKIRVHSRGNLWATGHFM,30,-,-,-,-,-
+1125,neuromedin C,GNHWAVGHLM,10,-,-,-,-,-
+1126,neuromedin N,IPYIL,5,-,-,-,-,-
+1127,neuromedin N,KIPYIL,6,-,-,-,-,-
+1128,neuromedin S-33,ILQRGSGTAAVDFTKKDHTATWGRPFFLFRPRN,33,-,-,-,-,-
+1129,neuromedin S-36,LPRLLRLDSRMATVDFPKKDPTTSLGRPFFLFRPRN,36,-,-,-,-,-
+1130,neuromedin U-23,YKVNEYQGPVAPSGGFFLFRPRN,23,-,-,-,-,-
+1131,neuromedin U-23,FKAEYQSPSVGQSKGYFLFRPRN,23,-,-,-,-,-
+1132,neuromedin U-25,FKVDEEFQGPIVSQNRRYFLFRPRN,25,-,-,-,-,-
+1133,neuromedin U-25,FRVDEEFQSPFASQSRGYFLFRPRN,25,-,-,-,-,-
+1134,neuromedin U-8,YFLFRPRN,8,-,-,-,-,-
+1135,neuromedin U-8,QFLFRPRN,8,-,-,-,-,-
+1136,neuronostatin,LRQFLQKSLAAAA,13,-,-,-,-,-
+1137,neuropeptide AF,QFWSLAAPQRF,11,-,-,-,-,-
+1138,neuropeptide AF,EFWSLAAPQRF,11,-,-,-,-,-
+1139,neuropeptide AF,AGEGLNSQFWSLAAPQRF,18,-,-,-,-,-
+1140,neuropeptide B-29,WYKPAAGHSSYSVGRAAGLLSGLRRSPYA,29,-,-,-,-,-
+1141,neuropeptide B-29,WYKPAAGSHHYSVGRAAGLLSSFHRFPST,29,-,-,-,-,-
+1142,neuropeptide B-29,WYKPAAGPHHYSVGRASGLLSSFHRFPST,29,-,-,-,-,-
+1143,neuropeptide &gamma;,DAGHGQISHKRHKTDSFVGLM,21,-,-,-,-,-
+1144,neuropeptide-&gamma;,DAGHGQISHKRHKTDSFVGLM,21,-,-,-,-,-
+1145,neuropeptide head activator,XPPGGSKVILF,11,-,-,-,-,-
+1146,neuropeptide K,DADSSIEKQVALLKALYGHGQISHKRHKTDSFVGLM,36,-,-,-,-,-
+1147,neuropeptide S,SFRNGVGTGMKKTSFQRAKS,20,-,-,-,-,-
+1148,neuropeptide S,SFRNGVGSGVKKTSFRRAKQ,20,-,-,-,-,-
+1149,neuropeptide SF,SPAFLFQPQRF,11,-,-,-,-,-
+1150,neuropeptide SF,SQAFLFQPQRF,11,-,-,-,-,-
+1151,neuropeptide SF,NPAFLFQPQRF,11,-,-,-,-,-
+1152,neuropeptide W-23,WYKHVASPRYHTVGRAAGLLMGL,23,-,-,-,-,-
+1153,neuropeptide W-23,WYKHVASPRYHTVGRASGLLMGL,23,-,-,-,-,-
+1154,neuropeptide W-30,WYKHVASPRYHTVGRASGLLMGLRRSPYLW,30,-,-,-,-,-
+1155,neuropeptide W-30,WYKHVASPRYHTVGRASGLLMGLRRSPYQW,30,-,-,-,-,-
+1156,neuropeptide W-30,WYKHVASPRYHTVGRAAGLLMGLRRSPYLW,30,-,-,-,-,-
+1157,neuropeptide Y-(3-36),SKPDNPGEDAPAEDMARYYSALRHYINLITRQRY,34,-,-,-,-,-
+1158,NG29,,,-,-,-,-,-
+1159,neuropeptide Y,YPSKPDNPGEDAPAEDMARYYSALRHYINLITRQRY,36,-,-,-,-,-
+1160,neurokinin B,DMHDFFVGLM,10,-,-,-,-,-
+1161,neuropeptide FF,FLFQPQRF,8,-,-,-,-,-
+1162,neurokinin A,HKTDSFVGLM,10,-,-,-,-,-
+1163,neurotensin,XLYENKPRRPYIL,13,-,-,-,-,-
+1164,neuromedin B,GNLWATGHFM,10,-,-,-,-,-
+1165,"[Nle<sup>8,18</sup>,Tyr<sup>34</sup>]PTH-(1-34)-NH<sub>2</sub> (bovine)",AVSEIQFXHNLGKHLSSXERVEWLRKKLQDVHNY,34,-,-,-,-,-
+1166,"[Nle<sup>8,18</sup>,Tyr<sup>34</sup>]PTH-(3-34)-NH<sub>2</sub> (bovine)",SEIQFXHNLGKHLSSXERVEWLRKKLQDVHNY,32,-,-,-,-,-
+1167,"[nLeu<sup>13</sup>,Glu<sup>14</sup>]motilin (human)",FVPIFTYGELQRXEEKERNKGQ,22,-,-,-,-,-
+1168,NM4-C<sub>16</sub>,,,-,-,-,-,-
+1169,"[N-Me,des-Sar]Gal-B2",GWTLNSAGYLLGPKKKK,17,-,-,-,-,-
+1170,NMU (104-114),FLFHYSKTQKL,11,-,-,-,-,-
+1171,NOC-ATE,FCXWKTCT,8,-,-,-,-,-
+1172,N-octanoyl-L-homoserine lactone,X,1,-,-,-,-,-
+1173,NODAGA-[Tyr<sup>3</sup>]-octreotide,FCYWKTCT,8,-,-,-,-,-
+1174,N/OFQ-NH<sub>2</sub>,FGGFTGARKSARKLANQ,17,-,-,-,-,-
+1175,PrRP-31,SRAHQHSMETRTPDINPAWYTGRGIRPVGRF,31,-,-,-,-,-
+1176,N/OFQ-(1-13)-NH<sub>2</sub>,FGGFTGARKSARK,13,-,-,-,-,-
+1177,norrin,KTDSSFLMDSQRCMRHHYVDSISHPLYKCSSKMVLLARCEGHCSQASRSEPLVSFSTVLKQPFRSSCHCCRPQTSKLKALRLRCSGGMRLTATYRYILSCHCEECSS,107,-,-,-,-,-
+1178,novokinin,RPLKPW,6,-,-,-,-,-
+1179,NPC 17731,RRPXGFSXXR,10,-,-,-,-,-
+1180,NPC 18565,RRPXGFSPX,9,-,-,-,-,-
+1181,NPC-349,RRXXGXSFXR,10,-,-,-,-,-
+1182,NPC-567,RRPXGFSFFR,10,-,-,-,-,-
+1183,[Nphe<sup>1</sup>]N/OFQ-(1-13)-NH<sub>2</sub>,FGGFTGARKSARK,13,-,-,-,-,-
+1184,NPS(1-4)NH<sub>2</sub>,SFRN,4,-,-,-,-,-
+1185,NNC1702,SQGTFTSEYSKYLDSRRAQDFVKWLLNT,28,-,-,-,-,-
+1186,nociceptin/orphanin FQ,FGGFTGARKSARKLANQ,17,-,-,-,-,-
+1187,NPY-(13-36) (human),PAEDMARYYSALRHYINLITRQRY,24,-,-,-,-,-
+1188,NPY-(13-36) (pig),PAEDLARYYSALRHYINLITRQRY,24,-,-,-,-,-
+1189,NPY-(16-36) (pig),DLARYYSALRHYINLITRQRY,21,-,-,-,-,-
+1190,"NPY-(18-36) (human, pig)",ARYYSALRHYINLITRQRY,19,-,-,-,-,-
+1191,NPY-(20-36) (pig),YYSALRHYINLITRQRY,17,-,-,-,-,-
+1192,NPY-(22-36) (pig),SALRHYINLITRQRY,15,-,-,-,-,-
+1193,NPY-(2-36),PSKPDNPGEDAPAEDMARYYSALRHYINLITRQRY,35,-,-,-,-,-
+1194,NPY-(2-36) (pig),PSKPDNPGEDAPAEDLARYYSALRHYINLITRQRY,35,-,-,-,-,-
+1195,NPY-(26-36) (pig),HYINLITRQRY,11,-,-,-,-,-
+1196,NPY-(3-36) (pig),SKPDNPGEDAPAEDLARYYSALRHYINLITRQRY,34,-,-,-,-,-
+1197,N-stearyl-[Nle<sup>17</sup>] neurotensin-(6-11)/VIP-(7-28),KPRRPYTDNYTRLRKQXAVKKYLNSILN,28,-,-,-,-,-
+1198,N-stearyl-[Nle<sup>17</sup>]VIP,HSDAVFTDNYTRLRKQXAVKKYLNSILN,28,-,-,-,-,-
+1199,obestatin,FNAPFDVGIKLSGAQYQQHGRAL,23,-,-,-,-,-
+1200,obestatin,FNAPFDVGIKLSGVQYQQHSQAL,23,-,-,-,-,-
+1201,OH-LVA,YFQNRPR,7,-,-,-,-,-
+1202,OHM-11526,FVFIFTYGELQRLQEKERNKGQ,22,-,-,-,-,-
+1203,NPY,YPSKPDNPGEDAPAEDLARYYSALRHYINLITRQRY,36,-,-,-,-,-
+1204,peptide 234,ANWNGFGWRF,10,-,-,-,-,-
+1205,orexin-A,XPLPDCCRQKTCSCRLYELLHGAGNHAAGILTL,33,-,-,-,-,-
+1206,[Orn<sup>5</sup>]URP,ACFWOYCV,8,-,-,-,-,-
+1207,oryzatensin,GYPMYPLPR,9,-,-,-,-,-
+1208,OSTN (115-133),RFGIPMDRIGRNRLSNSRG,19,-,-,-,-,-
+1209,OSTN (81-102),KRSFSGFGSPLDRLSAGSVDHK,22,-,-,-,-,-
+1210,P2pal18S,RSSAMDENSEKKRKSAIK,18,-,-,-,-,-
+1211,P32 [PMID: 27108698],RHYPYWR,7,-,-,-,-,-
+1212,P4pal-10,SGRRYGHALR,10,-,-,-,-,-
+1213,P59 [PMID: 27108698],LIRLWR,6,-,-,-,-,-
+1214,PACAP-38,HSDGIFTDSYSRYRKQMAVKKYLAAVLGKRYKQRVKNK,38,-,-,-,-,-
+1215,PACAP-(6-38),FTDSYSRYRKQMAVKKYLAAVLGKRYKQRVKNK,33,-,-,-,-,-
+1216,PACAP-27,HSDGIFTDSYSRYRKQMAVKKYLAAVL,27,-,-,-,-,-
+1217,orexin-B,RSGPPGLQGRLQRLLQASGNHAAGILTM,28,-,-,-,-,-
+1218,PAMP-12 (human),FRKKWNKWALSR,12,-,-,-,-,-
+1219,PAMP-20,ARLDVASEFRKKWNKWALSR,20,-,-,-,-,-
+1220,pancreatic polypeptide,APLEPEYPGDNATPEQMAQYAAELRRYINMLTRPRY,36,-,-,-,-,-
+1221,pancreatic polypeptide,APLEPMYPGDYATPEQMAQYETQLRRYINTLTRPRY,36,-,-,-,-,-
+1222,pancreatic polypeptide,APSEPHHPGDQATQDQLAQYYSDLYQYITFVTRPRF,36,-,-,-,-,-
+1223,pancreatic polypeptide,APLEPMYPGDYATHEQRAQYETQLRRYINTLTRPRY,36,-,-,-,-,-
+1224,pancreatic polypeptide,APLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRY,36,-,-,-,-,-
+1225,pasireotide,XXWKYF,6,-,-,-,-,-
+1226,PBC-264,YXGWXDF,7,-,-,-,-,-
+1227,PBP10,QRLFQVKGRR,10,-,-,-,-,-
+1228,PEG40-NMU,FRVDEEFQSPFASQSRGYFLFRPRN,25,-,-,-,-,-
+1229,PEN,SVDQDLGPEVPPENVLGALLRV,22,-,-,-,-,-
+1230,PEN,,,-,-,-,-,-
+1231,[Pen<sup>5</sup>]U-(4-11) (human),DXFWKYCV,8,-,-,-,-,-
+1232,pentagastrin,XWMDF,5,-,-,-,-,-
+1233,pepcan-12,RVDPVNFKLLSH,12,-,-,-,-,-
+1234,oxytocin,CYIQNCPLG,9,-,-,-,-,-
+1235,Peptide 5 [PMID: 28562585],,,-,-,-,-,-
+1236,peptide III-BTD,RXR,3,-,-,-,-,-
+1237,peptide YY,YPIKPEAPGEDASPEELNRYYASLRHYLNLVTRQRY,36,-,-,-,-,-
+1238,[(pF)Phe<sup>4</sup>]N/OFQ-(1-13)-NH<sub>2</sub>,FGGFTGARKSARK,13,-,-,-,-,-
+1239,PG-106,XDXXRWK,7,-,-,-,-,-
+1240,PG-901,XDPARWK,7,-,-,-,-,-
+1241,PG 99-465,HSDAVFTDNYTKLRKQMAVKKYLNSIKKGGT,31,-,-,-,-,-
+1242,peptide YY,YPAKPEAPGEDASPEELSRYYASLRHYLNLVTRQRY,36,-,-,-,-,-
+1243,PG 97-269,HFDAVFTNSYRKVLKRLSARKLLQDIL,27,-,-,-,-,-
+1244,p-guanidinobenzoyl-MCH-(7-17),XCMLGRVYRPCW,12,-,-,-,-,-
+1245,"[Phaa<sup>1</sup>,<small>D</small>-Tyr(Et)<sup>2</sup>,Lys<sup>6</sup>,des-Gly<sup>9</sup>]AVP",YFQNKPR,7,-,-,-,-,-
+1246,"[Phaa<sup>1</sup>,<small>D</small>-Tyr(Et)<sup>2</sup>,Val<sup>4</sup>,Lys<sup>6</sup>,Tyr-NH<sub>2</sub><sup>8</sup>,des-Gly<sup>9</sup>]AVP",YFVNKPY,7,-,-,-,-,-
+1247,"[Phaa<sup>1</sup>,<small>D</small>-Tyr(Me)<sup>2</sup>,Arg<sup>6</sup>,Tyr-NH<sub>2</sub><sup>9</sup>]AVP",YFQNRPRY,8,-,-,-,-,-
+1248,"[Phaa<sup>1</sup>,<small>D</small>-Tyr<sup>2</sup>,Val<sup>4</sup>,Arg<sup>6</sup>,Arg-NH<sub>2</sub><sup>9</sup>]AVP",YFVNRPRR,8,-,-,-,-,-
+1249,[Phe(Me)<sup>7</sup>]neurokinin B,DMHDFFFGLM,10,-,-,-,-,-
+1250,[Phe<sup>13</sup>]bombesin,XQRLGNQWAVGHFM,14,-,-,-,-,-
+1251,"[Phe<sup>13</sup>,Tyr<sup>19</sup>]MCH",DFDMLRCMLGRVFRPCWQY,19,-,-,-,-,-
+1252,[Phe<sup>23</sup>]PTH-(1-34) (human),SVSEIQLMHNLGKHLNSMERVEFLRKKLQDVHNF,34,-,-,-,-,-
+1253,"[Phe<sup>3</sup>,Leu<sup>13</sup>]motilin (human)",FVFIFTYGELQRMQEKERNKGQ,22,-,-,-,-,-
+1254,[Phe<sup>3</sup>]OT,CYFQNCPLG,9,-,-,-,-,-
+1255,"[Phe<sup>8</sup>,<i>&psi;</i>(CH<sub>2</sub>-NH)Arg<sup>9</sup>]BK",RPPGFSPFR,9,-,-,-,-,-
+1256,PHI,HADGVFTSDYSRLLGQLSAKKYLESLI,27,-,-,-,-,-
+1257,PHI,HADGVFTSDYSRLLGQISAKKYLESLIGKRISSSISEDPVPI,42,-,-,-,-,-
+1258,PHM,HADGVFTSDFSKLLGQLSAKKYLESLM,27,-,-,-,-,-
+1259,PHV,HADGVFTSDFSKLLGQLSAKKYLESLMGKRVSSNISEDPVPV,42,-,-,-,-,-
+1260,PHV,HADGVFTSDYSRLLGQISAKKYLESLIGKRISSSISEDPVPV,42,-,-,-,-,-
+1261,phyllolitorin,QLWAVGSFM,9,-,-,-,-,-
+1262,phyllomedusin,QNPNRFIGLM,10,-,-,-,-,-
+1263,physalaemin,XADPNKFYGLM,11,-,-,-,-,-
+1264,PL017,YPFP,4,-,-,-,-,-
+1265,urotensin-II,QHGAAPECFWKYCI,14,-,-,-,-,-
+1266,R3/I5,,,-,-,-,-,-
+1267,PMX205,hydrocinnamoyl-XPAWR,20,-,-,-,-,-
+1268,Pomc (141-162),RRPVKVYPNVAENESAEAFPLEF,23,-,-,-,-,-
+1269,PP-(13-36) (human),TPEQMAQYAADLRRYINMLTRPRY,24,-,-,-,-,-
+1270,PP-(20-36) (human),AADLRRYINMLTRPRY,16,-,-,-,-,-
+1271,PP-(2-36) (human),PLEPVYPGDNATPEQMAQYAADLRRY,26,-,-,-,-,-
+1272,"[PP<sub>1-17</sub>,Ala<sup>31</sup>,Aib<sup>32</sup>]NPY (human)",APLEPVYPGDNATPEQMARYYSALRHYINLAXRQRY,36,-,-,-,-,-
+1273,pralmorelin,AAAWFK,6,-,-,-,-,-
+1274,PRL-2915,FCAWKVCA,8,-,-,-,-,-
+1275,PRL-2970,FCYWKTCA,8,-,-,-,-,-
+1276,prokineticin-1,AVITGACERDVQCGAGTCCAISLWLRGLRLCTPLGREGEECHPGSHKIPFFRKRQHHTCPCSPSLLCSRFPDGRYRCSQDLKNVNF,86,-,-,-,-,-
+1277,prokineticin-1,AVITGACERDVQCGAGTCCAISLWLRGLRMCTPLGREGEECHPGSHKVPFFRKRKHHTCPCLPNLLCSRFPDGRYRCSMDLKNINF,86,-,-,-,-,-
+1278,prokineticin-1,AVITGACERDIQCGAGTCCAISLWLRGLRLCTPLGREGEECHPGSHKIPFLRKRQHHTCPCSPSLLCSRFPDGRYRCFRDLKNANF,86,-,-,-,-,-
+1279,prokineticin-2,AVITGACDKDSQCGGGMCCAVSIWVKSIRICTPMGKLGDSCHPLTRKNNFGNGRQERRKRKRSKRKKEVPFFGRRMHHTCPCLPGLACLRTSFNRFICLAQK,102,-,-,-,-,-
+1280,prokineticin-2,AVITGACDKDSQCGGGMCCAVSIWVKSIRICTPMGQVGDSCHPLTRKSHVANGRQERRRAKRRKRKKEVPFWGRRMHHTCPCLPGLACLRTSFNRFICLARK,102,-,-,-,-,-
+1281,prokineticin-2&beta;,AVITGACDKDSQCGGGMCCAVSIWVKSIRICTPMGKLGDSCHPLTRKVPFFGRRMHHTCPCLPGLACLRTSFNRFICLAQK,81,-,-,-,-,-
+1282,[Pro<sup>34</sup>]NPY,YPSKPPNPGEDAPAEDMARYYSALRHYINLITRQRY,36,-,-,-,-,-
+1283,prosaptide,CEFLVKEVTKLIDNNKTEKEIL,22,-,-,-,-,-
+1284,[Pro<sup>34</sup>]PYY (human),YPIKPEAPGEDASPEELNRYYASLRHYLNLVTRPRY,36,-,-,-,-,-
+1285,[Pro<sup>3</sup>]GIP,YAPGTFISDYSIAMDKIHQQDFVNWLLAQKGKKNDWKHNITQ,42,-,-,-,-,-
+1286,[Pro<sup>7</sup>]neurokinin B,DMHDFFVGLM,10,-,-,-,-,-
+1287,[Pro<sup>9</sup>]SP,RPKPQQFFPLM,11,-,-,-,-,-
+1288,PrP<sub>106-126</sub>,KTNMKHMAGAAAAGAVVGGLG,21,-,-,-,-,-
+1289,PrRP-20,TPDINPAWYASRGIRPVGRF,20,-,-,-,-,-
+1290,PrRP-20,TPDINPAWYTGRGIRPVGRF,20,-,-,-,-,-
+1291,PrRP-(24-31) (human),GIRPVGRF,8,-,-,-,-,-
+1292,pramlintide,KCNTATCATQRLANFLVHSSNNFGPILPPTNVGSNTY,37,-,-,-,-,-
+1293,R3/I5- SmBiT,,,-,-,-,-,-
+1294,R-486,DSFWXLM,7,-,-,-,-,-
+1295,PSM&alpha;3,MEFVAKLFKFFKDLLGKFLGNN,22,-,-,-,-,-
+1296,PTH,AVSEIQLMHNLGKHLASMERMQWLRRKLQDMHNFVSLGVQMAARDGSHQKPTKKEENVLVDGNPKSLGEGDKADVDVLVKSKSQ,84,-,-,-,-,-
+1297,PTH,AVSEIQLMHNLGKHLASVERMQWLRKKLQDVHNFVSLGVQMAAREGSYQRPTKKEENVLVDGNSKSLGEGDKADVDVLVKAKSQ,84,-,-,-,-,-
+1298,PTH-(1-34) (rat),AVSEIQLMHNLGKHLASVERMQWLRKKLQDVHNF,34,-,-,-,-,-
+1299,PTHrP,AVSEHQLLHDKGKSIQDLRRRFFLHHLIAEIHTAEIRATSEVSPNSKPSPNTKNHPVRFGSDDEGRYLTQETNKVETYKEQPLKTPGKKKKGKPGKRKEQEKKKRRTRSAWLDSGVTGSGLEGDHLSDTSTTSLELDSRRH,141,-,-,-,-,-
+1300,PTHrP-(1-20)/TIP-(23-39) (human),AVSEHQLLHDKGKSIQDLRRRHWLNSYMHKLLVLDAP,37,-,-,-,-,-
+1301,PTHrP-(1-21)/PTH-(22-34) (human),AVSEHQLLHDKGKSIQDLRRREWLRKKLQDVHNF,34,-,-,-,-,-
+1302,PTHrP-(1-34) (human),AVSEHQLLHDKGKSIQDLRRRFFLHHLIAEIHTA,34,-,-,-,-,-
+1303,PTHrP-(1-36),AVSEHQLLHDKGKSIQDLRRRFFLHHLIAEIHTAEI,36,-,-,-,-,-
+1304,"PTHrP-(7-34) (human, rat, mouse)",LLHDKGKSIQDLRRRFFLHHLIAEIHTA,28,-,-,-,-,-
+1305,PWT1-NPS,SFRNGVGTGMKKTSFQRAKS,20,-,-,-,-,-
+1306,"PYY-(13-36) (mouse, rat, pig)",SPEELSRYYASLRHYLNLVTRQRY,24,-,-,-,-,-
+1307,PYY-(3-36),AKPEAPGEDASPEELSRYYASLRHYLNLVTRQRY,34,-,-,-,-,-
+1308,PYY-(3-36),IKPEAPGEDASPEELNRYYASLRHYLNLVTRQRY,34,-,-,-,-,-
+1309,PYY-(3-36) (pig),AKPEAPGEDASPEELSRYYASLRHYLNLVTRQRY,34,-,-,-,-,-
+1310,QRFP26,ASGPLGTLAEELSSYSRRKGGFSFRF,26,-,-,-,-,-
+1311,QRFP26,ASGPLGTLAEELSSYSRRKGGFSFRF,26,-,-,-,-,-
+1312,QRFP26 (26RFa),TSGPLGNLAEELNGYSRKKGGFSFRF,26,-,-,-,-,-
+1313,QRFP43,XDGSSEAAGFLPADSEKASGPLGTLAEELSSYSRRKGGFSFRF,43,-,-,-,-,-
+1314,QRFP43,XDSGSEATGFLPTDSEKASGPLGTLAEELSSYSRRKGGFSFRF,43,-,-,-,-,-
+1315,QRFP43 (43RFa),XDEGSEATGFLPAAGEKTSGPLGNLAEELNGYSRKKGGFSFRF,43,-,-,-,-,-
+1316,urotensin-II,ETPDCFWKYCV,11,-,-,-,-,-
+1317,PTH,SVSEIQLMHNLGKHLNSMERVEWLRKKLQDVHNFVALGAPLAPRDAGSQRPRKKEDNVLVESHEKSLGEADKADVNVLTKAKSQ,84,-,-,-,-,-
+1318,PWT2-N/OFQ,,,-,-,-,-,-
+1319,Qu-SPX,NWTPNAALYLFGPQa,15,-,-,-,-,-
+1320,QWF,Gln-Trp-Phe,11,-,-,-,-,-
+1321,R396,LDQWFG,6,-,-,-,-,-
+1322,R3 B1-22R,RAAPYGVRLSGREFIRAVIFTSR,23,-,-,-,-,-
+1323,R3(B&Delta;23-27)R/I5 chimeric peptide,,,-,-,-,-,-
+1324,R-954,,,-,-,-,-,-
+1325,RAG8,RAGLFQRS,8,-,-,-,-,-
+1326,RB-400,WXDF,4,-,-,-,-,-
+1327,relaxin,,,-,-,-,-,-
+1328,relaxin,,,-,-,-,-,-
+1329,relaxin,,,-,-,-,-,-
+1330,relaxin,,,-,-,-,-,-
+1331,relaxin-1,,,-,-,-,-,-
+1332,relaxin-3,,,-,-,-,-,-
+1333,relaxin-3,,,-,-,-,-,-
+1334,relaxin-3 (B chain),RAAPYGVRLCGREFIRAVIFTCGGSRW,27,-,-,-,-,-
+1335,relaxin-3 B chain dimer,,,-,-,-,-,-
+1336,RES7011,GNWHGTAPDWFFNYYW,16,-,-,-,-,-
+1337,ranatensin,XVPQWAVGHFM,11,-,-,-,-,-
+1338,RF9,,,-,-,-,-,-
+1339,RFRP-1,MPHSFANLPLRF,12,-,-,-,-,-
+1340,RFRP-3,VPNLPGRF,8,-,-,-,-,-
+1341,Rhodei-litorin,QLWATGHFM,9,-,-,-,-,-
+1342,rho-TIA,FNWRCCLIPACRRNHKKFC,19,-,-,-,-,-
+1343,ribosomal protein S19,PGVTVKDVNQQEFVRALAAFLKKSGKLKVPEWVDTVKLAKHKELAPYDENWFYTRAASTARHLYLRGGAGVGSMTKIYGGRQRNGVMPSHFSRGSKSVARRVLQALEGLKMVEKDQDGGRKLTPQGQRDLDRIAGQVAAANKKH,144,-,-,-,-,-
+1344,RLF-(A11-B10)-isopeptide amide<sup>A26</sup> (xA11-B10),,,-,-,-,-,-
+1345,Ro 25-1392,HSDAVFTENYTKLRKQXAAKKYLNDLKK,28,-,-,-,-,-
+1346,Ro 25-1553,HSDAVFTENYTKLRKQXAAKKYLNDLKKGGT,31,-,-,-,-,-
+1347,&rho;-Da1a,LTCVTSKSIFGITTEDCPDGQNLCFKRRHYVVPKIYDSTRGCAATCPIPENYDSIHCCKTDKCNE,65,-,-,-,-,-
+1348,R-spondin-1,SRGIKGKRQRRISAEGSQACAKGCELCSEVNGCLKCSPKLFILLERNDIRQVGVCLPSCPPGYFDARNPDMNKCIKCKIEHCEACFSHNFCTKCKEGLYLHKGRCYPACPEGSSAANGTMECSSPAQCEMSEWSPWGPCSKKQQLCGFRRGSEERTRRVLHAPVGDHAACSDTKETRRCTVRRVPCPEGQKRRKGGQGRRENANRNLARKESKEAGAGSRRRKGQQQQQQQGTVGPLTSAGPA,243,-,-,-,-,-
+1349,R-spondin-1,SRGIKGKRQRRISAEGSQACAKGCELCSEVNGCLKCSPKLFILLERNDIRQVGVCLPSCPPGYFDARNPDMNKCIKCKIEHCEACFSHNFCTKCQEALYLHKGRCYPACPEGSTAANSTMECGSPAQCEMSEWSPWGPCSKKRKLCGFRKGSEERTRRVLHAPGGDHTTCSDTKETRKCTVRRTPCPEGQKRRKGGQGRRENANRHPARKNSKEPRSNSRRHKGQQQPQPGTTGPLTSVGPTWAQ,245,-,-,-,-,-
+1350,R-spondin-2,QGNRWRRSKRASYVSNPICKGCLSCSKDNGCSRCQQKLFFFLRREGMRQYGECLHSCPSGYYGHRAPDMNRCARCRIENCDSCFSKDFCTKCKVGFYLHRGRCFDECPDGFAPLEETMECVEGCEVGHWSEWGTCSRNNRTCGFKWGLETRTRQIVKKPVKDTILCPTIAESRRCKMTMRHCPGGKRTPKAKEKRNKKKKRKLIERAQEQHSVFLATDRANQ,222,-,-,-,-,-
+1351,R-spondin-2,NRWRRNKRASYVSNPICKGCLSCSKDNGCSRCQQKLFFFLRREGMRQYGECLHSCPSGYYGHRAPDMNRCARCRIENCDSCFSKDFCTKCKVGFYLHRGRCFDECPDGFAPLDETMECVEGCEVGHWSEWGTCSRNNRTCGFKWGLETRTRQIVKKPAKDTIPCPTIAESRRCKMAMRHCPGGKRTPKAKEKRNKKKRRKLIERAQEQHSVFLATDRVNQ,220,-,-,-,-,-
+1352,R-spondin-3,QNASRGRRQRRMHPNVSQGCQGGCATCSDYNGCLSCKPRLFFVLERIGMKQIGVCLSSCPSGYYGTRYPDINKCTKCKVDCDTCFNKNFCTKCKSGFYLHLGKCLDSCPEGLEANNHTMECVSIVHCEASEWSPWSPCMKKGKTCGFKRGTETRVRDILQHPSAKGNLCPPTSETRTCIVQRKKCSKGERGKKGRERKRKKLNKEERKETSSSSDSKGLESSIETPDQQENKERQQQQKRRARDKQQKSVSVSTVH,256,-,-,-,-,-
+1353,R-spondin-3,QNASRGRRQRRMHPNVSQGCQGGCATCSDYNGCLSCKPRLFFALERIGMKQIGVCLSSCPSGYYGTRYPDINKCTKCKADCDTCFNKNFCTKCKSGFYLHLGKCLDNCPEGLEANNHTMECVSIVHCEVSEWNPWSPCTKKGKTCGFKRGTETRVREIIQHPSAKGNLCPPTNETRKCTVQRKKCQKGERGKKGRERKRKKPNKGESKEAIPDSKSLESSKEIPEQRENKQQQKKRKVQDKQKSVSVSTVH,251,-,-,-,-,-
+1354,R-spondin-4,LYRRKKQAGTGLGGNCTGCVICSEENGCSTCQQRLFLFIRREGIRQYGKCVHDCPLGFFGIRGQEANRCKKCGATCESCFSQDFCIRCKRRFHLYKGKCLPSCPPGTLTHQSTRECQEECEPSPWGSWSPCIHNGKTCGSGWGLETRVREAGPAKQEETASCRVLSESRKCPIKRLCPGERNPRQKNRKDRRQRKDRKLERRPHQRGSQ,209,-,-,-,-,-
+1355,R-spondin-4,LNRRKKQVGTGLGGNCTGCIICSEENGCSTCQQRLFLFIRREGIRQYGKCLHDCPPGYFGIRGQEVNRCKKCGATCESCFSQDFCIRCKRQFYLYKGKCLPTCPPGTLAHQNTRECQGECELGPWGGWSPCTHNGKTCGSAWGLESRVREAGRAGHEEAATCQVLSESRKCPIQRPCPGERSPGQKKGRKDRRPRKDRKLDRRLDVRPRQPGLQP,215,-,-,-,-,-
+1356,"SDF-1, 1-9[P2G] dimer",KGVSLSYRC,9,-,-,-,-,-
+1357,SA10SC-RLX,,,-,-,-,-,-
+1358,sarafotoxin S6c,CTCNDMTDEECLNFCHQDVIW,21,-,-,-,-,-
+1359,"[Sar,<small>D</small>-Phe<sup>8</sup>,des-Arg<sup>9</sup>]bradykinin",XRPPGFSPF,9,-,-,-,-,-
+1360,"[Sar<sup>1</sup>,Ala<sup>8</sup>]Ang-II",XRVYVHPA,8,-,-,-,-,-
+1361,"[Sar<sup>1</sup>,Cha<sup>4</sup>]Ang-II",XRVXVHPF,8,-,-,-,-,-
+1362,"[Sar<sup>1</sup>,Cha<sup>8</sup>]Ang-II",XRVYVHPX,8,-,-,-,-,-
+1363,"[Sar<sup>1</sup>, D-Ala<sup>12</sup>]galanin(1-16)",GWTLNSAGYLLAPHAV,16,-,-,-,-,-
+1364,"[Sar<sup>1</sup>,Gly<sup>4</sup>,Gly<sup>8</sup>]Ang-II",XRVGVHPG,8,-,-,-,-,-
+1365,"[Sar<sup>1</sup>,Ile<sup>4</sup>,Ile<sup>8</sup>]Ang-II",XRVIIHPI,8,-,-,-,-,-
+1366,"[Sar<sup>1</sup>,Ile<sup>8</sup>]Ang-II",XRVYIHPI,8,-,-,-,-,-
+1367,"[Sar<sup>9</sup>,Met(O<sub>2</sub>)<sup>11</sup>]SP",RPKPQQFFXLM,11,-,-,-,-,-
+1368,SiFA-Asn(AcNH-&beta;-Glc)-Tyr<sup>3</sup>-octreotate,FCYWKTCT,8,-,-,-,-,-
+1369,sauvagine,XGPPISIDLSLELLRKMIEIEKQEKEKQQAANNRLLLDTI,40,-,-,-,-,-
+1370,sarafotoxin S6b,CSCKDMTDKECLYFCHQDVIW,21,-,-,-,-,-
+1371,saralasin,XRVYVHPA,8,-,-,-,-,-
+1372,sCK&beta;8-1,MLWRRKIGPQMTLSHAAGFHATSADCCISYTPRSIPCSLLESYFETNSECSKPGVIFLTKKGRRFCANPSDKQVQVCVRMLKLDTRIKTRKN,92,-,-,-,-,-
+1373,SDF1 P2G,KGVSLSYRCPCRFFESHVARANVKHLKILNTPNCALQIVARLKNNNRQVCIDPKLKWIQEYLEKALNK,68,-,-,-,-,-
+1374,secretin,HSDGTFTSELSRLQDSARLQRLLQGLV,27,-,-,-,-,-
+1375,secretin,HSDGMFTSELSRLQDSARLQRLLQGLV,27,-,-,-,-,-
+1376,secretin-(5-27) (pig),TFTSELSRLRDSARLQRLLQGLV,23,-,-,-,-,-
+1377,seglitide,AYWKVF,6,-,-,-,-,-
+1378,selepressin,CFIXNCPXG,9,-,-,-,-,-
+1379,urotensin-II,QHGTAPECFWKYCI,14,-,-,-,-,-
+1380,senktide,DFFGLM,6,-,-,-,-,-
+1381,septide,XFFPLM,6,-,-,-,-,-
+1382,sermorelin,YADAIFTNSYRKVLGQLSARKLLQDIMSRQ,30,-,-,-,-,-
+1383,[Ser<sup>8</sup>]GnRH,XHWSYGLSPG,10,-,-,-,-,-
+1384,serum amyloid A,MRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGVWAAEAISNARENIQRFFGRGAEDSLADQAANEWGRSGKDPNHFRPAGLPEKY,105,-,-,-,-,-
+1385,SHAAGtide,MLWRRKIGPQMTLSHAAG,18,-,-,-,-,-
+1386,SiFA-Asn(AcNH-&beta;-Glc)-PEG-Tyr<sup>3</sup>-octreotate,FCFWKTCT,8,-,-,-,-,-
+1387,SKF-105494,YFVNXRR,7,-,-,-,-,-
+1388,SLIGRL-NH<sub>2</sub>,SLIGRL,6,-,-,-,-,-
+1389,"[<small>D</small>-Bpa<sup>5</sup>,Ile<sup>13</sup>]motilin (human)",FVPIXTYGELQRIQEKERNKGQ,22,-,-,-,-,-
+1390,<small>D</small>-Lys<sup>0</sup>-[des-Arg<sup>10</sup>]kallidin,KKRPPGFSPF,10,-,-,-,-,-
+1391,"[<small>D</small>-Lys<sup>1</sup>,des-Arg<sup>10</sup>]kallidin",KRPPGFSPF,9,-,-,-,-,-
+1392,"[<small>L</small>-Bpa<sup>5</sup>,Ile<sup>13</sup>]motilin (human)",FVPIXTYGELQRIQEKERNKGQ,22,-,-,-,-,-
+1393,SHU9119,CDHARWCK,8,-,-,-,-,-
+1394,secretin,HSDGTFTSELSRLREGARLQRLLQGLV,27,-,-,-,-,-
+1395,SLIGKV-NH<sub>2</sub>,SLIGKV,6,-,-,-,-,-
+1396,SPAG11B (61-103),DLLPPRTPPYQVHISHREARGPSFRICVDFLGPRWARGCSTGN,43,-,-,-,-,-
+1397,spantide I,RPKPQQWFWLL,11,-,-,-,-,-
+1398,spantide II,KPAPFNWFWLX,11,-,-,-,-,-
+1399,spexin-1,NWTPQAMLYLKGAQ,14,-,-,-,-,-
+1400,spinorphin,LVVYPWT,7,-,-,-,-,-
+1401,SQ007-5,WWDRRWRASKLGLAR,15,-,-,-,-,-
+1402,SRIF-28,SANSNPAMAPRERKAGCKNFFWKTFTSC,28,-,-,-,-,-
+1403,SRIF-14,AGCKNFFWKTFTSC,14,-,-,-,-,-
+1404,semaglutide,HAEGTFTSDVSSYLEGQAAKEFIAWLVRGRG,31,-,-,-,-,-
+1405,setmelanotide,RCAHFRWC,8,-,-,-,-,-
+1406,sst<sub>3</sub>-ODN-8,CFYXKTFC,8,-,-,-,-,-
+1407,substance P-(4-11),PQQFFGLM,8,-,-,-,-,-
+1408,substance P-(6-11),QFFGLM,6,-,-,-,-,-
+1409,substance P-OMe,RPKPQQFFGLM,11,-,-,-,-,-
+1410,T22,RRWCYRKCYKGYCYRKCR,18,-,-,-,-,-
+1411,"[<sup>19</sup>Lys,<sup>26</sup>Leu]-galparan",GWTLNSAGYLLGPINLKAKAALAKKLL,27,-,-,-,-,-
+1412,[<sup>2</sup>Ala]-galparan,GATLNSAGYLLGPINLKALAALAKKIL,27,-,-,-,-,-
+1413,T134,RRWCYRKKPYRXCR,14,-,-,-,-,-
+1414,T20(DP178),YTSLIHSLIEESQNQQEKNEQELLELDKWASLWNWF,36,-,-,-,-,-
+1415,T21/DP107,NNLLRAIEAQQHLLQLTVWGIKQLQARILAVERYLKDQ,38,-,-,-,-,-
+1416,Y-RFRP-3,YVPNLPQRF,9,-,-,-,-,-
+1417,TAK 044,DDDXLW,6,-,-,-,-,-
+1418,T140,RRACYRKKPYRXCR,14,-,-,-,-,-
+1419,TAK-448,,,-,-,-,-,-
+1420,TamRLX,XLYSALANKCCHVGCTKRSLARFC,24,-,-,-,-,-
+1421,"[tBaa<sup>1</sup>,<small>D</small>-Tyr(Et)<sup>2</sup>,Val<sup>4</sup>,Lys<sup>6</sup>,Arg-NH<sub>2</sub><sup>8</sup>,des-Gly<sup>9</sup>]AVP",XYFVNKPR,8,-,-,-,-,-
+1422,t-Boc-FLFLF,FLFLF,5,-,-,-,-,-
+1423,t-Boc-Met-Leu-Phe,MLF,3,-,-,-,-,-
+1424,TC14012,RRACYXKXPYRXCR,14,-,-,-,-,-
+1425,tesamorelin,YADAIFTNSYRKVLGQLSARKLLQDIMSRQQGESNQERGARARL,44,-,-,-,-,-
+1426,tethered chemerin 9,MSTESMIRDVELAEEALPKKTGGPQGSRRCLFLSLFSFLIVAGATTLFCLLHFGVIGSGNGNGNGNGNGNGNGNGNGNEQKLISEEDLGNGNGNGSGNSYFPGQFAFS,108,-,-,-,-,-
+1427,TFLLR-NH<sub>2</sub>,TFLLR,5,-,-,-,-,-
+1428,substance P,RPKPQQFFGLM,11,-,-,-,-,-
+1429,YSFKPMPLaR,YSFKPMPLAR,10,-,-,-,-,-
+1430,teduglutide,HGDGSFSDEMNTILDNLAARDFINWLIQTKITD,33,-,-,-,-,-
+1431,THG213.29,AtsyeaLLK,9,-,-,-,-,-
+1432,"[Thi<sup>5,8</sup>,D-Phe<sup>7</sup>]bradykinin",RPPGXSFXR,9,-,-,-,-,-
+1433,thrombin,,,-,-,-,-,-
+1434,thrombin,,,-,-,-,-,-
+1435,thrombin,,,-,-,-,-,-
+1436,Thr<sup>10</sup>contulakin-G,QSEEGGSNATKKPYIL,16,-,-,-,-,-
+1437,"[Thr<sup>4</sup>,Gly<sup>7</sup>]OT",CYITNCGLG,9,-,-,-,-,-
+1438,TIP39,SLALADDAAFRERARLLAALERRRWLDSYMQKLLLLDAP,39,-,-,-,-,-
+1439,TIP39-(3-39) (human/bovine),ALADDAAFRERARLLAALERRHWLNSYMHKLLVLDAP,37,-,-,-,-,-
+1440,TIP39-(7-39) (human/bovine),DAAFRERARLLAALERRHWLNSYMHKLLVLDAP,33,-,-,-,-,-
+1441,TIP39-(7-39) (mouse),DAAFRERARLLAALERRRWLDSYMQKLLLLDAP,33,-,-,-,-,-
+1442,TIP39-(9-39) (human/bovine),AFRERARLLAALERRHWLNSYMHKLLVLDAP,31,-,-,-,-,-
+1443,T-kinin,ISRPPGFSPFR,11,-,-,-,-,-
+1444,TLQP-21,XLQPPASSRRRHFHHALPPAR,21,-,-,-,-,-
+1445,tolyacetyl-c[DCys-Apa-DTrp-Orn-Val-Cys]-His-amide,CXWXVCH,7,-,-,-,-,-
+1446,TIP39,SLALADDAAFRERARLLAALERRHWLNSYMHKLLVLDAP,39,-,-,-,-,-
+1447,tirzepatide,YXEGTFTSDYSIXLDKIAQKAFVQWLIAGGPSSGAPPPS,39,-,-,-,-,-
+1448,teriparatide,SVSEIQLMHNLGKHLNSMERVEWLRKKLQDVHNF,34,-,-,-,-,-
+1449,Trp<sup>11</sup>-neurotensin,XLYENKPRRPWIL,13,-,-,-,-,-
+1450,[Trp<sup>23</sup>]PTHrP-(1-36) (human),AVSEHQLLHDKGKSIQDLRRRFWLHHLIAEIHTAEI,36,-,-,-,-,-
+1451,"[Trp<sup>23</sup>,Tyr<sup>36</sup>]PTHrP-(1-36)-NH<sub>2</sub> (human)",AVSEHQLLHDKGKSIQDLRRRFWLHHLIAEIHTAEY,36,-,-,-,-,-
+1452,"[Trp<sup>7</sup>, &beta;-Ala<sup>8</sup>] neurokinin A-(4-10)",DSFWALM,7,-,-,-,-,-
+1453,[Trp<sup>8</sup>]GnRH,XHWSYGLWPG,10,-,-,-,-,-
+1454,TRV023,GRVYKHPA,8,-,-,-,-,-
+1455,TRV026,GRVYKHP,7,-,-,-,-,-
+1456,TSH,,,-,-,-,-,-
+1457,[Tyr<sup>34</sup>]GLP-2 (human),HADGSFSDEMNTILDNLAARDFINWLIQTKITDY,34,-,-,-,-,-
+1458,[Tyr<sup>34</sup>]PTH-(1-34) (human),SVSEIQLMHNLGKHLNSMERVEWLRKKLQDVHNY,34,-,-,-,-,-
+1459,[Tyr<sup>34</sup>]PTH-(1-34)-NH<sub>2</sub> (human),SVSEIQLMHNLGKHLNSMERVEWLRKKLQDVHNY,34,-,-,-,-,-
+1460,[Tyr<sup>34</sup>]PTH-(3-34)-NH<sub>2</sub> (human),SEIQLMHNLGKHLNSMERVEWLRKKLQDVHNY,32,-,-,-,-,-
+1461,[Tyr<sup>36</sup>]-PTHrP-(1-36) amide (human),AVSEHQLLHDKGKSIQDLRRRFFLHHLIAEIHTAEY,36,-,-,-,-,-
+1462,Tyr<sup>3</sup>-octreotide,FCYWKTCT,8,-,-,-,-,-
+1463,[Tyr<sup>8</sup>]bradykinin,RPPGFSPYR,9,-,-,-,-,-
+1464,[Tyr<sup>8</sup>]GnRH,XHWSYGLYPG,10,-,-,-,-,-
+1465,TRH,XHP,3,-,-,-,-,-
+1466,triptorelin,XHWSYWLRPG,10,-,-,-,-,-
+1467,UFP-102,FGGFTGARKSARKRKNQ,17,-,-,-,-,-
+1468,U-II-(4-11) (human),DCFWKYCV,8,-,-,-,-,-
+1469,uPar fragment,GRPCLPWNSATVLQQTYHAHRSDALQLGLGKHNYCRNPDNRRRPWCYVQVGLKPLVQECMVHDCADGKKPSSPPEELKFQCGQKTLRPRFKIIGGEFTTIENQPWFAAIYRRHRGGSVTYVCGGSLISPCWVISATHCFIDYPKKEDYIVYLGRSRLNSNTQGEMKFEVENLILHKDYSADTLAHHN,187,-,-,-,-,-
+1470,urantide,DXFWXYCV,8,-,-,-,-,-
+1471,urocortin 1,DNPSLSIDLTFHLLRTLLELARTQSQRERAEQNRIIFDSV,40,-,-,-,-,-
+1472,urocortin 1,DDPPLSIDLTFHLLRTLLELARTQSQRERAEQNRIIFDSV,40,-,-,-,-,-
+1473,urocortin 2,VILSLDVPIGLLRILLEQARYKAARNQAATNAQILAHV,38,-,-,-,-,-
+1474,urocortin 2,VILSLDVPIGLLRILLEQARNKAARNQAATNAQILARV,38,-,-,-,-,-
+1475,urocortin 3,FTLSLDVPTNIMNILFNIDKAKNLRAKAAANAQLMAQI,38,-,-,-,-,-
+1476,urocortin 3,FTLSLDVPTNIMNLLFNIAKAKNLRAQAAANAHLMAQI,38,-,-,-,-,-
+1477,Urolinin,,,-,-,-,-,-
+1478,urotensin 1 (fish),NDDPPISIDLTFHLLRNMIEMARIENEREQAGLNRKYLDEV,41,-,-,-,-,-
+1479,UFP-101,GGGFTGARKSARKRKNQ,17,-,-,-,-,-
+1480,UFP-112,FGGFTGXRKSARKRKNQ,17,-,-,-,-,-
+1481,urotensin II-related peptide,ACFWKYCV,8,-,-,-,-,-
+1482,V3 peptide,TRPNYNKRKRIHIGPGRAFYTTKNIIGTIRQAH,33,-,-,-,-,-
+1483,[Val<sup>4</sup>]AVP,CYFVNCPRG,9,-,-,-,-,-
+1484,variant MCH,DFDTLSCMLGRVYQSCWQV,19,-,-,-,-,-
+1485,vCCL4,,,-,-,-,-,-
+1486,vCXCL1,TELRCCRLHRKWPPNKIILGNYWLHRDPRGPGCDKNEHLLYPDGRKPPGPGVCLSPDHLFSKWLDKHNDNRWYNVNITKSPGPRRINITLIGVRG,95,-,-,-,-,-
+1487,veldoreotide,XFWWKTFG,8,-,-,-,-,-
+1488,vapreotide,FCYWKVCW,8,-,-,-,-,-
+1489,vMCC-I,,,-,-,-,-,-
+1490,vMIP-I,,,-,-,-,-,-
+1491,vMIP-III,GATAAGCTGATATGCGGGTGGTACTGGACGTCCACCGTGTATTGTCGCCAGAAGGCAGTCATTTT,65,-,-,-,-,-
+1492,vasopressin,CYFQNCPRG,9,-,-,-,-,-
+1493,wFw-Isn-NH<sub>2</sub>,WFW,3,-,-,-,-,-
+1494,WKYMVm,WKYMVM,6,-,-,-,-,-
+1495,Wnt-1,ANSSGRWWGIVNVASSTNLLTDSKSLQLVLEPSLQLLSRKQRRLIRQNPGILHSVSGGLQSAVRECKWQFRNRRWNCPTAPGPHLFGKIVNRGCRETAFIFAITSAGVTHSVARSCSEGSIESCTCDYRRRGPGGPDWHWGGCSDNIDFGRLFGREFVDSGEKGRDLRFLMNLHNNEAGRTTVFSEMRQECKCHGMSGSCTVRTCWMRLPTLRAVGDVLRDRFDGASRVLYGNRGSNRASRAELLRLEPEDPAHKPPSPHDLVYFEKSPNFCTYSGRLGTAGTAGRACNSSSPALDGCELLCCGRGHRTRTQRVTERCNCTFHWCCHVSCRNCTHTRVLHECL,343,-,-,-,-,-
+1496,Wnt-2,SWWYMRATGGSSRVMCDNVPGLVSSQRQLCHRHPDVMRAISQGVAEWTAECQHQFRQHRWNCNTLDRDHSLFGRVLLRSSRESAFVYAISSAGVVFAITRACSQGEVKSCSCDPKKMGSAKDSKGIFDWGGCSDNIDYGIKFARAFVDAKERKGKDARALMNLHNNRAGRKAVKRFLKQECKCHGVSGSCTLRTCWLAMADFRKTGDYLWRKYNGAIQVVMNQDGTGFTVANERFKKPTKNDLVYFENSPDYCIRDREAGSLGTAGRVCNLTSRGMDSCEVMCCGRGYDTSHVTRMTKCGCKFHWCCAVRCQDCLEALDVHTCKAPKNADWTTAT,335,-,-,-,-,-
+1497,Wnt-3a,SYPIWWSLAVGPQYSSLGSQPILCASIPGLVPKQLRFCRNYVEIMPSVAEGIKIGIQECQHQFRGRRWNCTTVHDSLAIFGPVLDKATRESAFVHAIASAGVAFAVTRSCAEGTAAICGCSSRHQGSPGKGWKWGGCSEDIEFGGMVSREFADARENRPDARSAMNRHNNEAGRQAIASHMHLKCKCHGLSGSCEVKTCWWSQPDFRAIGDFLKDKYDSASEMVVEKHRESRGWVETLRPRYTYFKVPTERDLVYYEASPNFCEPNPETGSFGTRDRTCNVSSHGIDGCDLLCCGRGHNARAERRREKCRCVFHWCCYVSCQECTRVYDVHTCK,334,-,-,-,-,-
+1498,Wnt-4,SNWLYLAKLSSVGSISEEETCEKLKGLIQRQVQMCKRNLEVMDSVRRGAQLAIEECQYQFRNRRWNCSTLDSLPVFGKVVTQGTREAAFVYAISSAGVAFAVTRACSSGELEKCGCDRTVHGVSPQGFQWSGCSDNIAYGVAFSQSFVDVRERSKGASSSRALMNLHNNEAGRKAILTHMRVECKCHGVSGSCEVKTCWRAVPPFRQVGHALKEKFDGATEVEPRRVGSSRALVPRNAQFKPHTDEDLVYLEPSPDFCEQDMRSGVLGTRGRTCNKTSKAIDGCELLCCGRGFHTAQVELAERCSCKFHWCCFVKCRQCQRLVELHTCR,329,-,-,-,-,-
+1499,Wnt-5a,IIGAQPLCSQLAGLSQGQKKLCHLYQDHMQYIGEGAKTGIKECQYQFRHRRWNCSTVDNTSVFGRVMQIGSRETAFTYAVSAAGVVNAMSRACREGELSTCGCSRAARPKDLPRDWLWGGCGDNIDYGYRFAKEFVDARERERIHAKGSYESARILMNLHNNEAGRRTVYNLADVACKCHGVSGSCSLKTCWLQLADFRKVGDALKEKYDSAAAMRLNSRGKLVQVNSRFNSPTTQDLVYIDPSPDYCVRNESTGSLGTQGRLCNKTSEGMDGCELMCCGRGYDQFKTVQTERCHCKFHWCCYVKCKKCTEIVDQFVCK,319,-,-,-,-,-
+1500,Wnt-7b,ALSSVVALGANIICNKIPGLAPRQRAICQSRPDAIIVIGEGAQMGINECQYQFRFGRWNCSALGEKTVFGQELRVGSREAAFTYAITAAGVAHAVTAACSQGNLSNCGCDREKQGYYNQAEGWKWGGCSADVRYGIDFSRRFVDAREIKKNARRLMNLHNNEAGRKVLEDRMQLECKCHGVSGSCTTKTCWTTLPKFREVGHLLKEKYNAAVQVEVVRASRLRQPTFLRIKQLRSYQKPMETDLVYIEKSPNYCEEDAATGSVGTQGRLCNRTSPGADGCDTMCCGRGYNTHQYTKVWQCNCKFHWCCFVKCNTCSERTEVFTCK,325,-,-,-,-,-
+1501,WRWWWW,WRWWWW,6,-,-,-,-,-
+1502,E7,WWGKKYRASKLGLAR,15,-,-,-,-,-
+1503,X4-HIV-1 gp120,,,-,-,-,-,-
+1504,XCL1,VGTEVLEESSCVNLQTQRLPVQKIKTYIIWEGAMRAVIFVTKRGLKICADPEAKWVKAAIKTVDGRASTRKNMAETVPTGAQRSTSTAITLTG,93,-,-,-,-,-
+1505,XCL1,VGSEVSDKRTCVSLTTQRLPVSRIKTYTITEGSLRAVIFITKRGLKVCADPQATWVRDVVRSMDRKSNTRNNMIQTKPTGTQQSTNTAVTLTG,93,-,-,-,-,-
+1506,XCL1,VGTEVLQESICVSLRTQRLPVQKIKTYTIKEGAMRAVIFVTKRGLRICADPQAKWVKTAIKTVDGRASASKSKAETIPTQAQRSASTAVTLTG,93,-,-,-,-,-
+1507,XCL2,MRLLILALLGICSLTAYIVEGVGSEVSHRRTCVSLTTQRLPVSRIKTYTITEGSLRAVIFITKRGLKVCADPQATWVRDVVRSMDRKSNTRNNMIQTKPTGTQQSTNTAVTLTG,114,-,-,-,-,-
+1508,xenin,MLTKFETKSARVKGLSFHPKRPWIL,25,-,-,-,-,-
+1509,Y-KE88,XRFFWKTF,8,-,-,-,-,-
+1510,zyklophin,,,-,-,-,-,-
+1511,EMH4-108,Ac-His-DPhe-Arg-(pI)Phe-NH2,27,-,-,-,-,-
+1512,EMH4-109,Ac-His-DPhe-Arg-(pNO2)Phe-NH2,29,-,-,-,-,-
+1513,Urocortin,NPSLSIDLTFHLLRTLLELARTQSQRERAEQNRIIFDSV,39,-,-,-,-,-
+1514,EMH4-110,Ac-His-DPhe-Arg-Nal(1')-NH2,27,-,-,-,-,-
+1515,CMPD4,Ac-His-(pI)DPhe-Tic-(pNO2)DPhe-NH2,34,-,-,-,-,-
+1516,CMPD5,Ac-His-(pI)DPhe-Arg-(pI)Phe-NH2,31,-,-,-,-,-
+1517,CMPD6,Ac-Arg-(pI)DPhe-Tic-(pNO2)DPhe-NH2,34,-,-,-,-,-
+1518,CMPD7,Ac-Arg-(pI)DPhe-Arg-(pI)Phe-NH2,31,-,-,-,-,-
+1519,CMPD8,Ac-His-(pCl)DPhe-Tic-(pNO2)DPhe-NH2,35,-,-,-,-,-
+1520,CMPD9,Ac-His-(pCl)DPhe-Arg-(pI)Phe-NH2,32,-,-,-,-,-
+1521,CMPD10,Ac-Arg-(pCl)DPhe-Tic-(pNO2)DPhe-NH2,35,-,-,-,-,-
+1522,CMPD11,Ac-Arg-(pCl)DPhe-Arg-(pI)Phe-NH2,32,-,-,-,-,-
+1523,"sauvagine-[Tyr0,Gln1, Leu17]",YSEQPPISLDLTFHLLRLVLEMARAEQLAQQAHSNRKLMEII,42,-,-,-,-,-
+1524,glucagon-(Ser8Ala),HAQGTFTSDYSKYLDSRRAQDFVQWLMNT,29,-,-,-,-,-
+1525,Glu3-glucagon,HSEGTFTSDYSKYLDSRRAQDFVQWLMNT,29,-,-,-,-,-
+1526,glucagon-(Lys19Ser),HSQGTFTSDYSSYLDSRRAQDFVQWLMNT,29,-,-,-,-,-
+1527,VIP-[His1Ala] ,ASDAVFTDNYTRLRKQMAVKKYLNSILN,28,-,-,-,-,-
+1528,VIP-[His1Phe] ,FSDAVFTDNYTRLRKQMAVKKYLNSILN,28,-,-,-,-,-
+1529,VIP-[Phe6Cys] ,HSDAVCTDNYTRLRKQMAVKKYLNSILN,28,-,-,-,-,-
+1530,VIP-[Phe6His] ,HSDAVHTDNYTRLRKQMAVKKYLNSILN,28,-,-,-,-,-
+1531,VIP-[Phe6Tyr] ,HSDAVYTDNYTRLRKQMAVKKYLNSILN,28,-,-,-,-,-
+1532,exendin(15-39),DVSSYLEGQAAKEFIAWLVKGR,22,-,-,-,-,-
+1533,Chimer 2,HSQGTFTSDYSKYLDEEAAKEFIAWLMNT,29,-,-,-,-,-
+1534,Chimer 2X,HSQGTFTSDYSKYLDEEAVRLFIEWLMNT,29,-,-,-,-,-
+1535,exendin-4(1-30)(Gly2Ala),HAEGTFTSDLSKQMEEEAVRLFIEWLKNGG,30,-,-,-,-,-
+1536,GLP-1-(Ala8Gly),HGEGTFTSDVSSYLEGQAAKEFIAWLVKGR,30,-,-,-,-,-
+1537,GLP-1-(Ala8Gly/Gly16Glu/Glu21Leu/Ala24Glu),HGEGTFTSDVSSYLEEQAAKLFIEWLVKGR,30,-,-,-,-,-
+1538,GLP-1-(Gly16Glu/Glu21Leu/Ala24Glu),HAEGTFTSDVSSYLEEQAAKLFIEWLVKGR,30,-,-,-,-,-
+1539,glucagon-(Ser22Glu/Gln26Lys),HSQGTFTSDYSKYLDERRAEDFVKWLMNT,29,-,-,-,-,-
+1540,adrenomedullin,,,-,-,-,-,-
+1541,GLP-1-(Asp15Arg),HAEGTFTSKVSSYLRGQAAKEFIAWLVKGR,30,-,-,-,-,-
+1542,GLP-1-(Asp15Glu),HAEGTFTSEVSSYLEGQAAKEFIAWLVKGR,30,-,-,-,-,-
+1543,GLP-1-(Asp15Lys),HAEGTFTSKVSSYLEGQAAKEFIAWLVKGR,30,-,-,-,-,-
+1544,GLP-1-(Gly10Asp),HAEDTFTSDVSSYLEGQAAKEFIAWLVKGR,30,-,-,-,-,-
+1545,GLP-1-(Gly10Arg),HAEETFTSDVSSYLEGQAAKEFIAWLVKGR,30,-,-,-,-,-
+1546,GLP-1-(Gly10His),HAEHTFTSDVSSYLEGQAAKEFIAWLVKGR,30,-,-,-,-,-
+1547,GLP-1-(Gly10Lys),HAEKTFTSDVSSYLEGQAAKEFIAWLVKGR,30,-,-,-,-,-
+1548,GLP-1-(Ala8Ser),HSEGTFTSDVSSYLEGQAAKEFIAWLVKGR,30,-,-,-,-,-
+1549,HIS-LYS-THR-ASP-SER-PHE-VAL-GLY-LEU-MET-NH2,HKTDSFVGLMA,11,-,-,-,-,-
+1550,Octreotide,XCFXKTCX,8,-,-,-,-,-
+1551,San385,KCNTATCATQRLANFLVHKSNNFGPILPPTNVGSNTYXXXXXXXX,45,-,-,-,-,-
+1552,ACE-TYR-ALA-DTY-THR-THR-CYS-THR-DPN-XT9,XYAXTTCTX,9,-,-,-,-,-
+1553,angiotensin II,DRVYIHPF,8,-,-,-,-,-
+1554,dAVP,XYFQNCPRG,9,-,-,-,-,-
+1555,DSLET,YSGFLT,6,-,-,-,-,-
+1556,neuropeptide S,SFRNGVGSGAKKTSFRRAKQ,20,-,-,-,-,-
+1557,"[Leu<sup>9</sup>,des-Arg<sup>10</sup>]kallidin",KRPPGFSPL,9,-,-,-,-,-
+1558,gastrin-releasing peptide,VPLPAGGGTVLTKMYPRGNHWAVGHLM,27,-,-,-,-,-
+1559,urocortin 2,IVLSLDVPIGLLQILLEQARARAAREQATTNARILARV,38,-,-,-,-,-
+1560,orexin-B,RPGPPGLQGRLQRLLQANGNHAAGILTM,28,-,-,-,-,-
+1561,corticotropin zinc hydroxide,SEEPPISLDLTFHLLREVLEMARAEQLAQQAHSNRKLMEII,41,-,-,-,-,-
+1562,GHRH-(1-29)-NH<sub>2</sub> (human),YADAIFTNSYRKVLGQLSARKLLQDIMSR,29,-,-,-,-,-
+1563,[D-Val<sup>5</sup>]NPS,SFRNVVGTGMKKTSFQRAKS,20,-,-,-,-,-
+1564,[D-Cys(<sup><i>t</sup></i>Bu)<sup>5</sup>]NPS,SFRNCVGTGMKKTSFQRAKS,20,-,-,-,-,-
+1565,octreotide,FCFWKTCT,8,-,-,-,-,-
+1566,carbetocin,,,-,-,-,-,-
+1567,[Arg<sup>14</sup>Lys<sup>15</sup>]N/OFQ,FGGFTGARKSARKRKNQ,17,-,-,-,-,-
+1568,JRH887-9,Ac-His-Dphe-Arg-Trp-NH2,23,-,-,-,-,-
+1569,EMH4-91,Ac-Arg-Dphe-Arg-Trp-NH2,23,-,-,-,-,-
+1570,EMH4-92,Ac-Trp-Dphe-Arg-Trp-NH2,23,-,-,-,-,-
+1571,EMH4-93,Ac-Tyr-DPhe-Arg-Trp-NH2,23,-,-,-,-,-
+1572,EMH4-94,Ac-DArg-DPhe-Arg-Trp-NH2,24,-,-,-,-,-
+1573,EMH4-95,Ac-His-Arg-Arg-Trp-NH2,22,-,-,-,-,-
+1574,EMH4-96,Ac-His-DPhe-Lys-Trp-NH2,23,-,-,-,-,-
+1575,EMH4-97,Ac-His-DPhe-Arg-(pCl)Phe-NH2,28,-,-,-,-,-
+1576,EMH4-98,Ac-His-DPhe-Arg-(pCl)DPhe-NH2,29,-,-,-,-,-
+1577,EMH4-99,Ac-Tic-DPhe-Arg-Trp-NH2,23,-,-,-,-,-
+1578,EMH4-100,Ac-DTic-DPhe-Arg-Trp-NH2,24,-,-,-,-,-
+1579,EMH4-101,Ac-(pCl)DPhe-DPhe-Arg-Trp-NH2,29,-,-,-,-,-
+1580,EMH4-102,Ac-(pI)DPhe-DPhe-Arg-Trp-NH2,28,-,-,-,-,-
+1581,EMH4-103,Ac-(3I)Tyr-DPhe-Arg-Trp-NH2,27,-,-,-,-,-
+1582,EMH4-104,Ac-His(pCl)DPhe-Arg-Trp-NH2,27,-,-,-,-,-
+1583,EMH4-105,Ac-His-(pI)DPhe-Arg-Trp-NH2,27,-,-,-,-,-
+1584,EMH4-106,Ac-His-DPhe-Tic-Trp-NH2,23,-,-,-,-,-
+1585,EMH4-107,Ac-His-DPhe-Arg-Tic-NH2,23,-,-,-,-,-
+1586,GLP-1(Glu9Gln),HAQGTFTSDVSSYLEGQAAKEFIAWLVKGR,30,-,-,-,-,-
+1587,CCL4,,,-,-,-,-,-
+1588,porcine thyrotropin,,,-,-,-,-,-
+1589,bovine thyrotropin,,,-,-,-,-,-
+1590,VIP(1-7)[Asp3Asn]/GRF(8-27)-amide,HSNAVFTNSYRKVLKRLSARKLLQDIL,27,-,-,-,-,-
+1591,secretin-[Asp3Asn],HSNGTFTSELSRLREGARLQRLLQGLV,27,-,-,-,-,-
+1592,secretin-[Asp3Gln],HSQGTFTSELSRLREGARLQRLLQGLV,27,-,-,-,-,-
+1593,VIP,HSDAVFTDNYTRLRKQMAVKKYLNSILN,28,-,-,-,-,-
+1594,secretin-[2-27],SDGTFTSELSRLREGARLQRLLQGLV,26,-,-,-,-,-
+1595,secretin-[Asp3Glu],HSEGTFTSELSRLREGARLQRLLQGLV,27,-,-,-,-,-
+1596,PG 97-269-[Asp3Asn],HFNAVFTNSYRKVLKRLSARKLLQDIL,27,-,-,-,-,-
+1597,VIP-[Asp3Asn] ,HSNAVFTDNYTRLRKQMAVKKYLNSILN,28,-,-,-,-,-
+1598,VIP-[Asp3Gln] ,HSQAVFTDNYTRLRKQMAVKKYLNSILN,28,-,-,-,-,-
+1599,VIP-[Asp3Glu] ,HSEAVFTDNYTRLRKQMAVKKYLNSILN,28,-,-,-,-,-
+1600,Asn3-glucagon,HSNGTFTSDYSKYLDSRRAQDFVQWLMNT,29,-,-,-,-,-
+1601,Asp3-glucagon,HSDGTFTSDYSKYLDSRRAQDFVQWLMNT,29,-,-,-,-,-
+1602,Asp3/Glu9-glucagon,HSDGTFTSEYSKYLDSRRAQDFVQWLMNT,29,-,-,-,-,-
+1603,Glu9-glucagon,HSQGTFTSEYSKYLDSRRAQDFVQWLMNT,29,-,-,-,-,-
+1604,Lys15-glucagon,HSQGTFTSDYSKYLKSRRAQDFVQWLMNT,29,-,-,-,-,-
+1605,Lys21-glucagon,HSQGTFTSDYSKYLDSRRAQKFVQWLMNT,29,-,-,-,-,-
+1606,VIP-[Thr16Arg] ,HSDAVFTDNYTRLRKRMAVKKYLNSILN,28,-,-,-,-,-
+1607,VIP-[Thr11Arg] ,HSDAVFTDNYRRLRKQMAVKKYLNSILN,28,-,-,-,-,-
+1608,VIP-[Thr11Val] ,HSDAVFTDNYVRLRKQMAVKKYLNSILN,28,-,-,-,-,-
+1609,[I125]PTHrP[5-36],IQLLHDKGKSIQDLRRRFFLHHLIAEIHTAEY,32,-,-,-,-,-
+1610,exendin-4(1-30),HGEGTFTSDLSKQMEEEAVRLFIEWLKNGG,30,-,-,-,-,-
+1611,exendin-4(9-30),DLSKQMEEEAVRLFIEWLKNGG,22,-,-,-,-,-
+1612,glucagon-like peptide 1-(1-30),HDEFERHAEGTFTSDVSSYLEGQAAKEFIA,30,-,-,-,-,-
+1613,glucagon-like peptide 1-(9-30),EGTFTSDVSSYLEGQAAKEFIA,22,-,-,-,-,-
+1614,calcitonin gene-related peptide 1,,,-,-,-,-,-
+1615,glucagon-(Ser22Glu),HSQGTFTSDYSKYLDERRAQDFVQWLMNT,29,-,-,-,-,-
+1616,glucagon-like peptide 1-(7-35),HAEGTFTSDVSSYLEGQAAKEFIAWLVKR,29,-,-,-,-,-
+1617,glucagon-like peptide 1-(Arg36Gly),HAEGTFTSDVSSYLEGQAAKEFIAWLVKGG,30,-,-,-,-,-
+1618,glucagon-like peptide 1-(Gln22Glu)-(7-35),HAEGTFTSDVSSYLEEQAAKEFIAWLVKR,29,-,-,-,-,-
+1619,glucagon-(Ser26Lys),HSQGTFTSDYSKYLDSRRAKDFVQWLMNT,29,-,-,-,-,-
+1620,NRTFD,NRTFD,5,-,-,-,-,-
+1621,DIPP-NH2,XXFFXX,6,-,-,-,-,-
+1622,CVX15,RRXCYQKXPYRXCRGXXXX,19,-,-,-,-,-
+1623,JMV431,RRPYIL,6,-,-,-,-,-
+1624,Glucagon model,,,-,-,-,-,-
+1625,Stromal cell-derived factor 1,KPVSLSYRCPCRFFESHVARANVKHLKILNTPNCALQIVARLKNNNRQVCIDPKLKWIQEYLE,63,-,-,-,-,-
+1626,Somatoliberin,YADAIFTNSYRKVLGQLSARKLLQDIMSX,29,-,-,-,-,-
+1627,Peptide-19,YXEGTFTSDYSIYLDKQAAXEFVNWLLAGG,30,-,-,-,-,-
+1628,PAMP-12,FRKKW,5,-,-,-,-,-
+1629,Glucagon derivative ZP3780,HSQGTFTSDYSKYLDSRRAEDFVKWLEST,29,-,-,-,-,-
+1630,galanin,GWTLNSAGYLLGPHAVGNHRSFSDKNGLTS,30,-,-,-,-,-
+1631,ALA-SER-LYS-LEU-GLY-LEU-ALA-ARG,ASKLGLAR,8,-,-,-,-,-
+1632,PG-901,XXDPXRWKX,9,-,-,-,-,-
+1633,SAR425899,HSQGTFTSDLSKQKESKAAQDFIEWLKAGX,30,-,-,-,-,-
+1634,Peptide-20,HXQGTFTSDKSKYLDERAAQDFVQWLLDGGX,31,-,-,-,-,-
+1635,Parathyroid hormone,SVSEI,5,-,-,-,-,-
+1636,TRH,XHX,3,-,-,-,-,-
+1637,Glycoprotein alpha,QDCPECTLQENPLFSQPGAPILQCMGCCFSRAYPTPLRSKKTMLVQKNVTSESTCCVAKSYNRVTVMGGFKVENHTACHCSTCYYHKSX,89,-,-,-,-,-
+1638,Follitropin subunit beta,NSCELTNITIAIEKEECRFCISINTTWCAGYCYTRDLVYKDPARPKIQKTCTFKELVYETVRVPGCAHHADSLYTYPVATQCHCGKCDSDSTDCTVRGLGPSYCSFGEMXX,111,-,-,-,-,-
+1639,CX<sub>3</sub>CL1,QHHGVTKCNITCSKMTSKIPVALLIHYQQNQASCGKRAIILETRQHRLFCADPKEQWVKDAMQHLDRQAAALTRNGGTFEKQIGEVKPRTTPAAGGMDESVVLEPEATGESSSLEPTPSSQEAQRALGTSPELPTGVTGSSGTRLPPTPKAQDGGPVGTELFRVPPVSTAATWQSSAPHQPGPSLWAEAKTSEAPSTQDPSTQASTASSPAPEENAPSEGQRVWGQGQSPRPENSLEREEMGPVPAHTDAFQDWGPGSMAHVSVVPVSSEGTPSREPVASGSWTPKAEEPIHATMDPQRLGVLITPVPDAQAATRRQAVGLLAFLGLLFCLGVAMFTYQSLQGCPRKMAGEMAEGLRYIPRSCGSNSYVLVPV,373,-,-,-,-,-
+1640,synthetic peptide ,QKFTSWFX,8,-,-,-,-,-
+1641,C5a,XKPXXX,6,-,-,-,-,-
+1642,BM213,XFKPLAAXR,9,-,-,-,-,-
+1643,Parathyroid hormone,SVSEIQLMHNLGKHLNSMERVEWLRKKLQDVHXX,34,-,-,-,-,-
+1644,NN9056,DXXGWXXXX,9,-,-,-,-,-
+1645,Amyloid beta-Peptide (1-42),DAEFRHDSGYGGVVIA,16,-,-,-,-,-
+1646,SAR425899,HQGTFTSDLSKQKESKAAQDFIEWLKAGX,29,-,-,-,-,-
+1647,Long-acting parathyroid hormone analog,AVAEIQLMHQRAKWIQDARRRAFLHKLIAE,30,-,-,-,-,-
+1648,bremelanotide,XDHXRWK,7,-,-,-,-,-
+1649,Insulin-like peptide INSL5 A chain,DLQTLCCTDGCSMTDLSALC,20,-,-,-,-,-
+1650,Insulin-like peptide INSL5 B chain,RLCGLEYIRTVIYICASSRW,20,-,-,-,-,-
+1651,Long-acting parathyroid hormone analog,AVAEIQLMHQRAKWIQDARRRAFLHKLIAEIH,32,-,-,-,-,-
+1652,Peptide Agonist fMLF,XLF,3,-,-,-,-,-
+1653,Stromal cell-derived factor 1,YRCPCRFFESHVARANVKHLKILNTPNCALQIVARLKNNNRQVCIDPKLKWIQEYLEKALNK,62,-,-,-,-,-
+1654,Pramlintide analogue San45,KCNTATCATQRLANFLVHSSKNFGPILPPTNVGSNTYXXXXXXXXXXXX,49,-,-,-,-,-
+1655,Cortistatin 14,KNFFWK,6,-,-,-,-,-
+1656,Ghrelin-27,GSXFLSPEHQRV,12,-,-,-,-,-
+1657,Pramlintide analogue San385,KCNTATCATQRLANFLVHKSNNFGPILPPTNVGSNTYX,38,-,-,-,-,-
+1658,Exendin-P5,ELVDNAVGGDLSKQMEEEAVRLFIEWLKNGGPS,33,-,-,-,-,-
+1659,Parathyroid hormone,SVSEIQLMHNLGKHLNSMERVEWLRKKLQDVH,32,-,-,-,-,-
+1660,Proenkephalin-A,PEWWMDYQKRY,11,-,-,-,-,-
+1661,FME-LEU-PHE,XLF,3,-,-,-,-,-
+1662,Pancreatic polypeptide,APLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRX,36,-,-,-,-,-
+1663,AMG3054,KFRRQRPXXEHKKXXPX,17,-,-,-,-,-
+1664,SAR1-AngII,XRVYIHPF,8,-,-,-,-,-
+1665,M-PTH(1-14),XVXEIQLMHQXAKW,14,-,-,-,-,-
+1666,Pramlintide analogue San45,KCNTATCATQRLANFLVHSSKNFGPILPPTNVGSNTYXXXXXXXXXX,47,-,-,-,-,-
+1667,TRV023,XRVYKHPA,8,-,-,-,-,-
+1668,Taspoglutide,HXEGTFTSDVSSYLEGQAAKEFIAWLVKXRXX,32,-,-,-,-,-
+1669,Neuromedin-S,FFLFRPRNQ,9,-,-,-,-,-
+1670,Octreotide,XCFXKTC,7,-,-,-,-,-
+1671,Dual-agonist peptide P15,HSQGTFTSDYSKYLDEQAAKEFIAWLMNT,29,-,-,-,-,-
+1672,DIPP-NH2,XXFFX,5,-,-,-,-,-
+1673,Pro-glucagon,HSQGTFTSDYSKYLDSRRAQDFVQWL,26,-,-,-,-,-
+1674,Calcitonin human,CGNLSTCMLGTYTQDFNKFHTFPQTAIGVGAPX,33,-,-,-,-,-
+1675,Octreotide,XCFXKTCT,8,-,-,-,-,-
+1676,Bombesin,XQWAVXHFX,9,-,-,-,-,-
+1677,Adrenomedullin,FGCRFGTCTVQKLAHQIYQFTDKDKDNVAPRSKISPQGY,39,-,-,-,-,-
+1678,vMIP-II,LGASWHRPDKCCLGYQKRPLPQVLLSSWYPTSQLCSKPGVIFLTKRGRQVCADKSKDWVKKLMQQLPVTA,70,-,-,-,-,-
+1679,amylin peptide,KCNTATCATQRLANFLVRSSNNLGPVLPPTNVGSNTYXXXXXXX,44,-,-,-,-,-
+1680,synthetic peptide ,XLFII,5,-,-,-,-,-
+1681,Peptide 20,HXQGTFTSDKSKYLDERAAQDFVQWLLDGX,30,-,-,-,-,-
+1682,Peptide YY,IKPEALNRYYASLRHYLNLVTRQRXX,26,-,-,-,-,-
+1683,C5a anaphylatoxin,TLQKKIEEIAAKYKHSVVKKCCYDGARVNNDETCEQRAARISLGPRCIKAFTECCVVASQLRANISHKDMQLGR,74,-,-,-,-,-
+1684,MEDI0382,HSQGTFTSDKSEYLDSERARDFVAWLEAGX,30,-,-,-,-,-
+1685,Orexin-A,NHAAGILTMX,10,-,-,-,-,-
+1686,Ghrelin,GSXFLSPEHQRVQQRK,16,-,-,-,-,-
+1687,CCL15(26-92),FHFAADCCTSYISQSIPCSLMKSYFETSSECSKPGVIFLTKKGRQVCAKPSGPGVQDCMKKLKPY,65,-,-,-,-,-
+1688,CX3CL1,XHHGVTKCNITCSKMTSKIPVALLIHYQQNQASCCKRAIILETRQHRLFCEQWVKDAMQHLD,62,-,-,-,-,-
+1689,Peptide agonist fMet-Ile-Phe-Leu,XIFL,4,-,-,-,-,-
+1690,EP54 ligand,SFKPMPLXR,9,-,-,-,-,-
+1691,C3a anaphylatoxin,SVQLTEKRMDKVGKYPKELRKCCEDGMRENPMRFSCQRRTRFIACKKVFLDCCNYITELRRQHARASHLGLAR,73,-,-,-,-,-
+1692,glucagon,HSQGTFTSDYSKYLDSRRAQDFVQWLMNT,29,-,-,-,-,-
+1693,Calcitonin gene-related peptide 1,ACDTATCVTHRLAGLLSRSGGVVFVPTNVGSKAFX,35,-,-,-,-,-
+1694,Somatoliberin,YADAIFTNSYRKVLGQLSA,19,-,-,-,-,-
+1695,FME-TYR-PHE-ILE-ASN-ILE-LEU-THE-LEU,XYFINIL,7,-,-,-,-,-
+1696,CYN 154806,XXXYXKTCXX,10,-,-,-,-,-
+1697,Amylin rat,KCNTATCATQRLANFLVRSSNNLGPVLPPTNVGSNTYX,38,-,-,-,-,-
+1698,"Galanin, Human",GWTLNSAGYLLGPHAV,16,-,-,-,-,-
+1699,Proenkephalin-A,GRPEWWMDYQKRY,13,-,-,-,-,-
+1700,Early activation antigen CD69,PVLCAVMNVVFITILIIALIALSVG,25,-,-,-,-,-
+1701,PTHrP[1-36],AVSEHQLLHDKGKSIQDLRRRFFLHHLIAEIHX,33,-,-,-,-,-
+1702,Gastrin-releasing peptide,PRGNHWAVGHLMX,13,-,-,-,-,-
+1703,Corticoliberin,EEPPISLDLTFHLLREVLEMARAEQLAQQAHSNXXX,36,-,-,-,-,-
+1704,Neuromedin-S,GRPFFLFRPRNQ,12,-,-,-,-,-
+1705,Stromal cell-derived factor 1,LRHQSLSYRCPCRFFESKHLKILNTPNCALQIVARLKNNNRQVCIDPKLKWIQEYLEKA,59,-,-,-,-,-
+1706,chemerin C-terminal peptide,YFPGQFAFS,9,-,-,-,-,-
+1707,amylin peptide,KCNTATCATQRLANFLVRSSNNLGPVLPPTNVGSNTYXXXXXXXX,45,-,-,-,-,-
+1708,NMB30,NLWATGHFMG,10,-,-,-,-,-
+1709,EP141 peptide agonist,YRASKLGLAR,10,-,-,-,-,-
+1710,Truncated protein agonist,XXGTXTSDXX,10,-,-,-,-,-
+1711,Long-acting parathyroid hormone analog,AVAEIQLMHQRAKWIQDARRRAFLHKLIAEIHTA,34,-,-,-,-,-
+1712,Fractalkine,XHHGVTKCNITCSKMTSKIPVALLIHYQQNQASCGKRAIILETRQHRLFCADPKEQWVKDAMQHLDRX,68,-,-,-,-,-
+1713,Peptide-20,HXQGTFTSDKSKYLDERAAQDFVQWLLDX,29,-,-,-,-,-
+1714,IP15,ISXGILLDLSR,11,-,-,-,-,-
+1715,PTH,AVAEIQLMHQRAKWIQDARRRAFLHKLIAEIHX,33,-,-,-,-,-
+1716,PTHrP[1-36],AVSEHQLLHDKGKSIQDLRRRFFLHHLIAEIH,32,-,-,-,-,-
+1717,C089,XKPXWX,6,-,-,-,-,-
+1718,Neuromedin U-25 (human),FLFRPRNQ,8,-,-,-,-,-
+1719,MEDI0382,HSQGTFTSDKSEYLDSERAQDFVAWLEAGX,30,-,-,-,-,-
+1720,DAMGO,YAGFG,5,-,-,-,-,-
+1721,PMX53,FXPXWR,6,-,-,-,-,-
+1722,ePTH,XVXEIQLMHQXAKWLNSXERVEWLRKKLQDVHNYXXXXXXXXX,43,-,-,-,-,-
+1723,Stromal cell-derived factor 1,LRHQSLSYRCPCRFFESHVARANVKHLKILNTPNCALQIVARLKNNNRQVCIDPKLKWIQEYLEKALNK,69,-,-,-,-,-
+1724,sovateltide,DEEAVYFAHLDIIW,14,-,-,-,-,-
+1725,KGCHM07,XXFXXX,6,-,-,-,-,-
+1726,gastric inhibitory polypeptide (human) - Incretin,GQTAGELYQRWERYRRECQETLAAAEPPSGLACNGSFDMYVCWDYAAPNATARASCPWYLPWHHHVAAGFVLRQCGSDGQWGLWRDHTQCENPEFLDQRLILERLQVMYTVGYSLSLATLLLALLILSLFRRLHCTRNYIHINLFTSFMLRAAAILSRDRLLPRPGPYLGDQALALWNQALAACRTAQIVTQYCVGANYTWLLVEGVYLHSLLVLVEEGHFRYYLLLGWGAPALFVIPWVIVRYLYENTQCWERNEVKAIWWIIRTPILMTILINFLIFIRILGILLSKLRTRDYRLRLARSTLTLVPLLGVHEVVFAPVTEEQARGALRFAKLGFEIFLSSFQGFLVSVLYCFINKEVQSEIRRGWHHCR,371,-,-,-,-,-
+1727,TRV026,XRVYYHPXX,9,-,-,-,-,-
+1728,Alpha-factor mating pheromone,WHWLQLKPGQPMY,13,-,-,-,-,-
+1729,CCL15(27-92),HFAADCCTSYISQSIPCSLMKSYFETSSECSKPGVIFLTKKGRQVCAKPSGPGVQDCMKKLKPY,64,-,-,-,-,-
+1730,glucagon-like peptide 1-(7-37),HAEGTFTSDVSSYLEGQAAKEFIAWLVKGRG,31,-,-,-,-,-
+1731,apelin receptor early endogenous ligand,LQRRCMPLHSRVPFP,15,-,-,-,-,-
+1732,C-C motif chemokine 2,QPDAINAPVTCCYNFTNRKISVQRLASYRRITSSKCPKEAVIFKTIVAKEICADPKQKWVQDSMDHLDK,69,-,-,-,-,-
+1733,vasopressin,,,-,-,-,-,-
+1734,C5a,,,-,-,-,-,-
+1735,gastric inhibitory polypeptide,,,-,-,-,-,-
+1736,RFRP-3,,,-,-,-,-,-
+1737,PAR2 peptide,,,-,-,-,-,-
+1738,orexin-A,,,-,-,-,-,-
+1739,glucagon-like peptide 2,,,-,-,-,-,-
+1740,urocortin 2,,,-,-,-,-,-
+1741,ghrelin,,,-,-,-,-,-
+1742,[Pyr<sup>1</sup>]apelin-13,,,-,-,-,-,-
+1743,thrombin,,,-,-,-,-,-
+1744,PrRP-20,,,-,-,-,-,-
+1745,TIP39,,,-,-,-,-,-
+1746,galanin,,,-,-,-,-,-
+1747,neuromedin U-25,,,-,-,-,-,-
+1748,urotensin-II,,,-,-,-,-,-
+1749,WKYMVM,,,-,-,-,-,-
+1750,gastrin-releasing peptide,,,-,-,-,-,-
+1751,"[125I][D-Tyr6,β-Ala11,Phe13,Nle14]bombesin-(6-14)",,,-,-,-,-,-
+1752,amylin,,,-,-,-,-,-
+1753,[Pyr<sup>1</sup>]apelin-13,XRPRLSHKGPMPF,13,-,-,-,-,-
+1754,MM07,CRPRLCHKGPMPF,13,-,-,-,-,-
+1755,TRV027,XRVYIHPA,8,-,-,-,-,-
